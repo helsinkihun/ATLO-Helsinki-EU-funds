@@ -34,16 +34,29 @@ Hungary is eligible for a total of EUR 22 billion from 8 EU Funds in the 2021-20
 
 
 var ch1=`
-The biggest proportion of EU funds are allocated to EDIOP, while the smallest programme is HFOP. In contrast with the other 10 programmes,  IOP does not foresee development goals. IOP funds are designed to improve organizational, technical and human resources of national authorities managing the implementation of the EU budget for the efficient and timely utilisation of Union funds. <br><br>
+Operational Programmes of Hungary
+Hungary is eligible for a total of EUR 22 billion from 8 EU Funds in the 2021-2027 programming period.  The 22 billion is distributed into 10 + 1 operational programmes:
+1.	Integrated Transport Development Operational Programme Plus (ITDOP PLUS)
+2.	Territorial and Settlement Development Operational Programme Plus (TSDOP PLUS)
+3.	Environmental and Energy Efficiency Operational Programme Plus (EEEOP PLUS)
+4.	Economic Development and Innovation Operational Programme Plus (EDIOP PLUS)
+5.	Human Resources Development Operational Programme Plus (HRDOP PLUS)
+6.	Digital Renewal Operational Programme Plus (DROP PLUS)
+7.	Hungarian Fisheries Operational Programme Plus (HFOP PLUS)
+8.	Programme of Hungary for support from the AMIF (AMIF)
+9.	Programme of Hungary for support from the ISF (ISF)
+10.	Programme of Hungary for support from BMVP (BMVP)
++	Implementation Operational Programme Plus (IOP PLUS)
+`
+The biggest portion of EU funds is allocated to EDIOP, while the smallest programme is HFOP. In contrast with the other 10 programmes,  IOP does not foresee development goals. IOP funds are designed to improve organizational, technical and human resources of national authorities managing the implementation of the EU budget for the efficient and timely utilisation of Union funds. 
 Operational Programmes are built of so-called specific objectives setting out minor development goals which are consistent with the main priorities of the programme. For example HRDOP Plus, which foresees developments in public education and social services, consists of 8 special objectives. There are special objectives which aim to strengthen Roma integration, improve labour market conditions for women or raise salaries of teachers in public education. 
 
-`
 
 var ch2=`
-<b>A közös rendelkezések alapján befagyasztott pénzek</b><br><br>
-A közös rendelkezések lényege, hogy az uniós támogatások felhasználására kötelező előfeltételeket állapítanak meg. A programok összes egyedi célkitűzésnél biztosítani kell, hogy a fejlesztés megvalósítása során nem sérülnek az <a href="https://commission.europa.eu/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_hu" target="_blank">Unió Alapjogi Chartájában</a> foglalt jogok. Három pénzügyi alapnál (Európai Regionális Fejlesztési Alap, Európai Szociális  Alap Plusz, a Kohéziós Alap) szakpolitikai feltételeknek is meg kell felelni. Az Európai Bizottság értékeli és jóváhagyja a tagállamok által benyújtott programokat, adott esetben pedig feltünteti, hogy az előfeltételek mely egyedi célkitűzés(ek)nél nem teljesültek. Amennyiben egy jogsértés kapcsolatba hozható egy egyedi célkitűzéssel, akkor ennek a célnak a megvalósítására uniós pénz nem használható fel.<br><br>
-<ol type="A" start="1"><li><b>Igazságszolgáltatás függetlensége (Charta 47. cikk)</b></li></ol><br>
-A magyar programokat érintő legsúlyosabb jogsértés az igazságszolgáltatással kapcsolatos. Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen a magyar költségvetés egészét, tehát az összes operatív program <b>összes egyedi célkitűzését</b> érinti az azonosított Charta sérelem. Ez alól kivételt képez a VOP Plusz, amely nem tartalmaz valódi fejlesztési célt, és ahhoz tartozó egyedi célkitűzéseket. A VOP Plusz kezdettől felhasználhatók az uniós költségvetési tervet végrehajtó magyar hatóságok fejlesztésére. <br><br>
+<b>EU funds suspended under the Common Provisions Regulation (CPR)</b><br><br>
+The common provisions stipulate compulsory preconditions that must be fulfilled. MSs must ensure that freedoms and human rights enshrined in the Charter are respected during the implementation of  the national operative programmes. Moreover, with regard to three Funds (European Regional Development Fund, European Social Fund, Cohesion Fund) MSs may comply with thematic enabling conditions for the achievement of the specific objectives in the operational programmes.<br><br>
+<ol type="A" start="1"><li><b>A.	Independence of the judiciary (Article 47 of the Charter)</b></li></ol><br>
+The most serious infringement affecting Hungarian programmes relates to the deficiencies in the independence of the judiciary. The European Commission has found that the justice system in Hungary fails to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of the Charter cannot be guaranteed. As a result, all the specific objectives of all Hungarian operational programmes, are affected by the identified Charter violation. The exception to this is the VOP PLUS, which does not contain development priorities and related specific objectives. VOP PLUS funding is used for the development of Hungarian authorities implementing the EU budget. <br><br>
 <i><b>Az igazságszolgáltatási problémák orvoslásáig 21,3 milliárd euró marad zárolva az uniós költségvetésből.</b></i>
 
 `
