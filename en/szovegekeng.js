@@ -272,14 +272,26 @@ var ch20=`
 <b>Recovery and Resilience Facility</b><br><br>
 In addition to the EU's Multiannual Financial Framework, Member States may also benefit from the Recovery and Resilience Facility (RRF), which aims to tackle the effects of the economic crisis induced by the COVID19 pandemic.<br><br>
 Member States prepare national recovery plans which may set out “milestones” in the reform process and an indicative timetable for the reforms to be implemented. Recovery plans shall be consistent with the main recovery objectives of the EU as well as country-specific recommendations issued in multiple EU review cycles (i. e. the European Semester and the Annual Rule of Law Report).<br><br>
-Hungary's national plan was adopted by the Council on 15 December 2022. The Hungarian recovery plan outlines a reform process which is designed to improve socio-economic resilience as well as significantly advance green transition. The envisaged reforms and investments cover 9 policy areas:
-
+Hungary's national plan was adopted by the Council on 15 December 2022. The Hungarian recovery plan outlines a reform process which is designed to improve socio-economic resilience as well as significantly advance green transition. The envisaged reforms and investments cover 9 policy areas:<br><br>
+<ol type='1' >
+        <li>Demography and public education</li>
+        <li>Qualified and competitive workforce</li>
+        <li>Catching up settlements</li>
+        <li>Water management</li>
+        <li>Green transportation</li>
+        <li>Green energy</li>
+        <li>Sustainable waste management</li>
+        <li>Health</li>
+        <li>Governance and public administration</li>
+    </ol>
+Member States may submit requests for payments to the Commission in accordance with the advancement of the envisaged reforms, following the achievement of a set of milestones indicated in their national plan.<br><br>
+Hungary is eligible for EUR 5.8 billion in grant and EUR 9.4 billion in loan under the RRF. The current recovery plan includes the maximum amount of grant and EUR 3.9 billion in loan for the achievement of the development objectives. There is additional funding of EUR 700 million to reduce dependency on Russian fossil fuels. The reforms set out in the recovery plan shall be completed by 31 August 2026.<br><br>
 
 `
 
 var ch21=`
-Az országban tapasztalható rendszerszintű korrupció és a bíróságok független működésébe való beavatkozások miatt Magyarország Helyreállítási Terve a szakpolitikai  mérföldköveken és célkitűzéseken túl 27, úgynevezett szupermérföldkövet is tartalmaz, amelyek elérése a helyreállítási forHUN RRP Grantrások lehívásának feltétele. A szupermérföldkövek az Unió pénzügyi érdekeinek védelméhez kapcsolódó reformcélok, amelyek a bíróságok független működését és a korrupcióellenes rendszer hatékonyságát hivatottak biztosítani. <br><br>
-<i><b>A 27 szupermérföldkő által jelzett reformok végrehajtásáig 10,4 milliárd euró marad zárolva.</b></i>
+As a consequence of systemic corruption and issues related to the independence of the judiciary, Hungary's recovery plan, in addition to the regular milestones and objectives, also includes 27 “super-milestones” which are designed to upgrade the national anti-corruption framework and strengthen the integrity of the judiciary for the protection of the Union’s financial interests.The identified “super milestones” shall be fulfilled before the submission of the first payment request under the RRF.<br><br>
+<i><b>Recovery funding of EUR 9,5 billion remains conditional on the achievement of the 27 “super milestones”.</b></i>
 
 `
 
