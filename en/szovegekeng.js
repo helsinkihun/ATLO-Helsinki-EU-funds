@@ -50,8 +50,8 @@ The most serious infringement affecting Hungarian programmes relates to the defi
 <li>Removing obstacles to references for preliminary rulings to the Court of Justice of the European Union</li>
 <li>Removing the possibility for public authorities to challenge final decisions before the Constitutional Court</li>
 </ol>
-The judicial reform which had been designed to strengthen the independence of the judiciary was adopted by the Hungarian Parliament on 3 May 2023 and submitted by the Government to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission’s decision to approve the judicial lifted the suspension of all relevant operational programmes’s funding.
-<i><b>Az igazságszolgáltatási problémák orvoslásáig 21,3 milliárd euró marad zárolva az uniós költségvetésből.</b></i>
+The judicial reform which had been designed to strengthen the independence of the judiciary was adopted by the Hungarian Parliament on 3 May 2023 and submitted by the Government to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission’s decision to approve the judicial lifted the suspension of all relevant operational programmes’s funding.<br><br>
+<i><b>The decision unfroze EUR 8,8 billion funding for Hungary under the 2021-2027 MFF</b></i>
 
 `
 
@@ -69,16 +69,16 @@ Out of the four detected issues pertaining to fundamental rights, only the probl
 
 
 var ch4=`
-<ol type="A" start="2"><li><b>Művészet és tudomány szabadsága (Charta 13. cikk):</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy azokon az egyetemeken, amelyek fenntartását közérdekű vagyonkezelő alapítványok vették át, nem érvényesül a tudomány szabadsága. A kormány által kinevezett kuratóriumi tagok ugyanis olyan kiterjedt kontrollt gyakorolnak az egyetemek tudományos közössége felett, amely alkalmas például az oktatói kinevezések, a tananyag, kutatási projektek és publikációs témák közvetlen politikai befolyásolására.<br><br>
-Ez a probléma kapcsolatba hozható a GINOP PLUSZ és a DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek valamilyen módon a felsőoktatási intézmények támogatását irányozzák elő. Itt fennáll annak a veszélye, hogy a modellváltáson átesett egyetemek is részesedhetnének uniós támogatásból, amelyeket politikailag befolyásolt projektekre fordíthatnának:<br><br>
-GINOP PLUSZ:
-<ul><li>Hátrányos helyzetű tanulók felsőoktatási lemorzsolódását csökkentő programok (ESO4.6)</li></ul>
-<ul><li>Felsőoktatási intézmények kutatási és fejlesztési kapacitásait erősítő programok (RSO1.1)</li></ul>
-<ul><li>Kis- és közepes vállalkozások munkavállalóinak készségfejlesztését célzó képzések biztosítása felsőoktatási intézmények részvételével (RSO1.4)</li></ul>
-DIMOP PLUSZ:
-<ul><li>Hazai vállalkozások és felsőoktatási intézmények által közösen megvalósított kutatási és fejlesztési tevékenységeinek támogatása (DRSO1.1)</li></ul>
-<i><b>A tudomány szabadságának visszaállításáig 1,95 milliárd euró marad zárolva.</b></i>
+<ol type="A" start="2"><li><b>Freedom of the arts and sciences (Article 13 of the Charter):</b></li></ol><br>
+The European Commission has found that scientific research is not free of constraints at those universities which have been transformed from public universities into publicly funded private universities, maintained by newly established public interest management foundations, led by board of trustees directly appointed by the Government for life. At these higher education institutions, there is a serious risk that the courses and training, as well as research projects, are politically influenced. Moreover, there is a risk that staff involved in the implementation of EU funded projects will be selected on the basis of their alignment with the university management’s political views instead of merit and expertise.<br><br>
+Violations of academic freedom relate to those specific objectives of the EDIOP PLUS and DROP PLUS programmes which set out higher education development goals.<br><br>
+EDIOP PLUS:
+<ul><li>Empowerment of disadvantaged students (ESO4.6)</li></ul>
+<ul><li>Research and development capacity building for higher education institutions (RSO1.1)</li></ul>
+<ul><li>Capacity building for small and medium size enterprises (RSO1.4)</li></ul>
+DROP PLUS:
+<ul><li>Fostering cooperation between higher education institutions and private enterprises in research and development (DRSO1.1)</li></ul>
+<i><b>EU funding of EUR 2,7 billion suspended until the violations of academic freedom are remedied</b></i>
 
 
 `
