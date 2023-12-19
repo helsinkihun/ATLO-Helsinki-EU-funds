@@ -43,12 +43,13 @@ var ch2=`
 The common provisions stipulate compulsory preconditions that must be fulfilled. MSs must ensure that freedoms and human rights enshrined in the Charter are respected during the implementation of  the national operative programmes. Moreover, with regard to three Funds (European Regional Development Fund, European Social Fund, Cohesion Fund) MSs may comply with thematic enabling conditions for the achievement of the specific objectives in the operational programmes.<br><br>
 <ol type="A" start="1"><li><b>A.	Independence of the judiciary (Article 47 of the Charter)</b></li></ol><br>
 The most serious infringement affecting Hungarian programmes relates to the deficiencies in the independence of the judiciary. The European Commission has found that the justice system in Hungary fails to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of the Charter cannot be guaranteed. As a result, all the specific objectives of all Hungarian operational programmes, are affected by the identified Charter violation. The exception to this is the VOP PLUS, which does not contain development priorities and related specific objectives. VOP PLUS funding is used for the development of Hungarian authorities implementing the EU budget.<br><br>
-Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding had been suspended until the identified issues were addressed. To unblock the related funds, Hungary committed to strengthen elements of judicial independence in four areas:
-Strengthening the role and powers of the National Judicial Council to counterbalance the powers of the President of the National Office for the Judiciary
-Strengthening judicial independence of the Supreme Court (Kúria)
-Removing obstacles to references for preliminary rulings to the Court of Justice of the European Union
-Removing the possibility for public authorities to challenge final decisions before the Constitutional Court
-
+<br><br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding had been suspended until the identified issues were addressed. To unblock the related funds, Hungary committed to strengthen elements of judicial independence in four areas:
+<ol type='1' >
+<li>Strengthening the role and powers of the National Judicial Council to counterbalance the powers of the President of the National Office for the Judiciary</li>
+<li>Strengthening judicial independence of the Supreme Court (Kúria)</li>
+<li>Removing obstacles to references for preliminary rulings to the Court of Justice of the European Union</li>
+<li>Removing the possibility for public authorities to challenge final decisions before the Constitutional Court</li>
+</ol>
 The judicial reform which had been designed to strengthen the independence of the judiciary was adopted by the Hungarian Parliament on 3 May 2023 and submitted by the Government to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission’s decision to approve the judicial lifted the suspension of all relevant operational programmes’s funding.
 <i><b>Az igazságszolgáltatási problémák orvoslásáig 21,3 milliárd euró marad zárolva az uniós költségvetésből.</b></i>
 
@@ -63,7 +64,7 @@ Hungary fails to respect multiple rights enshrined in the EU Charter of Fundamen
 <li>The right to asylum is denied due to systemic shortcomings of the Hungarian asylum system.</li>
 <li>The right to an effective remedy and a fair trial is not guaranteed by the Hungarian judiciary.</li>
 </ol>
-<br><br>Out of the four detected issues pertaining to fundamental rights, only the problems around judicial independence have been addressed so far. This led to the lifting of EUR 21.3 billion suspension, however, EUR 2.7 billion remains blocked due fundamental right violations in the remaining three areas.
+Out of the four detected issues pertaining to fundamental rights, only the problems around judicial independence have been addressed so far. This led to the lifting of EUR 21.3 billion suspension, however, EUR 2.7 billion remains blocked due fundamental right violations in the remaining three areas.
 `
 
 
