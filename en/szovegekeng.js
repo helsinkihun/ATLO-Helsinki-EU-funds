@@ -207,72 +207,73 @@ HRDOP PLUS:
 `
 
 var ch15=`
-<ol type="a" start="8"><li><b>Az oktatási és képzési rendszer minden szintjét felölelő szakpolitikai keret</b></li></ol><br>
-A szakpolitikai keret hiánya három operatív program összesen hat egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az állami oktatáspolitika tervezése nem lesz szakmaibb.<br><br>
-GINOP PLUSZ:
-<ul><li>A szakképzési rendszer fejlesztése (RSO4.2)</li></ul>
-<ul><li>Hátrányos helyzetű tanulókat segítő programok megvalósítása a felsőoktatás és a szakképzés területén (ESO4.6)</li></ul>
-EFOP PLUSZ:
-<ul><li>A köznevelésben dolgozó pedagógusok átlagbérének növelésével a bérszínvonal tartós rendezése (EESO4.5)</li></ul>
-<ul><li>Pedagógusok továbbképzési rendszerének megújítása (EESO4.6)</li></ul>
-DIMOP PLUSZ:
-<ul><li>A digitális oktatás infrastruktúrájának fejlesztése (ESO4.7)</li></ul>
-<ul><li>A lakosság digitális kompetenciáinak fejlesztése felnőttképzés révén (DESO4.5)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 3,3 milliárd euró marad befagyasztva, beleértve a tanárok bérfejlesztésére elkülönített támogatásokat.</b></i>
+<ol type="a" start="8"><li><b>Strategic policy framework for the education and training system at all levels.</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 6 specific objectives of 3 operational programmes until the planning of public education policies becomes more strategic.<br><br>
+EDIOP PLUS:
+<ul><li>Improvement of the vocational education system (RSO4.2)</li></ul>
+<ul><li>Training and empowerment of disadvantaged students in higher and vocational education (ESO4.6)</li></ul>
+HRDOP PLUS:
+<ul><li>Sustainable salary increase for teachers in public education (EESO4.5)</li></ul>
+<ul><li>In-service teacher’s training reform (EESO4.6)</li></ul>
+DROP PLUS:
+<ul><li>Development of IT infrastructure in public education (ESO4.7)</li></ul>
+<ul><li>Increasing digital competences of the population through adult education.  (DESO4.5)</li></ul>
+<i><b>EU funding of EUR 3,3 billion remains conditional on the fulfillment of the thematic enabling condition. </b></i>
 
 `
 
 var ch16=`
-<ol type="a" start="9"><li><b>A társadalmi befogadásra és a szegénység csökkentésére irányuló szakpolitikai keret</b></li></ol><br>
-A szakpolitikai keret hiánya két operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az állami szociálpolitika tervezése nem lesz szakmaibb.<br><br>
-TOP PLUSZ:
-<ul><li>Helyi szociális alapszolgáltatások fejlesztése (ESO4.8)</li></ul>
-EFOP PLUSZ:
-<ul><li>Hátrányos helyzetű emberek foglalkoztatásának fejlesztése, különös tekintettel a romákra (EESO4.8)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 793 millió euró marad befagyasztva</b></i>
+<ol type="a" start="9"><li><b>National strategic policy framework for social inclusion and poverty reduction</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 2 specific objectives of 2 operational programmes until the planning of social policies becomes more strategic.<br><br>
+TSDOP PLUS:
+<ul><li>Improvement of local social services. (ESO4.8)</li></ul>
+HRDOP PLUS:
+<ul><li>Promoting employment of disadvantaged people, with a special focus on Roma people (EESO4.8)</li></ul>
+<i><b>EU funding of EUR 793 million remains conditional on the fulfillment of the thematic enabling condition.</b></i>
 
 `
 
 var ch17=`
-<ol type="a" start="10"><li><b>A romák befogadására vonatkozó szakpolitikai keret</b></li></ol><br>
-A szakpolitikai keret hiánya két operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig a romák integrációját szolgáló állami intézkedések megtervezése nem lesz szakmaibb.<br><br>
-TOP PLUSZ:
-<ul><li>Marginalizált közösségek, a romák társadalmi-gazdasági integrációjának előmozdítása közösségfejlesztés, integrációs programok, infrastrukturális fejlesztések révén (ESO4.10)</li></ul>
-EFOP PLUSZ:
-<ul><li>Szegregált helyzetben élő emberek helyzetének komplex javítása (EESO4.10)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 89 millió euró marad befagyasztva.</b></i>
+<ol type="a" start="10"><li><b>National Roma inclusion strategic policy framework</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 2 specific objectives of 2 operational programmes until the planning of Roma integration policies becomes more strategic.<br><br>
+TSDOP PLUS:
+<ul><li>Promotion of the socio-economic integration of marginalised communities and Roma people through community development, integration programmes and infrastructure development. (ESO4.10)</li></ul>
+HRDOP PLUS:
+<ul><li>Implementation of complex anti-segregation programmes. (EESO4.10)</li></ul>
+<i><b>EU funding of EUR 89 million remains conditional on the fulfillment of the thematic enabling condition.</b></i>
 
 `
 
 var ch18=`
-<ol type="a" start="11"><li><b>Az egészségügyre és tartós ápolás-gondozásra vonatkozó szakpolitikai keret</b></li></ol><br>
-A szakpolitikai keret hiánya két operatív program összesen három egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az egészségügy fejlesztésének állami tervezése nem lesz szakmaibb.<br><br>
-TOP PLUSZ:
-<ul><li>A szociális ellátásban dolgozók helyzetének javítása képzések, illetve mobilitási- és lakhatási támogatások révén (RSO4.5)</li></ul>
-<ul><li>Az egészségügy infrastrukturális fejlesztése (ESO4.11)</li></ul>
-EFOP PLUSZ:
-<ul><li>Fogyatékossággal élő személyeknek, pszichiátriai betegeknek, időseknek, valamint hajléktalanoknak nyújtott szolgáltatások fejlesztése (EESO4.11)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 407 millió euró marad befagyasztva.</b></i>
+<ol type="a" start="11"><li><b>Strategic policy framework for health and long-term care</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 3 specific objectives of 2 operational programmes until the planning of healthcare policies becomes more strategic.<br><br>
+TSDOP PLUS:
+<ul><li>Improving the situation of social care workers through training, mobility and housing support (RSO4.5)</li></ul>
+<ul><li>Infrastructure development in healthcare. (ESO4.11)</li></ul>
+HRDOP PLUS:
+<ul><li>Improving services for people with disabilities, psychiatric patients, the elderly and the homeless. (EESO4.11)</li></ul>
+<i><b>EU funding of EUR 407 million remains conditional on the fulfillment of the thematic enabling condition.</b></i>
 
 `
 
 
 
 var ch19=`
-<b>How much funding has been blocked under the conditionality mechanism?</b><br><br>
-In its decision of 15 December 2022, the Council blocked EU funds for Hungary until the proper implementation of 17 remedial measures which are designed to address weaknesses and irregularities related to public procurement procedures, national anti-corruption framework and the effectiveness of investigation and prosecution of corruption. Under the procedure, the government must report to the European Commission every three months on the state of implementation of the reforms. The Member State concerned may, at any time, adopt new remedial measures and submit to the Commission a written notification including evidence to show that the identified shortcomings had been sufficiently addressed. The Commission may assess the implementation of new measures and in the event of positive assessment proposes the Council to withdraw the adopted financial measures or reduce suspension. <br><br>
-Up to this date, the implementation of the 17 remedial measures are incomplete. The financial measures adopted by the Council are in place unchanged. As a result, 55 % of the budgetary commitments are suspended under 3 operational programmes that are expected to be implemented mainly through public procurement.<br><br>
-<ul><li>Integrated Transport Development Operational Programme Plus</li>
-<li>Territorial and Settlement Development Operational Programme Plus</li>
-<li>Environmental and Energy Efficiency Operational Programme Plus</li></ul>
+<b>Rule of Law Conditionality Mechanism</b><br><br>
+In its decision of 15 December 2022, the Council blocked 55 % of the budgetary commitments under 3 operational programmes that are expected to be implemented mainly through public procurement (ITDOP PLUS, TSDOP PLUS, EEEOP PLUS).<br><br>
+The withdrawal of the financial measures is conditional on the proper implementation of 17 remedial measures which are designed to address weaknesses and irregularities related to public procurement procedures, national anti-corruption framework and the effectiveness of investigation and prosecution of corruption.<br><br>
+In the framework of the procedure, the Hungarian Government reports every three months on the state of implementation of the reforms to the European Commission. New evidence can be submitted any time in the form of a written notification, to show that the identified shortcomings had been sufficiently addressed. The Commission may assess the implementation of new measures and, in the event of positive assessment, propose the Council to withdraw the adopted financial measures or reduce suspension.<br><br> 
+Up to this date, the implementation of the 17 anti-corruption measures are incomplete. Thus, the financial measures adopted by the Council for the protection of the Union’s financial interests are in place, unchanged.
+
 
 `
 
 var ch20=`
-<b>Ha már elfogadták az ország Helyreállítási Tervét, miért vannak befagyasztva a helyreállítási alap kifizetései mégis?</b><br><br>
-A többéves EU-s költségvetés támogatásain túl a tagállamok a COVID-járvány okozta gazdasági válság kezelésére létrehozott helyreállítási alap (RRF) forrásaiból is részesedhetnek. Ehhez szintén létre kell hozni egy nemzeti tervet, amely a helyreállítási forrásokból finanszírozott fejlesztéseket tartalmazza. Magyarország Helyreállítási Tervét 2022. november 30-án hagyta jóvá az Európai Bizottság, majd a Tanács december 15-én fogadták azt el.<br><br>
-A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek eredménye egy ellenállóbb, fenntarthatóbb, zöldebb és digitálisabb gazdaság. Az eszköz 9 területre összpontosít: demográfia és közoktatás, versenyképes munkaerő, felzárkózó települések, vízgazdálkodás, környezetbarát közlekedés, fenntartható energiafogyasztás, a hulladék újrahasznosítása, egészségügy, közigazgatás. A Helyreállítási Tervben felvázolt reformfolyamat során úgynevezett mérföldköveket, valamint célokat kell teljesíteni. A Bizottság a teljesített mérföldkövek és célok alapján folyósítja a helyreállítási forrásokat.<br><br>
-A fejlesztések megvalósítására Magyarország 5,8 milliárd euró vissza nem térítendő támogatásra jogosult, valamint 9,4 milliárd euró kedvezményes hitelkeretet különítettek el neki. A kormány a rendelkezésre álló hitelkeretből eddig 3,9 milliárdra jelentette be igényét, ezen túl pedig az eredeti támogatási összeg kiegészült egy további, 700 millió eurós csomaggal, amelyet az orosz energiabehozatal kiváltására lehet felhasználni (REPowerEU). A helyreállítási reform végrehajtására 2026. augusztus 31-ig van lehetőség.
+<b>Recovery and Resilience Facility</b><br><br>
+In addition to the EU's Multiannual Financial Framework, Member States may also benefit from the Recovery and Resilience Facility (RRF), which aims to tackle the effects of the economic crisis induced by the COVID19 pandemic.<br><br>
+Member States prepare national recovery plans which may set out “milestones” in the reform process and an indicative timetable for the reforms to be implemented. Recovery plans shall be consistent with the main recovery objectives of the EU as well as country-specific recommendations issued in multiple EU review cycles (i. e. the European Semester and the Annual Rule of Law Report).<br><br>
+Hungary's national plan was adopted by the Council on 15 December 2022. The Hungarian recovery plan outlines a reform process which is designed to improve socio-economic resilience as well as significantly advance green transition. The envisaged reforms and investments cover 9 policy areas:
+
 
 `
 
