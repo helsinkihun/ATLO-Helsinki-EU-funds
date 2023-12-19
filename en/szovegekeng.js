@@ -57,7 +57,9 @@ The judicial reform which had been designed to strengthen the independence of th
 var ch3=`
 <b>Additional funding suspended for the violations of fundamental rights and freedoms</b><br><br>
 Hungary fails to respect multiple rights enshrined in the EU Charter of Fundamental Rights. The breaches are related to four areas:<br><br>
-A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a fennmaradó jogsértések orvoslására.
+<ol type='1' >
+<li>Academic freedom is infringed in those Hungarian universities that are maintained by public interest asset management trusts (KEKVAs).</li>
+
 `
 
 
