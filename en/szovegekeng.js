@@ -59,7 +59,11 @@ var ch3=`
 Hungary fails to respect multiple rights enshrined in the EU Charter of Fundamental Rights. The breaches are related to four areas:<br><br>
 <ol type='1' >
 <li>Academic freedom is infringed in those Hungarian universities that are maintained by public interest asset management trusts (KEKVAs).</li>
-
+<li>Rights of persons belonging to LGBTQI minorities are violated by provisions of Hungary’s homophobic propaganda law (Act LXXIX of 2021).</li>
+<li>The right to asylum is denied due to systemic shortcomings of the Hungarian asylum system.</li>
+<li>The right to an effective remedy and a fair trial is not guaranteed by the Hungarian judiciary.</li>
+</ol>
+<br><br>Out of the four detected issues pertaining to fundamental rights, only the problems around judicial independence have been addressed so far. This led to the lifting of EUR 21.3 billion suspension, however, EUR 2.7 billion remains blocked due fundamental right violations in the remaining three areas.
 `
 
 
