@@ -34,23 +34,9 @@ Hungary is eligible for a total of EUR 22 billion from 8 EU Funds in the 2021-20
 
 
 var ch1=`
-Operational Programmes of Hungary
-Hungary is eligible for a total of EUR 22 billion from 8 EU Funds in the 2021-2027 programming period.  The 22 billion is distributed into 10 + 1 operational programmes:
-1.	Integrated Transport Development Operational Programme Plus (ITDOP PLUS)
-2.	Territorial and Settlement Development Operational Programme Plus (TSDOP PLUS)
-3.	Environmental and Energy Efficiency Operational Programme Plus (EEEOP PLUS)
-4.	Economic Development and Innovation Operational Programme Plus (EDIOP PLUS)
-5.	Human Resources Development Operational Programme Plus (HRDOP PLUS)
-6.	Digital Renewal Operational Programme Plus (DROP PLUS)
-7.	Hungarian Fisheries Operational Programme Plus (HFOP PLUS)
-8.	Programme of Hungary for support from the AMIF (AMIF)
-9.	Programme of Hungary for support from the ISF (ISF)
-10.	Programme of Hungary for support from BMVP (BMVP)
-+	Implementation Operational Programme Plus (IOP PLUS)
-`
-The biggest portion of EU funds is allocated to EDIOP, while the smallest programme is HFOP. In contrast with the other 10 programmes,  IOP does not foresee development goals. IOP funds are designed to improve organizational, technical and human resources of national authorities managing the implementation of the EU budget for the efficient and timely utilisation of Union funds. 
+The biggest portion of EU funds is allocated to EDIOP, while the smallest programme is HFOP. In contrast with the other 10 programmes,  IOP does not foresee development goals. IOP funds are designed to improve organizational, technical and human resources of national authorities managing the implementation of the EU budget for the efficient and timely utilisation of Union funds. <br><br>
 Operational Programmes are built of so-called specific objectives setting out minor development goals which are consistent with the main priorities of the programme. For example HRDOP Plus, which foresees developments in public education and social services, consists of 8 special objectives. There are special objectives which aim to strengthen Roma integration, improve labour market conditions for women or raise salaries of teachers in public education. 
-
+`
 
 var ch2=`
 <b>EU funds suspended under the Common Provisions Regulation (CPR)</b><br><br>
@@ -58,71 +44,65 @@ The common provisions stipulate compulsory preconditions that must be fulfilled.
 <ol type="A" start="1"><li><b>A.	Independence of the judiciary (Article 47 of the Charter)</b></li></ol><br>
 The most serious infringement affecting Hungarian programmes relates to the deficiencies in the independence of the judiciary. The European Commission has found that the justice system in Hungary fails to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of the Charter cannot be guaranteed. As a result, all the specific objectives of all Hungarian operational programmes, are affected by the identified Charter violation. The exception to this is the VOP PLUS, which does not contain development priorities and related specific objectives. VOP PLUS funding is used for the development of Hungarian authorities implementing the EU budget.<br><br>
 Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding had been suspended until the identified issues were addressed. To unblock the related funds, Hungary committed to strengthen elements of judicial independence in four areas:
-<li>Strengthening the role and powers of the National Judicial Council to counterbalance the powers of the President of the National Office for the Judiciary
-<li>Strengthening judicial independence of the Supreme Court (Kúria)
-<li>Removing obstacles to references for preliminary rulings to the Court of Justice of the European Union
-<li>Removing the possibility for public authorities to challenge final decisions before the Constitutional Court
+Strengthening the role and powers of the National Judicial Council to counterbalance the powers of the President of the National Office for the Judiciary
+Strengthening judicial independence of the Supreme Court (Kúria)
+Removing obstacles to references for preliminary rulings to the Court of Justice of the European Union
+Removing the possibility for public authorities to challenge final decisions before the Constitutional Court
 
 The judicial reform which had been designed to strengthen the independence of the judiciary was adopted by the Hungarian Parliament on 3 May 2023 and submitted by the Government to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission’s decision to approve the judicial lifted the suspension of all relevant operational programmes’s funding.
-<i><b>The decision unfroze EUR 88 billion funding for Hungary under the 2021-2027 MFF.</b></i>
+<i><b>Az igazságszolgáltatási problémák orvoslásáig 21,3 milliárd euró marad zárolva az uniós költségvetésből.</b></i>
 
 `
 
 var ch3=`
-<b>Additional funding suspended for violations of fundamental rights and freedoms</b><br><br>
-Hungary fails to respect multiple rights enshrined in the EU Charter of Fundamental Rights. The breaches are related to four areas:<br><br>
-<li>Academic freedom is infringed in those Hungarian universities that are maintained by public interest asset management trusts (KEKVAs).
-<li>Rights of persons belonging to LGBTQI minorities are violated by provisions of Hungary’s homophobic propaganda law (Act LXXIX of 2021). 
-<li>The right to asylum is denied due to systemic shortcomings of the Hungarian asylum system.
-<li>The right to an effective remedy and a fair trial is not guaranteed by the Hungarian judiciary.
-
+<b>További befagyasztási okok</b><br><br>
+Az uniós költségvetési források legnagyobb része azért került visszatartásra, mert Magyarország nem biztosítja megfelelően az Unió Alapjogi Chartájában szereplő jogokat. A jogsértések négy területet érintenek, amelyek közül az igazságszolgáltatási problémák orvoslásra kerültek. Ezzel a magyar források csaknem egészét blokkoló 21,3 milliárdos befagyasztás megszűnt. A maradék három területen fennálló jogsértések miatt azonban 2,7 milliárd euró továbbra is zárolva marad.<br><br>
+A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a fennmaradó jogsértések orvoslására.
 `
 
 
 var ch4=`
-<ol type="A" start="2"><li><b>Freedom of the arts and sciences (Article 13 of the Charter):</b></li></ol><br>
-The European Commission has found that scientific research is not free of constraints at those universities which have been transformed from public universities into publicly funded private universities, maintained by newly established public interest management foundations, led by board of trustees directly appointed by the Government for life. At these higher education institutions, there is a serious risk that the courses and training, as well as research projects, are politically influenced. Moreover, there is a risk that staff involved in the implementation of EU funded projects will be selected on the basis of their alignment with the university management’s political views instead of merit and expertise.<br><br>
-Violation of academic freedom relates to those specific objectives of the EDIOP PLUS and DROP PLUS programmes which set out higher education development goals.<br><br>
-EDIOP PLUS:
-<ul><li>Empowerment programmes for disadvantaged students (ESO4.6)</li></ul>
-<ul><li>Strengthening the research and development capacities of higher education institutions (RSO1.1)</li></ul>
-<ul><li>Capacity building for small and medium size enterprises (RSO1.4)</li></ul>
-DROP PLUS:
-<ul><li>Fostering cooperation between higher education institutions and private enterprises in research and development programmes  (DRSO1.1)</li></ul>
-<i><b>EUR 2,7 billion suspended until the violations of academic freedom are remedied</b></i>
-
+<ol type="A" start="2"><li><b>Művészet és tudomány szabadsága (Charta 13. cikk):</b></li></ol><br>
+Az Európai Bizottság megállapította, hogy azokon az egyetemeken, amelyek fenntartását közérdekű vagyonkezelő alapítványok vették át, nem érvényesül a tudomány szabadsága. A kormány által kinevezett kuratóriumi tagok ugyanis olyan kiterjedt kontrollt gyakorolnak az egyetemek tudományos közössége felett, amely alkalmas például az oktatói kinevezések, a tananyag, kutatási projektek és publikációs témák közvetlen politikai befolyásolására.<br><br>
+Ez a probléma kapcsolatba hozható a GINOP PLUSZ és a DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek valamilyen módon a felsőoktatási intézmények támogatását irányozzák elő. Itt fennáll annak a veszélye, hogy a modellváltáson átesett egyetemek is részesedhetnének uniós támogatásból, amelyeket politikailag befolyásolt projektekre fordíthatnának:<br><br>
+GINOP PLUSZ:
+<ul><li>Hátrányos helyzetű tanulók felsőoktatási lemorzsolódását csökkentő programok (ESO4.6)</li></ul>
+<ul><li>Felsőoktatási intézmények kutatási és fejlesztési kapacitásait erősítő programok (RSO1.1)</li></ul>
+<ul><li>Kis- és közepes vállalkozások munkavállalóinak készségfejlesztését célzó képzések biztosítása felsőoktatási intézmények részvételével (RSO1.4)</li></ul>
+DIMOP PLUSZ:
+<ul><li>Hazai vállalkozások és felsőoktatási intézmények által közösen megvalósított kutatási és fejlesztési tevékenységeinek támogatása (DRSO1.1)</li></ul>
+<i><b>A tudomány szabadságának visszaállításáig 1,95 milliárd euró marad zárolva.</b></i>
 
 
 `
 
 var ch5=`
-<ol type="A" start="3"><li><b>LGBTQI Rights (Article 1, 7, 11, 21 of the Charter):</b></li></ol><br>
-The European Commission found that Act LXXIX, Hungary’s homophobic "propaganda law" violates the rights to human dignity, respect for private and family life, freedom of thought and conscience and non-discrimination of persons belonging to sexual minorities by prohibiting the portrayal of divergence from self-identity corresponding to sex at birth, sex change or homosexuality' for individuals under the age of 18.<br><br>
-In  July 2021, the Commission launched an infringement procedure regarding the legislation due to breaches of EU law, the case is pending in front of the court of Justice of the EU.<br><br>
-Violation of LGBTQI rights relates to those special objectives of EDIOP PLUS, HRDOP PLUS and DROP PLUS which set out goals for the development of children in public education.
-EDIOP PLUS:
-<ul><li>Training for in-service teachers in vocational schools and development an advanced career guidance system for vocational students (ESO4.5)</li></ul>
-HRDOP PLUS:
-<ul><li>Strengthening the educational integration of disadvantaged children (EESO4.11)</li></ul>
-<ul><li>Capacity building for parents and foster parents and training for workers in the social and child protection system (EESO4.6)</li></ul>
-DROP PLUS:
-<ul><li>Promoting digital education in public education and developing a digital curriculum (DESO4.5)</li></ul>
-<i><b>EUR 700 million remain suspended until LGBTQI right violations are remedied</b></i>
+<ol type="A" start="3"><li><b>Szexuális kisebbségekhez tartozó emberek jogai (Charta 1., 7., 11., 21. cikkei):</b></li></ol><br>
+Az Európai Bizottság megállapította, hogy a 2021 júniusában elfogadott „gyermekvédelmi törvény” (a homofób „propagandatörvény”) sérti a szexuális kisebbségekhez tartozók emberi méltósághoz, a magánélet védelméhez, a gondolat és lelkiismeret szabadságához, valamint a megkülönböztetésmentességhez való jogát azáltal, hogy a törvény tiltja a születési nemnek megfelelő önazonosságtól való eltérés és a homoszexualitás ábrázolását 18 éven aluliaknak szánt kiadványokban vagy szexuális felvilágosító képzéseken. A Bizottság ugyanebben a kérdésben a magyar állam  ellen indított kötelezettségszegési eljárásban már megállapított jogsértésekre hivatkozott. A kötelezettségszegési ügy jelenleg az Európai Unió Bírósága előtt van.<br><br>
+Ez a probléma kapcsolatba hozható a GINOP PLUSZ, EFOP PLUSZ és DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek közoktatásban részt vevő gyermekek fejlesztését irányozzák elő. Ezeken a területeken ugyanis politikai okokból kiszorulnak olyan potenciális pályázók, akik a szexuális kisebbségeket bemutató és a megkülönböztetésmentességet elősegítő anyagokat fejlesztenek:<br><br>
+GINOP PLUSZ:
+<ul><li>Oktatói továbbképzés szakiskolákban, valamint digitális tananyag fejlesztése és karriertanácsadási rendszer létrehozása szakképzésben tanulók számára (ESO4.5)</li></ul>
+EFOP PLUSZ:
+<ul><li>Hátrányos helyzetű gyermekek oktatási integrációjának erősítését szolgáló programok (EESO4.11)</li></ul>
+<ul><li>Szülők és nevelőszülők kompetenciafejlesztését, valamint a szociális és gyermekvédelmi rendszerben dolgozók képzését szolgáló programok (EESO4.6)</li></ul>
+DIMOP PLUSZ:
+<ul><li>A digitális oktatási formák szélesítése a közoktatásban, digitális tananyagfejlesztés, valamint a tanulók digitális kompetenciáinak erősítése (DESO4.5)</li></ul>
+<i><b>A szexuális kisebbséghez tartozók jogainak visszaállításáig 700 millió euró marad zárolva.</b></i>
 
 `
 
 var ch6=`
 
-<ol type="A" start="4"><li><b>Right to asylum (Article 18 of the Charter):</b></li></ol><br>
-The European Commission found that the right to asylum is not respected in Hungary due to systemic irregularities and shortcomings in the asylum system.<br><br>
-<br><br>
-In December 2020, the Court of Justice of the European Union (CJEU) ruled that the Hungarian Police's practice to collectively apprehend and expulse irregular migrants to Serbia without any assessment of their individual circumstances and without legal remedy, violates EU law. The practice bars asylum seekers from the asylum procedure, inconsistent with the prohibition of collective expulsion and deprives victims of the right to an effective judicial remedy, respect for private and family life, as well as the fundamental rights of children in concern. The implementation of the judgment is pending.<br><br>
-In November 2021, the CJEU also established, that provisions of the so-called “Stop-Soros” legislation criminalising the organisation of activities carried out to assist the initiation of applications for international protection, are inconsistent with EU law. The implementation of the judgment is pending.<br><br>
-Hungary introduced a pre-procedure that must be completed in a Hungarian Embassy in Belgrade or Kiev before the submission of an actual asylum claim in 2020. The CJEU delivered its judgment on the so-called “embassy system” in June 2023 establishing inconsistence between EU law and the Hungarian asylum system.<br><br>
-AMIF:
-<ul><li>Strengthening the Common European Asylum System (SOM1)</li></ul>
-<ul><li>Countering irregular migration (SOM3)</li></ul>
-<i><b>EUR 34 million suspended until violations of the right to asylum are remedied</b></i>
+<ol type="A" start="4"><li><b>A menedékjog (Charta 18. cikk):</b></li></ol><br>
+Az Európai Bizottság megállapította, hogy a magyar állam nem biztosítja a menekültügyi rendszerhez való hozzáférést az arra jogosultaknak. A Bizottság három konkrét jogsértést azonosított:<br><br>
+Az Európai Unió Bíróságának egy ítélete 2020 decemberében kimondta, hogy EU-s jogot sért a magyar rendőrség gyakorlata, hogy minden külföldi állampolgárt, aki jogalap nélkül tartózkodik az ország területén, egyéni körülményeinek bármiféle mérlegelése nélkül, azonnal és jogorvoslati lehetőség nélkül kényszerít vissza Szerbiába. Ez a jogsértő gyakorlat elzárja a menekülőket a menekültügyi eljárástól, és szembe megy a kollektív kiutasítás tilalmával. A visszakényszerítések továbbá sértik a menekülők magán- és családi élet tiszteletéhez fűződő jogát, a hatékony jogorvoslathoz és tisztességes eljáráshoz való jogát, valamint a menekülő gyermekek alapvető jogait. A gyakorlat <a href="https://helsinki.hu/eub-jogellenes-a-kulfoldiek-tomeges-visszakenyszeritese/"target="_blank">az uniós bíróság ítélete</a> óta mit sem változott.<br><br>
+Az Európai Unió Bíróságának <a href="https://helsinki.hu/jogeros-a-menekultek-segitoinek-buntetojogi-fenyegetese-unios-jogba-utkozik/"target="_blank">egy másik ítélete</a> 2021 novemberében megállapította, hogy a 2018 júniusában elfogadott civilellenes „Stop Soros törvénycsomag” rendelkezése, amely kriminalizálja a menedékkérőknek nyújtott segítséget, sérti a menekülők menedékhez való jogát.<br><br>
+A Bizottság emellett azt is megállapította, hogy <a href="https://helsinki.hu/wp-content/uploads/2023/06/Nincs-menedek-2023.pdf"target="_blank">a magyar „követségi rendszer”</a>, amely alapján a menekülő kizárólag az ország területén kívül, Magyarország belgrádi vagy kijevi nagykövetségén kezdeményezheti a menekültügyi eljárást, közvetlenül sérti a menedékhez való jogot. Azt, hogy a követségi eljárás szembemegy a vonatkozó uniós joggal, az Európai Unió Bírósága 2023 júniusában mondta ki ítéletében.<br><br>
+A menekülők alapvető jogainak sérelme kapcsolatba hozható az MMIA PLUSZ azon két egyedi célkitűzésével, amelyek a közös európai menekültügy rendszerhez való hozzájárulást, valamint az irreguláris migráció kezelését célozzák:<br><br>
+MMIA PLUSZ:
+<ul><li>A közös európai menekültügyi rendszerhez való hozzájárulás (SOM1)</li></ul>
+<ul><li>Irreguláris migráció kezelése (SOM3)</li></ul>
+<i><b>A menekülők emberi jogainak visszaállításáig 34 millió euró marad zárolva.</b></i>
 
 `
 
@@ -131,10 +111,9 @@ AMIF:
 
 
 var ch7=`
-<b>Thematic enabling conditions</b><br><br>
-Under the Common Provisions RegulationUnder the 2021-2027 Hungarian programmes, the Commission identified noncompliance with thematic enabling conditions in 9 instances, the incomplete application of the Charter in 3 areas (in addition to the addressed judicial issues). <br><br>
-This means that EU funding for 23 specific objectives of the Hungarian operational programmes are suspended due to shortcomings in the policy framework (orange), 5 due to violation of fundamental rights (green) and 5 specific objectives affected by both problems (magenta). 
-The fact that payments for the affected specific objectives are suspended does not mean that the development objectives set by the Hungarian programmes will remain unimplemented. They must be implemented according to the plan set out by the adopted programmes, however investments are financed by the Hungarian budget. The EU will reimburse the investments ex-post in the event of the successful implementation of remedial measures.
+<b>Szakpolitikai feljogosító feltételek és Charta sértések</b><br><br>
+A 2021-2027-es magyar programoknál a Bizottság 9 esetben állapította meg a szakpolitikai előfeltételek hiányát és (a bírósági probléma mellett) további 3 területen azonosította a Charta sérelmét. Ez azt jelenti, hogy a programok egyedi célkitűzései közül 23-at blokkol szakpolitikai hiányosság (narancs), 5-öt jogsértés (kék) és szintén 5 esetben mindkét probléma fennáll (magenta).<br><br>
+Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megvalósítására nem azt jelenti, hogy az ország uniós költségvetési tervében foglalt fejlesztések nem történnek meg. Ezeket az elfogadott tervek szerint meg kell valósítani a magyar költségvetés terhére, az Unió pedig sikeres korrekció esetén, utólag megtéríti a beruházásokat.
 `
 
 var ch7a=`
