@@ -56,7 +56,7 @@ The judicial reform which had been designed to strengthen the independence of th
 
 var ch3=`
 <b>Additional funding suspended for the violations of fundamental rights and freedoms</b><br><br>
-Az uniós költségvetési források legnagyobb része azért került visszatartásra, mert Magyarország nem biztosítja megfelelően az Unió Alapjogi Chartájában szereplő jogokat. A jogsértések négy területet érintenek, amelyek közül az igazságszolgáltatási problémák orvoslásra kerültek. Ezzel a magyar források csaknem egészét blokkoló 21,3 milliárdos befagyasztás megszűnt. A maradék három területen fennálló jogsértések miatt azonban 2,7 milliárd euró továbbra is zárolva marad.<br><br>
+Hungary fails to respect multiple rights enshrined in the EU Charter of Fundamental Rights. The breaches are related to four areas:<br><br>
 A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a fennmaradó jogsértések orvoslására.
 `
 
