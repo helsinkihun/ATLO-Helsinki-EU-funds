@@ -119,89 +119,90 @@ AMIF:
 
 
 var ch7=`
-<b>Szakpolitikai feljogosító feltételek és Charta sértések</b><br><br>
-A 2021-2027-es magyar programoknál a Bizottság 9 esetben állapította meg a szakpolitikai előfeltételek hiányát és (a bírósági probléma mellett) további 3 területen azonosította a Charta sérelmét. Ez azt jelenti, hogy a programok egyedi célkitűzései közül 23-at blokkol szakpolitikai hiányosság (narancs), 5-öt jogsértés (kék) és szintén 5 esetben mindkét probléma fennáll (magenta).<br><br>
-Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megvalósítására nem azt jelenti, hogy az ország uniós költségvetési tervében foglalt fejlesztések nem történnek meg. Ezeket az elfogadott tervek szerint meg kell valósítani a magyar költségvetés terhére, az Unió pedig sikeres korrekció esetén, utólag megtéríti a beruházásokat.
+<b>Thematic enabling conditions</b><br><br>
+Under the Common Provisions RegulationUnder the 2021-2027 Hungarian programmes, the Commission identified noncompliance with thematic enabling conditions in 9 instances, the incomplete application of the Charter in 3 areas (in addition to the addressed judicial issues).<br><br>
+This means that EU funding for 23 specific objectives of the Hungarian operational programmes are suspended due to shortcomings in the policy framework (orange), 5 due to violation of fundamental rights (green) and 5 specific objectives affected by both problems (magenta).<br><br> 
+The fact that payments for the affected specific objectives are suspended does not mean that the development objectives set by the Hungarian programmes will remain unimplemented. They must be implemented according to the plan set out by the adopted programmes, however investments are financed by the Hungarian budget. The EU will reimburse the investments ex-post in the event of the successful implementation of remedial measures.
 `
 
 var ch7a=`
-<i><b>Az összes szakpolitikai előfeltétel teljesítéséig összesen 9,6 milliárd euró marad befagyasztva.</b></i>
+<i><b>EU funding of EUR 1,15 billion remain conditional on the fulfillment of all thematic enabling condition</b></i>
 `
 
 
 var ch8=`
-<b>Mik azok a szakpolitikai előfeltételek, amelyeket nem teljesít a magyar állam? Hol vezettek ezek a pénzek befagyasztásához? </b><br><br>
-<ol type="a" start="1"><li><b>Szakpolitikai keret a lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítására</b></li></ol><br>
-A szakpolitikai keret hiánya 3 operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre Magyarország addig nem hívhat le uniós forrást, ameddig nem készül az épületek energiahatékonysági felújítására vonatkozó stratégia.<br><br>
-TOP PLUSZ:
-<ul><li>Helyi önkormányzatok épületállományának energiahatékonysági felújítása (RSO2.1)</li></ul>
-KEHOP PLUSZ:
-<ul><li>Nem önkormányzati tulajdonú középületek, lakó- és nem lakás célú épületek energiahatékonysági felújítása (KRSO2.1)</li></ul>
-DIMOP PLUSZ:
-<ul><li>Lakóépületek fűtési/hűtési rendszerének korszerűsítése (DRSO2.1)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 1,15 milliárd euró marad befagyasztva.</b></i>
+<b>Governance of the energy sector </b><br><br>
+<ol type="a" start="1"><li><b>Strategic policy framework to support energy efficiency renovation of residential and non-residential buildings</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 3 specific objectives under 3 operational programmes until an appropriate energy efficiency renovation strategy is in place.<br><br>
+TSDOP PLUS:
+<ul><li>Energy efficiency renovation of local government buildings. (RSO2.1)</li></ul>
+EEEOP PLUS:
+<ul><li>Energy efficiency renovation of privately owned buildings.  (KRSO2.1)</li></ul>
+DROP PLUS:
+<ul><li>Energy system modernisation in residential buildings. (DRSO2.1)</li></ul>
+<i><b>EU funding of EUR 1,15 billion remain conditional on the fulfillment of the thematic enabling condition</b></i>
 
 `
 
 var ch9=`
-<ol type="a" start="2"><li><b>Szakpolitikai keret az energiaágazat irányítására</b></li></ol><br>
-Az szakpolitikai keret hiánya három operatív program öt egyedi célkitűzését érinti, amelyekből hármat a lakóépületek energiahatékonysági fejlesztését szolgáló szakpolitikai keret hiánya is blokkol.  Ezekre a fejlesztésekre addig nem hívható le uniós forrást, ameddig nem készül az energiaszektor irányítására vonatkozó stratégia.<br><br>
-TOP PLUSZ:
-<ul><li>Helyi önkormányzatok épületállományának energiahatékonysági felújítása (RSO2.1)</li></ul>
-<ul><li>Helyi önkormányzatok épületállományának megújuló energiaforrásokkal való ellátása (RSO2.2)</li></ul>
-KEHOP PLUSZ:
-<ul><li>Nem önkormányzati tulajdonú középületek, lakó- és nem lakás célú épületek energiahatékonysági felújítása (KRSO2.1)</li></ul>
-<ul><li>Nem önkormányzati tulajdonú középületek, lakó- és nem lakás célú épületek megújuló energiaforrásokkal való ellátása (KRSO2.2)</li></ul>
-DIMOP PLUSZ:
-<ul><li>Lakóépületek fűtési/hűtési rendszerének korszerűsítése (DRSO2.1)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 1,73 milliárd euró marad befagyasztva.</b></i>
+<ol type="a" start="2"><li><b>Governance of the energy sector</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 5 specific objectives under 3 operational programmes until an appropriate energy strategy for the management of the energy sector  is in place. 3 out of the 5 objectives in concern are affected by the non-fulfillment of the energy efficiency thematic enabling condition as well.<br><br>
+TSDOP PLUS:
+<ul><li>Energy efficiency renovation of local government buildings.  (RSO2.1)</li></ul>
+<ul><li>Introduction of renewable energy sources in local government buildings. (RSO2.2)</li></ul>
+EEEOP PLUS:
+<ul><li>Energy efficiency renovation of privately owned buildings. (KRSO2.1)</li></ul>
+<ul><li>Introduction of renewable energy sources in privately owned buildings (KRSO2.2)</li></ul>
+DROP PLUS:
+<ul><li>Energy system modernisation in residential buildings. (DRSO2.1)</li></ul>
+<i><b>EU funding of EUR 1,73 billion remain conditional on the fulfillment of the thematic enabling condition</b></i>
 `
 
 var ch10=`
-<ol type="a" start="3"><li><b>Naprakész tervezés az ivóvíz- és szennyvízágazatokban szükséges beruházásokról</b></li></ol><br>
-A szakpolitikai előfeltétel hiánya a KEHOP egy egyedi célkitűzését érinti. Erre a fejlesztésre Magyarország addig nem hívhat le uniós forrást, ameddig nem lesz szakmaibb a vízgazdálkodás állami tervezése.<br><br>
-KEHOP PLUSZ:
-<ul><li>A szennyvíz- és ivóvízhálózat fejlesztése, vízgyűjtő rendszerek létrehozása az éghajlatváltozáshoz való alkalmazkodás érdekében (RSO2.5)</li></ul><br>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 550 millió euró marad befagyasztva.</b></i>
+<ol type="a" start="3"><li><b>Updated planning for investments in water and wastewater sectors.</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 1 specific objective under the EEEOP PLUS operational programme until planning in the water management sector becomes more strategic.<br><br>
+EEEOP PLUS:
+<ul><li>Improvement of wastewater and drinking water networks.  (RSO2.5)</li></ul><br>
+<i><b>EU funding of EUR 550 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
 
 `
 
 var ch11=`
-<ol type="a" start="4"><li><b>Naprakész tervezés a hulladékgazdálkodás területén</b></li></ol><br>
-A szakpolitikai előfeltétel hiánya két operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem hívható le uniós forrás, ameddig nem lesz szakmaibb a hulladékgazdálkodás állami tervezése.<br><br>
-KEHOP PLUSZ:
-<ul><li>A szelektív hulladékgazdálkodási rendszer fejlesztése (RSO2.6)</li></ul>
-DIMOP PLUSZ:
-<ul><li>A szelektív hulladékgazdálkodási rendszer megújításához szükséges informatikai fejlesztések (DRSO2.6)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 258 millió euró marad befagyasztva.</b></i>
+<ol type="a" start="4"><li><b>Updated planning for waste management</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 2 specific objectives under 2 operational programmes until planning in the waste management sector becomes more strategic.<br><br>
+EEEOP PLUS:
+<ul><li>Improvement of selective waste collection systems. (RSO2.6)</li></ul>
+DROP PLUS:
+<ul><li>IT improvements in waste management. (DRSO2.6)</li></ul>
+<i><b>EU funding of EUR 258 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
 
 `
 
 var ch12=`
-<ol type="a" start="5"><li><b>Átfogó közlekedéstervezés</b></li></ol><br>
-A szakpolitikai előfeltétel hiánya az IKOP két egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós támogatást lehívni, ameddig nem lesz szakmaibb a közlekedésfejlesztés állami tervezése.<br><br>
-IKOP PLUSZ:
-<ul><li>Vasútvonalak korszerűsítése és villamosítása (RSO3.1)</li></ul>
-<ul><li>Kerékpáros infrastruktúra fejlesztése (RSO3.2)</li></ul><br>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 1,76 milliárd euró marad befagyasztva</b></i>
+<ol type="a" start="5"><li><b>Comprehensive transport planning</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 2 specific objectives under ITDOP PLUS operational programme until planning in the transportation sector becomes more strategic.<br><br>
+ITDOP PLUS:
+<ul><li>Modernisation and electrification of railway lines (RSO3.1)</li></ul>
+<ul><li>Development of cycling infrastructure (RSO3.2)</li></ul><br>
+<i><b>EU funding of EUR 1,76 billion remain conditional on the fulfillment of the thematic enabling condition</b></i>
 
 `
 
 var ch13=`
-<ol type="a" start="6"><li><b>Szakpolitikai keret a munkaerőpiac alakítására</b></li></ol><br>
-A szakpolitikai keret hiánya a GINOP egy egyedi célkitűzését érinti. Erre a fejlesztésre addig nem lehet uniós pénzt lehívni, ameddig a foglalkoztatáspolitika állami tervezése nem lesz szakmaibb.<br><br>
-GINOP PLUSZ:
-<ul><li>Az inaktívak és álláskeresők elhelyezkedését támogató képzések megvalósítása, a kormányhivatalok fejlesztése foglalkoztatáspolitikai területen (ESO4.1)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 341 millió euró marad befagyasztva.</b></i>
+<ol type="a" start="6"><li><b>Strategic policy framework for active labour market policies</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 1 specific objective of the EDIOP PLUS operational programme until the planning of labour market policies becomes more strategic.<br><br>
+EDIOP PLUS:
+<ul><li>Training for job-seekers, capacity-building of government offices in the field of employment policy. (ESO4.1)</li></ul>
+<i><b>EU funding of EUR 341 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
 
 `
 
 var ch14=`
-<ol type="a" start="7"><li><b>A nemek közötti egyenlőséget célzó szakpolitikai keret</b></li></ol><br>
-A szakpolitikai keret hiánya az EFOP egy egyedi célkitűzését érinti. Erre a fejlesztésre addig nem lehet uniós pénzt lehívni, ameddig a nők munkaerő-piaci és magánéleti támogatásának állami tervezése nem lesz szakmaibb.<br><br>
-EFOP PLUSZ:
-<ul><li>Munkahelyi bölcsődei szolgáltatások biztosítása, beleértve az önkormányzatokat is. Hallgatói jogviszonnyal rendelkező kisgyermeket nevelő szülők támogatása (ESO4.3)</li></ul>
-<i><b>A szakpolitikai előfeltétel teljesítéséig 29 millió euró marad befagyasztva.</b></i>
+<ol type="a" start="7"><li><b>National strategic framework for gender equality</b></li></ol><br>
+The shortcomings of the required strategic policy framework blocks funding for 1 specific objective of the HRDOP PLUS operational programme until the planning of gender equality and women’s empowerment policies becomes more strategic.<br><br>
+HRDOP PLUS:
+<ul><li>Development of child-care services at workplaces, including municipalities. Targeted support of parents with young children in higher education (ESO4.3)</li></ul>
+<i><b>EU funding of EUR 29 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
 
 `
 
