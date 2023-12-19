@@ -84,32 +84,33 @@ DROP PLUS:
 `
 
 var ch5=`
-<ol type="A" start="3"><li><b>Szexuális kisebbségekhez tartozó emberek jogai (Charta 1., 7., 11., 21. cikkei):</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy a 2021 júniusában elfogadott „gyermekvédelmi törvény” (a homofób „propagandatörvény”) sérti a szexuális kisebbségekhez tartozók emberi méltósághoz, a magánélet védelméhez, a gondolat és lelkiismeret szabadságához, valamint a megkülönböztetésmentességhez való jogát azáltal, hogy a törvény tiltja a születési nemnek megfelelő önazonosságtól való eltérés és a homoszexualitás ábrázolását 18 éven aluliaknak szánt kiadványokban vagy szexuális felvilágosító képzéseken. A Bizottság ugyanebben a kérdésben a magyar állam  ellen indított kötelezettségszegési eljárásban már megállapított jogsértésekre hivatkozott. A kötelezettségszegési ügy jelenleg az Európai Unió Bírósága előtt van.<br><br>
-Ez a probléma kapcsolatba hozható a GINOP PLUSZ, EFOP PLUSZ és DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek közoktatásban részt vevő gyermekek fejlesztését irányozzák elő. Ezeken a területeken ugyanis politikai okokból kiszorulnak olyan potenciális pályázók, akik a szexuális kisebbségeket bemutató és a megkülönböztetésmentességet elősegítő anyagokat fejlesztenek:<br><br>
-GINOP PLUSZ:
-<ul><li>Oktatói továbbképzés szakiskolákban, valamint digitális tananyag fejlesztése és karriertanácsadási rendszer létrehozása szakképzésben tanulók számára (ESO4.5)</li></ul>
-EFOP PLUSZ:
-<ul><li>Hátrányos helyzetű gyermekek oktatási integrációjának erősítését szolgáló programok (EESO4.11)</li></ul>
-<ul><li>Szülők és nevelőszülők kompetenciafejlesztését, valamint a szociális és gyermekvédelmi rendszerben dolgozók képzését szolgáló programok (EESO4.6)</li></ul>
-DIMOP PLUSZ:
-<ul><li>A digitális oktatási formák szélesítése a közoktatásban, digitális tananyagfejlesztés, valamint a tanulók digitális kompetenciáinak erősítése (DESO4.5)</li></ul>
-<i><b>A szexuális kisebbséghez tartozók jogainak visszaállításáig 700 millió euró marad zárolva.</b></i>
+<ol type="A" start="3"><li><b>LGBTQI Rights (Article 1, 7, 11, 21 of the Charter):</b></li></ol><br>
+The European Commission found that Act LXXIX, Hungary’s homophobic "propaganda law" violates the rights to human dignity, respect for private and family life, freedom of thought and conscience and non-discrimination of persons belonging to sexual minorities by prohibiting the portrayal of divergence from self-identity corresponding to sex at birth, sex change or homosexuality' for individuals under the age of 18.<br><br>
+In  July 2021, the Commission launched an infringement procedure regarding the legislation due to breaches of EU law, the case is pending in front of the court of Justice of the EU.<br><br>
+Violation of LGBTQI rights relates to those special objectives of EDIOP PLUS, HRDOP PLUS and DROP PLUS which set out goals for the development of children in public education.<br><br>
+EDIOP PLUS:
+<ul><li>Training for in-service teachers in vocational schools and development an advanced career guidance system for vocational students (ESO4.5)</li></ul>
+HRDOP PLUS:
+<ul><li>Improving educational integration of disadvantaged children (EESO4.11)</li></ul>
+<ul><li>Training for parents and foster parents and capacity building for workers in the social and child protection system (EESO4.6)</li></ul>
+DROP PLUS:
+<ul><li>Promoting digital education in public education and developing a digital curriculum (DESO4.5)</li></ul>
+<i><b>EU funding of EUR 700 million suspended until LGBTQI right violations are remedied</b></i>
 
 `
 
 var ch6=`
 
-<ol type="A" start="4"><li><b>A menedékjog (Charta 18. cikk):</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy a magyar állam nem biztosítja a menekültügyi rendszerhez való hozzáférést az arra jogosultaknak. A Bizottság három konkrét jogsértést azonosított:<br><br>
-Az Európai Unió Bíróságának egy ítélete 2020 decemberében kimondta, hogy EU-s jogot sért a magyar rendőrség gyakorlata, hogy minden külföldi állampolgárt, aki jogalap nélkül tartózkodik az ország területén, egyéni körülményeinek bármiféle mérlegelése nélkül, azonnal és jogorvoslati lehetőség nélkül kényszerít vissza Szerbiába. Ez a jogsértő gyakorlat elzárja a menekülőket a menekültügyi eljárástól, és szembe megy a kollektív kiutasítás tilalmával. A visszakényszerítések továbbá sértik a menekülők magán- és családi élet tiszteletéhez fűződő jogát, a hatékony jogorvoslathoz és tisztességes eljáráshoz való jogát, valamint a menekülő gyermekek alapvető jogait. A gyakorlat <a href="https://helsinki.hu/eub-jogellenes-a-kulfoldiek-tomeges-visszakenyszeritese/"target="_blank">az uniós bíróság ítélete</a> óta mit sem változott.<br><br>
-Az Európai Unió Bíróságának <a href="https://helsinki.hu/jogeros-a-menekultek-segitoinek-buntetojogi-fenyegetese-unios-jogba-utkozik/"target="_blank">egy másik ítélete</a> 2021 novemberében megállapította, hogy a 2018 júniusában elfogadott civilellenes „Stop Soros törvénycsomag” rendelkezése, amely kriminalizálja a menedékkérőknek nyújtott segítséget, sérti a menekülők menedékhez való jogát.<br><br>
-A Bizottság emellett azt is megállapította, hogy <a href="https://helsinki.hu/wp-content/uploads/2023/06/Nincs-menedek-2023.pdf"target="_blank">a magyar „követségi rendszer”</a>, amely alapján a menekülő kizárólag az ország területén kívül, Magyarország belgrádi vagy kijevi nagykövetségén kezdeményezheti a menekültügyi eljárást, közvetlenül sérti a menedékhez való jogot. Azt, hogy a követségi eljárás szembemegy a vonatkozó uniós joggal, az Európai Unió Bírósága 2023 júniusában mondta ki ítéletében.<br><br>
-A menekülők alapvető jogainak sérelme kapcsolatba hozható az MMIA PLUSZ azon két egyedi célkitűzésével, amelyek a közös európai menekültügy rendszerhez való hozzájárulást, valamint az irreguláris migráció kezelését célozzák:<br><br>
-MMIA PLUSZ:
-<ul><li>A közös európai menekültügyi rendszerhez való hozzájárulás (SOM1)</li></ul>
-<ul><li>Irreguláris migráció kezelése (SOM3)</li></ul>
-<i><b>A menekülők emberi jogainak visszaállításáig 34 millió euró marad zárolva.</b></i>
+<ol type="A" start="4"><li><b>Right to asylum (Article 18 of the Charter):</b></li></ol><br>
+The European Commission found that the right to asylum is not respected in Hungary due to systemic irregularities and shortcomings in the asylum system.<br><br>
+In December 2020, the Court of Justice of the European Union (CJEU) ruled that the Hungarian Police's practice to collectively apprehend and expulse irregular migrants to Serbia without any assessment of their individual circumstances and without legal remedy, violates EU law. The practice bars asylum seekers from the asylum procedure, inconsistent with the prohibition of collective expulsion and deprives victims of the right to an effective judicial remedy, respect for private and family life, as well as the fundamental rights of children in concern. The implementation of the judgment is pending.<br><br>
+In November 2021, the CJEU also established that provisions of the so-called “Stop-Soros” legislation criminalising the organisation of activities carried out to assist the initiation of applications for international protection, are inconsistent with EU law. The implementation of the judgment is pending.<br><br>
+Hungary introduced a pre-procedure that must be completed in a Hungarian Embassy in Belgrade or Kiev before the submission of an actual asylum claim in 2020. The CJEU delivered its judgment on the so-called “embassy system” in June 2023 establishing inconsistency between EU law and the Hungarian asylum system.<br><br>
+Violations of the right to asylum relates to those special objectives of the AMIF programmes which set out goals for addressing irregular migration.:<br><br>
+AMIF:
+<ul><li>Strengthening the Common European Asylum System (SOM1)</li></ul>
+<ul><li>Countering irregular migration (SOM3)</li></ul>
+<i><b>EU funding of EUR 34 million suspended until violations of the right to asylum are remedied</b></i>
 
 `
 
