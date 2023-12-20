@@ -16,15 +16,15 @@ Az alábbi ábra azt mutatja be, hogy az egyes korrekciós intézkedések végre
 <iframe id="iframeflow"src='https://flo.uri.sh/visualisation/16118831/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no'  sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 <b>Miből áll össze a magyar uniós költségvetés?</b><br><br>
-Magyarország a nyolc uniós alapból összesen 22 milliárd euró támogatásra jogosult. A magyar költségvetési terv 10 + 1 operatív programot tartalmaz: 
+Magyarország a 2021-2027-es költségvetési időszakban nyolc uniós alapból, összesen 22 milliárd euró támogatásra jogosult. A támogatások felhasználásáról rendelkező magyar költségvetési terv 10 + 1 fejezetre, úgynevezett operatív programra bomlik. Ezek a programok fejlesztési területenként meghatározzák az elérendő célokat, a szükséges reformokat és a pénzügyi támogatás mértékét: 
 <ol type='1' >
-        <li>Integrált Közlekedésfejlesztési Operatív Program Plusz (IKOP PLUSZ)</li>
-        <li>Terület- És Településfejlesztési Operatív Program Plusz (TOP PLUSZ)</li>
-        <li>Környezeti És Energiahatékonysági Operatív Program Plusz (KEHOP PLUSZ)</li>
-        <li>Gazdaságfejlesztési És Innovációs Operatív Program Plusz (GINOP PLUSZ)</li>
-        <li>Emberi Erőforrás Fejlesztési Operatív Program Plusz (EFOP PLUSZ)</li>
-        <li>Digitális Megújulás Operatív Program Plusz (DIMOP PLUSZ)</li>
-        <li>Magyar Halgazdálkodási Operatív Program Plusz (MAHOP PLUSZ)</li>
+        <li>Integrált Közlekedésfejlesztési Operatív Program (IKOP PLUSZ)</li>
+        <li>Terület- És Településfejlesztési Operatív Program (TOP PLUSZ)</li>
+        <li>Környezeti És Energiahatékonysági Operatív Program (KEHOP PLUSZ)</li>
+        <li>Gazdaságfejlesztési És Innovációs Operatív Program (GINOP PLUSZ)</li>
+        <li>Emberi Erőforrás Fejlesztési Operatív Program (EFOP PLUSZ)</li>
+        <li>Digitális Megújulás Operatív Program (DIMOP PLUSZ)</li>
+        <li>Magyar Halgazdálkodási Operatív Program (MAHOP PLUSZ)</li>
         <li>Menekültügyi, Migrációs És Integrációs Alap (MMMIA PLUSZ)</li>
         <li>Határigazgatási És Vízumpolitikai Eszköz Program (HAVE PLUSZ)</li>
         <li>Belső Biztonsági Alap (BBA PLUSZ)</li>
@@ -35,22 +35,37 @@ Magyarország a nyolc uniós alapból összesen 22 milliárd euró támogatásra
 
 
 var ch1=`
-A legtöbb EU-s pénzt a GINOP tartalmazza, csaknem 5 milliárd eurót, míg a legkisebb program, a MAHOP, csupán 37 millió euróval. A VOP Plusz a többi programmal ellentétben nem irányoz elő tematikus fejlesztési célt, forrásai az egyes programok végrehajtásáért felelős állami szervek, úgynevezett fejlesztésére fordíthatók.<br><br>
-Az egyes operatív programok további tematikus fejlesztési célokat, úgynevezett egyedi célkitűzéseket tartalmaznak. Például az EFOP Plusz, amely a köznevelés, valamint a szociális ellátás fejlesztési tervét tartalmazza, 8 egyedi célkitűzésből épül fel. Ezek közül van, amelyik a romák társadalmi felzárkóztatását célozza, van, amelyik a gyermeket nevelő nők munkaerő-piaci helyzetét javítja, és ebben az operatív programban szerepel a pedagógusok átlagbérének növelése is.
+A magyar programok közül a legtöbb EU-s pénzt a GINOP PLUSZ tartalmazza, csaknem 5 milliárd eurót, míg a legkisebb program, a MAHOP PLUSZ, csupán 37 millió euróval. A VOP Plusz a többi programmal ellentétben nem irányoz elő tematikus fejlesztési célt, forrásai az egyes programok végrehajtásáért felelős állami szervek, fejlesztésére fordíthatók.<br><br>
+Az egyes operatív programok további alacsonyabb szintű tematikus fejlesztési célokat, úgynevezett egyedi célkitűzéseket tartalmaznak. Például az EFOP PLUSZ, amely a köznevelés, valamint a szociális ellátás fejlesztési tervét tartalmazza, 8 egyedi célkitűzésből épül fel. Ezek közül van, amelyik a romák társadalmi felzárkóztatását célozza, van, amelyik a gyermeket nevelő nők munkaerő-piaci helyzetét javítja, és ebben az operatív programban szerepel a pedagógusok átlagbérének növelése is.
 `
 
 var ch2=`
-<b>A közös rendelkezések alapján befagyasztott pénzek</b><br><br>
-A közös rendelkezések lényege, hogy az uniós támogatások felhasználására kötelező előfeltételeket állapítanak meg. A programok összes egyedi célkitűzésnél biztosítani kell, hogy a fejlesztés megvalósítása során nem sérülnek az <a href="https://commission.europa.eu/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_hu" target="_blank">Unió Alapjogi Chartájában</a> foglalt jogok. Három pénzügyi alapnál (Európai Regionális Fejlesztési Alap, Európai Szociális  Alap Plusz, a Kohéziós Alap) szakpolitikai feltételeknek is meg kell felelni. Az Európai Bizottság értékeli és jóváhagyja a tagállamok által benyújtott programokat, adott esetben pedig feltünteti, hogy az előfeltételek mely egyedi célkitűzés(ek)nél nem teljesültek. Amennyiben egy jogsértés kapcsolatba hozható egy egyedi célkitűzéssel, akkor ennek a célnak a megvalósítására uniós pénz nem használható fel.<br><br>
+<b>A "közös rendelkezések" alapján befagyasztott pénzek</b><br><br>
+Az uniós "közös rendelkezések" lényege, hogy az uniós támogatások felhasználására kötelező előfeltételeket állapítanak meg. A programok összes egyedi célkitűzésnél biztosítani kell, hogy a fejlesztés megvalósítása során nem sérülnek az <a href="https://commission.europa.eu/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_hu" target="_blank">Unió Alapjogi Chartájában</a> foglalt jogok. Három pénzügyi alapnál (Európai Regionális Fejlesztési Alap, Európai Szociális  Alap, a Kohéziós Alap) szakpolitikai feltételeknek is meg kell felelni. Az Európai Bizottság értékeli és jóváhagyja a tagállamok által benyújtott programokat, adott esetben pedig feltünteti, hogy az előfeltételek mely egyedi célkitűzés(ek)nél nem teljesültek. Amennyiben egy jogsértés kapcsolatba hozható egy egyedi célkitűzéssel, akkor ennek a célnak a megvalósítására uniós pénz nem használható fel.<br><br>
 <ol type="A" start="1"><li><b>Igazságszolgáltatás függetlensége (Charta 47. cikk)</b></li></ol><br>
-A magyar programokat érintő legsúlyosabb jogsértés az igazságszolgáltatással kapcsolatos. Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen a magyar költségvetés egészét, tehát az összes operatív program <b>összes egyedi célkitűzését</b> érinti az azonosított Charta sérelem. Ez alól kivételt képez a VOP Plusz, amely nem tartalmaz valódi fejlesztési célt, és ahhoz tartozó egyedi célkitűzéseket. A VOP Plusz kezdettől felhasználhatók az uniós költségvetési tervet végrehajtó magyar hatóságok fejlesztésére. <br><br>
-<i><b>Az igazságszolgáltatási problémák orvoslásáig 21,3 milliárd euró marad zárolva az uniós költségvetésből.</b></i>
+A magyar programokat érintő legsúlyosabb jogsértés az igazságszolgáltatással kapcsolatos. Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen a magyar költségvetés egészét, tehát az összes operatív program <b>összes egyedi célkitűzését</b> érintette az azonosított Charta sérelem. Ez alól kivételt képezett a VOP Plusz, amely nem tartalmaz valódi fejlesztési célt, és ahhoz tartozó egyedi célkitűzéseket. A VOP Plusz forrásai kezdettől felhasználhatók az uniós költségvetési tervet végrehajtó magyar hatóságok fejlesztésére. <br><br>
+Az igazságszolgáltatási problémák orvoslásáig 21,3 milliárd euró került befagyasztásra. A források feloldásáért Magyarország négy területen vállalta, hogy megerősíti a bíróságok pártatlanságának garanciáit: 
+<ol type='1' >
+        <li>A bírák önigazgatási szervének, az Országos Bírói Tanácsnak megerősítése az Országos Bírósági Hivatal, valamint a Kúria elnökének ellensúlyozása érdekében.</li>
+        <li>A Kúria integritásának megerősítése politikai befolyásolással szemben.</li>
+        <li>A hatóságok azon jogának megszüntetése, hogy az Alkotmánybíróság előtt megtámadhassák a jogerős bírósági határozatokat.</li>
+        <li>A magyar bírák azon jogának megfelelő biztosítása, hogy az Európai Unió Bírósága elé előzetes döntéshozatal iránti kérelmet terjesszenek.</li>
+    </ol>
+Az Országgyűlés 2023 május 3-án fogadta el a bíróságok függetlenségét megerősíteni hivatott reformot, amelyet a kormány 2023 júliusában nyújtott be az Európai Bizottságnak értékelésre. Az értékelési folyamat során azonosított, továbbra is fennálló hiányosságok orvoslására az Országgyűlés további jogszabálymódosításokat fogadott el, így 2023 december 13-án a magyar igazságszolgáltatási reformot  jóváhagyta az Európai Bizottság, amely révén a minden releváns operatív programot átfogó módon érintő befagyasztási ok megszűnt.<br><br>
+<i><b>Az igazságszolgáltatási reform jóváhagyásával nem az összes visszatartott uniós támogatás szabadult fel, csupán azon források, amelyek további problémák miatt nem kerültek korábban zárolásra. Ezzel Magyarország 8,8 milliárd euró támogatáshoz jutott.</b></i>
 
 `
 
 var ch3=`
 <b>További befagyasztási okok</b><br><br>
-Az uniós költségvetési források legnagyobb része azért került visszatartásra, mert Magyarország nem biztosítja megfelelően az Unió Alapjogi Chartájában szereplő jogokat. A jogsértések négy területet érintenek, amelyek közül az igazságszolgáltatási problémák orvoslásra kerültek. Ezzel a magyar források csaknem egészét blokkoló 21,3 milliárdos befagyasztás megszűnt. A maradék három területen fennálló jogsértések miatt azonban 2,7 milliárd euró továbbra is zárolva marad.<br><br>
+Az uniós költségvetési források legnagyobb része azért került visszatartásra, mert Magyarország nem biztosítja megfelelően az Unió Alapjogi Chartájában szereplő jogokat. A jogsértések négy területet érintenek:<br><br>
+<ol type='1' >
+        <li>A tudomány és művészet szabadsága sérül azokon a magyar egyetemeken, amelyeket közérdekű vagyonkezelő alapítványok tartanak fenn</li>
+        <li>A szexuális kisebbségekhez tartozók emberi jogait sértik a „gyermekvédelmi törvény” (a „propagandatörvény”) rendelkezései.</li>
+        <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
+        <li>A bírósági rendszer nem képes hatékony jogorvoslatot nyújtani a jogsérelmet elszenvedőknek.</li>
+    </ol>
+Ezek közül egyedül az igazságszolgáltatási problémák kerültek eddig orvoslásra. Ezzel a magyar források csaknem egészét blokkoló 21,3 milliárdos befagyasztás megszűnt. A maradék három területen fennálló jogsértések miatt azonban 2,7 milliárd euró továbbra is zárolva maradt.<br><br>
 A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a fennmaradó jogsértések orvoslására.
 `
 
@@ -58,7 +73,7 @@ A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé
 var ch4=`
 <ol type="A" start="2"><li><b>Művészet és tudomány szabadsága (Charta 13. cikk):</b></li></ol><br>
 Az Európai Bizottság megállapította, hogy azokon az egyetemeken, amelyek fenntartását közérdekű vagyonkezelő alapítványok vették át, nem érvényesül a tudomány szabadsága. A kormány által kinevezett kuratóriumi tagok ugyanis olyan kiterjedt kontrollt gyakorolnak az egyetemek tudományos közössége felett, amely alkalmas például az oktatói kinevezések, a tananyag, kutatási projektek és publikációs témák közvetlen politikai befolyásolására.<br><br>
-Ez a probléma kapcsolatba hozható a GINOP PLUSZ és a DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek valamilyen módon a felsőoktatási intézmények támogatását irányozzák elő. Itt fennáll annak a veszélye, hogy a modellváltáson átesett egyetemek is részesedhetnének uniós támogatásból, amelyeket politikailag befolyásolt projektekre fordíthatnának:<br><br>
+Ez a probléma kapcsolatba hozható a GINOP PLUSZ és a DIMOP PLUSZ azon egyedi célkitűzéseivelm, amelyek a felsőoktatási intézmények fejlesztését irányozzák elő..<br><br>
 GINOP PLUSZ:
 <ul><li>Hátrányos helyzetű tanulók felsőoktatási lemorzsolódását csökkentő programok (ESO4.6)</li></ul>
 <ul><li>Felsőoktatási intézmények kutatási és fejlesztési kapacitásait erősítő programok (RSO1.1)</li></ul>
@@ -73,12 +88,13 @@ DIMOP PLUSZ:
 var ch5=`
 <ol type="A" start="3"><li><b>Szexuális kisebbségekhez tartozó emberek jogai (Charta 1., 7., 11., 21. cikkei):</b></li></ol><br>
 Az Európai Bizottság megállapította, hogy a 2021 júniusában elfogadott „gyermekvédelmi törvény” (a homofób „propagandatörvény”) sérti a szexuális kisebbségekhez tartozók emberi méltósághoz, a magánélet védelméhez, a gondolat és lelkiismeret szabadságához, valamint a megkülönböztetésmentességhez való jogát azáltal, hogy a törvény tiltja a születési nemnek megfelelő önazonosságtól való eltérés és a homoszexualitás ábrázolását 18 éven aluliaknak szánt kiadványokban vagy szexuális felvilágosító képzéseken. A Bizottság ugyanebben a kérdésben a magyar állam  ellen indított kötelezettségszegési eljárásban már megállapított jogsértésekre hivatkozott. A kötelezettségszegési ügy jelenleg az Európai Unió Bírósága előtt van.<br><br>
-Ez a probléma kapcsolatba hozható a GINOP PLUSZ, EFOP PLUSZ és DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek közoktatásban részt vevő gyermekek fejlesztését irányozzák elő. Ezeken a területeken ugyanis politikai okokból kiszorulnak olyan potenciális pályázók, akik a szexuális kisebbségeket bemutató és a megkülönböztetésmentességet elősegítő anyagokat fejlesztenek:<br><br>
+A törvény jogsértő rendelkezései miatt korábban kötelezettségszegési eljárás indult Magyarországgal szemben, az ügy jelenleg az Európai Unió Bírósága előtt van.<br><br>
+Ez a probléma kapcsolatba hozható a GINOP PLUSZ, EFOP PLUSZ és DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek közoktatásban részt vevő gyermekek fejlesztését irányozzák elő.<br><br>
 GINOP PLUSZ:
 <ul><li>Oktatói továbbképzés szakiskolákban, valamint digitális tananyag fejlesztése és karriertanácsadási rendszer létrehozása szakképzésben tanulók számára (ESO4.5)</li></ul>
 EFOP PLUSZ:
 <ul><li>Hátrányos helyzetű gyermekek oktatási integrációjának erősítését szolgáló programok (EESO4.11)</li></ul>
-<ul><li>Szülők és nevelőszülők kompetenciafejlesztését, valamint a szociális és gyermekvédelmi rendszerben dolgozók képzését szolgáló programok (EESO4.6)</li></ul>
+<ul><li>Szülők és nevelőszülők kompetencia fejlesztését, valamint a szociális és gyermekvédelmi rendszerben dolgozók képzését szolgáló programok (EESO4.6)</li></ul>
 DIMOP PLUSZ:
 <ul><li>A digitális oktatási formák szélesítése a közoktatásban, digitális tananyagfejlesztés, valamint a tanulók digitális kompetenciáinak erősítése (DESO4.5)</li></ul>
 <i><b>A szexuális kisebbséghez tartozók jogainak visszaállításáig 700 millió euró marad zárolva.</b></i>
@@ -111,12 +127,25 @@ Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megval
 `
 
 var ch7a=`
-<i><b>Az összes szakpolitikai előfeltétel teljesítéséig összesen 9,6 milliárd euró marad befagyasztva.</b></i>
+Azért, mert Magyarország 9 területen nem teljesíti a támogatások felhasználásához szükséges szakpolitikai előfeltételeket, összesen 9,6 milliárd euró van befagyasztva. A pénzek lehívásához a következő területeken kell az állam stratégiaalkotást magasabb szintre emelni:
+<ol type='1' >
+        <li>Lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítása</li>
+        <li>Az energiaágazat irányítása</li>
+        <li>Ivóvíz- és szennyvízágazatokban szükséges beruházások</li>
+        <li>Hulladékgazdálkodás</li>
+        <li>Átfogó közlekedéstervezés</li>
+        <li>A munkaerőpiac alakítása</li>
+        <li>A nemek közötti egyenlőség előmozdítása</li>
+        <li>Az oktatási és képzési rendszer fejlesztése</li>
+        <li>A társadalmi befogadás előmozdítása és a szegénység csökkentése</li>
+        <li>A romák befogadásának előmozdtása</li>
+        <li>Az egészségügy és a tartós ápolás-gondozási rendszer fejlesztése</li>
+    </ol>
 `
 
 
 var ch8=`
-<b>Mik azok a szakpolitikai előfeltételek, amelyeket nem teljesít a magyar állam? Hol vezettek ezek a pénzek befagyasztásához? </b><br><br>
+
 <ol type="a" start="1"><li><b>Szakpolitikai keret a lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítására</b></li></ol><br>
 A szakpolitikai keret hiánya 3 operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre Magyarország addig nem hívhat le uniós forrást, ameddig nem készül az épületek energiahatékonysági felújítására vonatkozó stratégia.<br><br>
 TOP PLUSZ:
