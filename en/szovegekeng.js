@@ -64,18 +64,19 @@ var ch3=`
 <b>Additional funding suspended for the violations of fundamental rights and freedoms</b><br><br>
 Hungary fails to respect multiple rights enshrined in the EU Charter of Fundamental Rights. The breaches are related to four areas:<br><br>
 <ol type='1' >
-<li>Academic freedom is infringed in those Hungarian universities that are maintained by public interest asset management trusts (KEKVAs).</li>
-<li>Rights of persons belonging to LGBTQI minorities are violated by provisions of Hungary’s homophobic propaganda law (Act LXXIX of 2021).</li>
+<li>Academic freedom is infringed in Hungarian universities maintained by public interest asset management trusts (KEKVAs).</li>
+<li>LGBTQI rights are violated by provisions of Hungary’s homophobic propaganda law (Act LXXIX of 2021).</li>
 <li>The right to asylum is denied due to systemic shortcomings of the Hungarian asylum system.</li>
 <li>The right to an effective remedy and a fair trial is not guaranteed by the Hungarian judiciary.</li>
 </ol>
-Out of the four detected issues pertaining to fundamental rights, only the problems around judicial independence have been addressed so far. This led to the lifting of EUR 21.3 billion suspension, however, EUR 2.7 billion remains blocked due fundamental right violations in the remaining three areas.
+Out of these, only the judicial issue has been properly addressed. EUR 2.7 billion remains blocked due to fundamental right violations in the remaining three areas.
 `
 
 
 var ch4=`
 <ol type="A" start="2"><li><b>Freedom of the arts and sciences (Article 13 of the Charter):</b></li></ol><br>
-The European Commission has found that scientific research is not free of constraints at those universities which have been transformed from public universities into publicly funded private universities, maintained by newly established public interest management foundations, led by board of trustees directly appointed by the Government for life. At these higher education institutions, there is a serious risk that the courses and training, as well as research projects, are politically influenced. Moreover, there is a risk that staff involved in the implementation of EU funded projects will be selected on the basis of their alignment with the university management’s political views instead of merit and expertise.<br><br>
+The European Commission has found that scientific research is not free of constraints at those universities which have been transformed from public universities into publicly funded private universities, maintained by newly established public interest asset management trusts.<br><br>
+At these higher education institutions, there is a serious risk that the courses and research projects, are politically influenced as well as the staff will be selected on the basis of their alignment with the university management’s political views instead of merit and expertise.<br><br>
 Violations of academic freedom relate to those specific objectives of the EDIOP PLUS and DROP PLUS programmes which set out higher education development goals.<br><br>
 EDIOP PLUS:
 <ul><li>Empowerment of disadvantaged students (ESO4.6)</li></ul>
@@ -83,15 +84,15 @@ EDIOP PLUS:
 <ul><li>Capacity building for small and medium size enterprises (RSO1.4)</li></ul>
 DROP PLUS:
 <ul><li>Fostering cooperation between higher education institutions and private enterprises in research and development (DRSO1.1)</li></ul>
-<i><b>EU funding of EUR 2,7 billion suspended until the violations of academic freedom are remedied</b></i>
+<i><b>EUR 2,7 billion is suspended until academic freedom is respected</b></i>
 
 
 `
 
 var ch5=`
 <ol type="A" start="3"><li><b>LGBTQI Rights (Article 1, 7, 11, 21 of the Charter):</b></li></ol><br>
-The European Commission found that Act LXXIX, Hungary’s homophobic "propaganda law" violates the rights to human dignity, respect for private and family life, freedom of thought and conscience and non-discrimination of persons belonging to sexual minorities by prohibiting the portrayal of divergence from self-identity corresponding to sex at birth, sex change or homosexuality' for individuals under the age of 18.<br><br>
-In  July 2021, the Commission launched an infringement procedure regarding the legislation due to breaches of EU law, the case is pending in front of the court of Justice of the EU.<br><br>
+The European Commission found that Hungary’s homophobic "propaganda law" (Act LXXIX of 2021) violates the rights to human dignity, respect for private and family life, freedom of thought and conscience and non-discrimination of persons belonging to sexual minorities by prohibiting the portrayal of divergence from self-identity corresponding to sex at birth, sex change or homosexuality' for individuals under the age of 18.<br><br>
+In  July 2021, the Commission launched an infringement procedure against Hungary concerning the legislation. The case is pending in front of the court of Justice of the EU.<br><br>
 Violation of LGBTQI rights relates to those special objectives of EDIOP PLUS, HRDOP PLUS and DROP PLUS which set out goals for the development of children in public education.<br><br>
 EDIOP PLUS:
 <ul><li>Training for in-service teachers in vocational schools and development an advanced career guidance system for vocational students (ESO4.5)</li></ul>
@@ -100,22 +101,22 @@ HRDOP PLUS:
 <ul><li>Training for parents and foster parents and capacity building for workers in the social and child protection system (EESO4.6)</li></ul>
 DROP PLUS:
 <ul><li>Promoting digital education in public education and developing a digital curriculum (DESO4.5)</li></ul>
-<i><b>EU funding of EUR 700 million suspended until LGBTQI right violations are remedied</b></i>
+<i><b>EUR 700 million is suspended until LGBTQI right are respected</b></i>
 
 `
 
 var ch6=`
 
 <ol type="A" start="4"><li><b>Right to asylum (Article 18 of the Charter):</b></li></ol><br>
-The European Commission found that the right to asylum is not respected in Hungary due to systemic irregularities and shortcomings in the asylum system.<br><br>
+The European Commission found that the right to asylum is not respected in Hungary due to systemic irregularities and shortcomings of the asylum system.<br><br>
 In December 2020, the Court of Justice of the European Union (CJEU) ruled that the Hungarian Police's practice to collectively apprehend and expulse irregular migrants to Serbia without any assessment of their individual circumstances and without legal remedy, violates EU law. The practice bars asylum seekers from the asylum procedure, inconsistent with the prohibition of collective expulsion and deprives victims of the right to an effective judicial remedy, respect for private and family life, as well as the fundamental rights of children in concern. The implementation of the judgment is pending.<br><br>
 In November 2021, the CJEU also established that provisions of the so-called “Stop-Soros” legislation criminalising the organisation of activities carried out to assist the initiation of applications for international protection, are inconsistent with EU law. The implementation of the judgment is pending.<br><br>
 Hungary introduced a pre-procedure that must be completed in a Hungarian Embassy in Belgrade or Kiev before the submission of an actual asylum claim in 2020. The CJEU delivered its judgment on the so-called “embassy system” in June 2023 establishing inconsistency between EU law and the Hungarian asylum system.<br><br>
-Violations of the right to asylum relates to those special objectives of the AMIF programmes which set out goals for addressing irregular migration.:<br><br>
+Violations of the right to asylum relates to those specific objectives of the AMIF programmes which set out goals for addressing irregular migration.:<br><br>
 AMIF:
 <ul><li>Strengthening the Common European Asylum System (SOM1)</li></ul>
 <ul><li>Countering irregular migration (SOM3)</li></ul>
-<i><b>EU funding of EUR 34 million suspended until violations of the right to asylum are remedied</b></i>
+<i><b>EUR 34 million is suspended until the right to asylum is respected</b></i>
 
 `
 
@@ -124,14 +125,14 @@ AMIF:
 
 
 var ch7=`
-<b>Thematic enabling conditions</b><br><br>
-Under the Common Provisions RegulationUnder the 2021-2027 Hungarian programmes, the Commission identified noncompliance with thematic enabling conditions in 9 instances, the incomplete application of the Charter in 3 areas (in addition to the addressed judicial issues).<br><br>
-This means that EU funding for 23 specific objectives of the Hungarian operational programmes are suspended due to shortcomings in the policy framework (orange), 5 due to violation of fundamental rights (green) and 5 specific objectives affected by both problems (magenta).<br><br> 
-The fact that payments for the affected specific objectives are suspended does not mean that the development objectives set by the Hungarian programmes will remain unimplemented. They must be implemented according to the plan set out by the adopted programmes, however investments are financed by the Hungarian budget. The EU will reimburse the investments ex-post in the event of the successful implementation of remedial measures.
+<b>Policy enabling conditions</b><br><br>
+In addition to the Charter violations in four areas, the European Commission detected noncompliance with policy enabling conditions in 11 instances.<br><br>
+This means that EU funding for 23 specific objectives of the Hungarian operational programmes are suspended due to shortcomings in the policy framework (orange), 5 due to violation of fundamental rights (green) and 5 specific objectives are affected by both problems (pink).<br><br> 
+The fact that payments for the affected specific objectives are suspended does not mean that the development objectives set by the Hungarian programmes will remain unimplemented. They must be completed and financed by the Hungarian national budget. The EU will reimburse the investments ex-post in the event of a successful implementation of remedial measures.
 `
 
 var ch7a=`
-<i><b>EU funding of EUR 1,15 billion remain conditional on the fulfillment of all thematic enabling condition</b></i>
+<i><b>EU funding of EUR 1,15 billion remain conditional on the complete fulfillment of policy enabling conditions</b></i>
 `
 
 
