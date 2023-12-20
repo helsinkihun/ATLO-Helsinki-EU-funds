@@ -56,7 +56,7 @@ The European Commission found that the justice system in Hungary failed to guara
 <li>Removing the possibility for public authorities to challenge final decisions before the Constitutional Court</li>
 </ol>
 The judicial reform for reinfocing judicial independence was adopted by the Hungarian Parliament on 3 May 2023 and submitted to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission lifted the suspension of all relevant operational programmes by approving the reform.<br><br>
-<i><b>The decision unfroze those funds for Hungary which are not blocked by additional issues pertaining to corruption, fundamental right violations and tha lack of appropriate policy framework. The released funding amounts to EUR 8,8 billion.</b></i>
+<i><b>The decision unfroze funds which are not blocked by additional issues pertaining to corruption, fundamental right violations and the lack of appropriate policy framework. The released funding amounts to EUR 8,8 billion.</b></i>
 
 `
 
