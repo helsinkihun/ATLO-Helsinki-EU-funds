@@ -342,10 +342,12 @@ The Commission presents <a href="https://data.consilium.europa.eu/doc/document/S
 The Commission assesses that the key implementation steps of the proposed remedial measures are incomplete and maintains its earlier proposal to the Council for financial measures. 
 <ul><li>15 December 2022</li></ul>
 The Council adopts its <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022D2506"target="_blank">implementing decision</a> on measures for the protection of the Union budget with a reduced  55% suspension of funding from 3 OPs. The Council also adopts the <a href="https://www.consilium.europa.eu/en/documents-publications/public-register/public-register-search/results/?WordsInSubject=&WordsInText=&DocumentNumber=15447%2F22+&InterinstitutionalFiles=&DocumentDateFrom=&DocumentDateTo=&MeetingDateFrom=&MeetingDateTo=&DocumentLanguage=EN&OrderBy=DOCUMENT_DATE+DESC&ctl00%24ctl00%24cpMain%24cpMain%24btnSubmit="target="_blank">Hungarian RRP</a> which includes 27 ‘super milestones’ aiming at remedying long-standing anti-corruption and rule of law problems.
-<ul><li>2022. December 22.</li></ul>
+<ul><li>22 December 2022</li></ul>
 The Commission approves Hungary’s Partnership Agreement  and 11 operational programmes. The decisions approving the various programmes indicate that 4 established violations of the Charter, connected to certain specific objectives, may directly affect the implementation of the given programme and as such, the horizontal enabling condition of ‘Effective application and implementation of the Charter of Fundamental Rights’ is not fulfilled.<br><br>
-Until Hungary remedies the detected issues in the 4 areas, payments are suspended for those specific objectives that are related to the identified human right violations.
-
+Until Hungary remedies the detected issues in the 4 areas, payments are suspended for those specific objectives that are related to the identified human right violations.<br><br>
+<ul><li>13 December 2023</li></ul>
+The Commission releases those EU funds which are not blocked by additional issues pertaining to the application of the Charter, corruption or shortcomings of the national policy framework.
+Payments of EUR 12 billion under the MFF and EUR 9,5 under the RRF remain conditional on the implementation of a series of remedial measures. 
 <br><br><div class="keszitettek">Created by:</div><br><br><div class="keszitettek2">Balázs Gaál, Krisztián Szabó, Attila Bátorfy</div><br><br><div class="logoend"><img class="logoend1" onclick='redirect_Page4(this)'src="https://atlo.team/wp-content/uploads/2023/12/helsinki.png"><img class="logoend1" onclick='redirect_Page5(this)'src="https://atlo.team/wp-content/uploads/2023/12/atlatszofav.png"><img class="logoend1" onclick='redirect_Page6(this)'src="https://atlo.team/wp-content/uploads/2023/12/atlofekete.png"></div>
 
 `
