@@ -9,49 +9,54 @@ The financial measures are possible under three Regulations attached to the Unio
     <li>The Regulation on the rule of law conditionality mechanism.</li>
 </ul><br><b>
 How could the funds be released?</b><br><br>
-The unfreezing of EU funds is conditional on the implementation of a series of anti-corruption and rule of law related remedial measures. The concerning measures have been proposed by Hungary in the conditionality procedure, as well as in the Hungarian recovery plan. There are key areas, i.e. violation of rights of scholars, sexual minorities and asylum seekers where the Hungarian government has not indicated any remedial measures. Two key EU institutions, the European Commission and the Council have been involved in detecting issues related to corruption, human rights violations and attacks on independent courts. These two institutions are also in a position to lift suspension as soon as the remedial measures are duly implemented.<br><br><br>
-Ehhez kell írni valamit<br><br>
+The unfreezing of EU funds is conditional on the implementation of a series of anti-corruption and rule of law related remedial measures as well as compliance with multiple strategic policy requirements. The concerning measures have been proposed by Hungary in the conditionality procedure, and in the Hungarian recovery plan. There are key areas, i.e. violation of rights of scholars, sexual minorities and asylum seekers where the Hungarian government has not indicated any remedial measures.<br><br>
+Two key EU institutions, the European Commission and the Council have been involved in detecting issues related to corruption, human rights violations and attacks on independent courts. These two institutions are also in a position to lift suspension as soon as the remedial measures are duly implemented.<br><br><br>
+The graph below shows how the implementation of each remedial measure could release all the suspended EU payments. This would first require the strengthening of judicial independence (1). That should be followed by the implementation of the 17 anti-corruption measures undertaken by the Hungarian government in the conditionality mechanism (2). Thirdly, violation of fundamental rights and freedoms in three areas should be remedied (3).  At last, in 11 public policy areas, an appropriate level of strategic planning should be ensured (4). <br><br>
+If any of these measures are not met, Hungary will not benefit from the full amount of funding available up to 2027.<br><br>
 
 <iframe id="iframeflow"src='https://flo.uri.sh/visualisation/16136547/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no'  sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 <b>Which are the affected Hungarian programmes?</b><br><br>
 Hungary is eligible for a total of EUR 22 billion from 8 EU Funds in the 2021-2027 programming period.  The 22 billion is distributed into 10 + 1 operational programmes:
 <ol type='1' >
-        <li>Integrated Transport Development Operational Programme Plus (ITDOP Plus)</li>
-        <li>Territorial and Settlement Development Operational Programme Plus (TSDOP Plus)</li>
-        <li>Environmental and Energy Efficiency Operational Programme Plus (EEOP Plus)</li>
-        <li>Economic Development and Innovation Operational Programme Plus (EDIOP Plus)</li>
-        <li>Human Resources Development Operational Programme Plus (HRDOP Plus)</li>
-        <li>Digital Renewal Operational Programme Plus (DROP Plus)</li>
-        <li>Hungarian Fisheries Operational Programme Plus (HFOP Plus)</li>
+        <li>Integrated Transport Development Operational Programme (ITDOP Plus)</li>
+        <li>Territorial and Settlement Development Operational Programme (TSDOP Plus)</li>
+        <li>Environmental and Energy Efficiency Operational Programme (EEOP Plus)</li>
+        <li>Economic Development and Innovation Operational Programme (EDIOP Plus)</li>
+        <li>Human Resources Development Operational Programme (HRDOP Plus)</li>
+        <li>Digital Renewal Operational Programme (DROP Plus)</li>
+        <li>Hungarian Fisheries Operational Programme (HFOP Plus)</li>
         <li>8Programme of Hungary for support (AMIF)</li>
         <li>Programme of Hungary for support (ISF)</li>
         <li>Programme of Hungary for support (BMVI)</li>
-        <li class='custom-list'>Implementation Operational Programme Plus (IOP Plus)</li>
+        <li class='custom-list'>Implementation Operational Programme (IOP Plus)</li>
     </ol>
 `
 
 
 
 var ch1=`
-The biggest portion of EU funds is allocated to EDIOP, while the smallest programme is HFOP. In contrast with the other 10 programmes,  IOP does not foresee development goals. IOP funds are designed to improve organizational, technical and human resources of national authorities managing the implementation of the EU budget for the efficient and timely utilisation of Union funds. <br><br>
-Operational Programmes are built of so-called specific objectives setting out minor development goals which are consistent with the main priorities of the programme. For example HRDOP Plus, which foresees developments in public education and social services, consists of 8 special objectives. There are special objectives which aim to strengthen Roma integration, improve labour market conditions for women or raise salaries of teachers in public education. 
+The largest portion of EU funds is allocated to EDIOP, while the smallest programme is HFOP.<br><br>
+Operational Programmes are built of so-called specific objectives setting out minor development goals which are consistent with the main priorities of each programme.<br><br>
+For example, HRDOP PLUS which outlines developments in public education and social services, consists of 8 specific objectives, which are designed to strengthen Roma integration, improve labour market conditions for women or raise salaries of teachers in public education.<br><br> 
+The exception is IOP PLUS, which does not foresee development goals, but contributes to the improvement of national authorities managing the implementation of the EU budget for the efficient and timely utilisation of Union funds.<br><br> 
 `
 
 var ch2=`
 <b>EU funds suspended under the Common Provisions Regulation (CPR)</b><br><br>
-The common provisions stipulate compulsory preconditions that must be fulfilled. MSs must ensure that freedoms and human rights enshrined in the Charter are respected during the implementation of  the national operative programmes. Moreover, with regard to three Funds (European Regional Development Fund, European Social Fund, Cohesion Fund) MSs may comply with thematic enabling conditions for the achievement of the specific objectives in the operational programmes.<br><br>
+"Common provisions" stipulate compulsory preconditions that must be fulfilled before the realisation of EU payments. Member States must ensure that freedoms and human rights enshrined in the Charter are respected and an appropriate strategic policy framework is in place during the implementation of the operational programmes.<br><br>
 <ol type="A" start="1"><li><b>A.	Independence of the judiciary (Article 47 of the Charter)</b></li></ol><br>
-The most serious infringement affecting Hungarian programmes relates to the deficiencies in the independence of the judiciary. The European Commission has found that the justice system in Hungary fails to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of the Charter cannot be guaranteed. As a result, all the specific objectives of all Hungarian operational programmes, are affected by the identified Charter violation. The exception to this is the VOP PLUS, which does not contain development priorities and related specific objectives. VOP PLUS funding is used for the development of Hungarian authorities implementing the EU budget.<br><br>
-<br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding had been suspended until the identified issues were addressed. To unblock the related funds, Hungary committed to strengthen elements of judicial independence in four areas:
+The most serious infringement which affected Hungarian programmes related to the deficiencies in the independence of the judiciary.<br><br>
+The European Commission found that the justice system in Hungary failed to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of the Charter could not be ensuredwhich affects all Hungarian operational programmes. The exception to this was IOP PLUS.<br><br>
+<br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding was suspended until the identified issues were addressed. To unblock the related funds, Hungary committed to strengthen elements of judicial independence in four areas:
 <ol type='1' >
 <li>Strengthening the role and powers of the National Judicial Council to counterbalance the powers of the President of the National Office for the Judiciary</li>
 <li>Strengthening judicial independence of the Supreme Court (Kúria)</li>
 <li>Removing obstacles to references for preliminary rulings to the Court of Justice of the European Union</li>
 <li>Removing the possibility for public authorities to challenge final decisions before the Constitutional Court</li>
 </ol>
-The judicial reform which had been designed to strengthen the independence of the judiciary was adopted by the Hungarian Parliament on 3 May 2023 and submitted by the Government to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission’s decision to approve the judicial lifted the suspension of all relevant operational programmes’s funding.<br><br>
-<i><b>The decision unfroze EUR 8,8 billion funding for Hungary under the 2021-2027 MFF</b></i>
+The judicial reform for reinfocing judicial independence was adopted by the Hungarian Parliament on 3 May 2023 and submitted to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission lifted the suspension of all relevant operational programmes by approving the reform.<br><br>
+<i><b>The decision unfroze those funds for Hungary which are not blocked by additional issues pertaining to corruption, fundamental right violations and tha lack of appropriate policy framework. The released funding amounts to EUR 8,8 billion.</b></i>
 
 `
 
