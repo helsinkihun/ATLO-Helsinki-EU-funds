@@ -132,7 +132,7 @@ The fact that payments for the affected specific objectives are suspended does n
 `
 
 var ch7a=`
-<i><b>EU funding of EUR 1,15 billion remain conditional on the complete fulfillment of policy enabling conditions</b></i>
+<i><b>EUR 9,6 billion remain conditional on the complete fulfillment of policy enabling conditions</b></i>
 `
 
 
@@ -146,7 +146,7 @@ EEEOP PLUS:
 <ul><li>Energy efficiency renovation of privately owned buildings.  (KRSO2.1)</li></ul>
 DROP PLUS:
 <ul><li>Energy system modernisation in residential buildings. (DRSO2.1)</li></ul>
-<i><b>EU funding of EUR 1,15 billion remain conditional on the fulfillment of the thematic enabling condition</b></i>
+<i><b>EUR 1,15 billion remain conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -161,7 +161,7 @@ EEEOP PLUS:
 <ul><li>Introduction of renewable energy sources in privately owned buildings (KRSO2.2)</li></ul>
 DROP PLUS:
 <ul><li>Energy system modernisation in residential buildings. (DRSO2.1)</li></ul>
-<i><b>EU funding of EUR 1,73 billion remain conditional on the fulfillment of the thematic enabling condition</b></i>
+<i><b>EUR 1,73 billion remain conditional on the fulfillment of the enabling condition</b></i>
 `
 
 var ch10=`
@@ -169,7 +169,7 @@ var ch10=`
 The shortcomings of the required strategic policy framework blocks funding for 1 specific objective under the EEEOP PLUS operational programme until planning in the water management sector becomes more strategic.<br><br>
 EEEOP PLUS:
 <ul><li>Improvement of wastewater and drinking water networks.  (RSO2.5)</li></ul><br>
-<i><b>EU funding of EUR 550 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
+<i><b>EUR 550 million remain conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -180,7 +180,7 @@ EEEOP PLUS:
 <ul><li>Improvement of selective waste collection systems. (RSO2.6)</li></ul>
 DROP PLUS:
 <ul><li>IT improvements in waste management. (DRSO2.6)</li></ul>
-<i><b>EU funding of EUR 258 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
+<i><b>EUR 258 million remain conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -190,7 +190,7 @@ The shortcomings of the required strategic policy framework blocks funding for 2
 ITDOP PLUS:
 <ul><li>Modernisation and electrification of railway lines (RSO3.1)</li></ul>
 <ul><li>Development of cycling infrastructure (RSO3.2)</li></ul><br>
-<i><b>EU funding of EUR 1,76 billion remain conditional on the fulfillment of the thematic enabling condition</b></i>
+<i><b>EUR 1,76 billion remain conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -199,7 +199,7 @@ var ch13=`
 The shortcomings of the required strategic policy framework blocks funding for 1 specific objective of the EDIOP PLUS operational programme until the planning of labour market policies becomes more strategic.<br><br>
 EDIOP PLUS:
 <ul><li>Training for job-seekers, capacity-building of government offices in the field of employment policy. (ESO4.1)</li></ul>
-<i><b>EU funding of EUR 341 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
+<i><b>EUR 341 million remain conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -208,7 +208,7 @@ var ch14=`
 The shortcomings of the required strategic policy framework blocks funding for 1 specific objective of the HRDOP PLUS operational programme until the planning of gender equality and women’s empowerment policies becomes more strategic.<br><br>
 HRDOP PLUS:
 <ul><li>Development of child-care services at workplaces, including municipalities. Targeted support of parents with young children in higher education (ESO4.3)</li></ul>
-<i><b>EU funding of EUR 29 million remain conditional on the fulfillment of the thematic enabling condition</b></i>
+<i><b>EUR 29 million remain conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -224,7 +224,7 @@ HRDOP PLUS:
 DROP PLUS:
 <ul><li>Development of IT infrastructure in public education (ESO4.7)</li></ul>
 <ul><li>Increasing digital competences of the population through adult education.  (DESO4.5)</li></ul>
-<i><b>EU funding of EUR 3,3 billion remains conditional on the fulfillment of the thematic enabling condition. </b></i>
+<i><b>EUR 3,3 billion remains conditional on the fulfillment of the enabling condition. </b></i>
 
 `
 
@@ -235,7 +235,7 @@ TSDOP PLUS:
 <ul><li>Improvement of local social services. (ESO4.8)</li></ul>
 HRDOP PLUS:
 <ul><li>Promoting employment of disadvantaged people, with a special focus on Roma people (EESO4.8)</li></ul>
-<i><b>EU funding of EUR 793 million remains conditional on the fulfillment of the thematic enabling condition.</b></i>
+<i><b>EUR 793 million remains conditional on the fulfillment of the enabling condition.</b></i>
 
 `
 
@@ -246,7 +246,7 @@ TSDOP PLUS:
 <ul><li>Promotion of the socio-economic integration of marginalised communities and Roma people through community development, integration programmes and infrastructure development. (ESO4.10)</li></ul>
 HRDOP PLUS:
 <ul><li>Implementation of complex anti-segregation programmes. (EESO4.10)</li></ul>
-<i><b>EU funding of EUR 89 million remains conditional on the fulfillment of the thematic enabling condition.</b></i>
+<i><b>EUR 89 million remains conditional on the fulfillment of the enabling condition.</b></i>
 
 `
 
@@ -258,7 +258,7 @@ TSDOP PLUS:
 <ul><li>Infrastructure development in healthcare. (ESO4.11)</li></ul>
 HRDOP PLUS:
 <ul><li>Improving services for people with disabilities, psychiatric patients, the elderly and the homeless. (EESO4.11)</li></ul>
-<i><b>EU funding of EUR 407 million remains conditional on the fulfillment of the thematic enabling condition.</b></i>
+<i><b>EUR 407 million remains conditional on the fulfillment of the enabling condition.</b></i>
 
 `
 
@@ -266,19 +266,20 @@ HRDOP PLUS:
 
 var ch19=`
 <b>Rule of Law Conditionality Mechanism</b><br><br>
-In its decision of 15 December 2022, the Council blocked 55 % of the budgetary commitments under 3 operational programmes that are expected to be implemented mainly through public procurement (ITDOP PLUS, TSDOP PLUS, EEEOP PLUS).<br><br>
+In its decision of 15 December 2022, the Council blocked 55 % of the budgetary commitments under 3 operational programmes that were expected to be implemented mainly through public procurement (ITDOP PLUS, TSDOP PLUS, EEEOP PLUS).<br><br>
 The withdrawal of the financial measures is conditional on the proper implementation of 17 remedial measures which are designed to address weaknesses and irregularities related to public procurement procedures, national anti-corruption framework and the effectiveness of investigation and prosecution of corruption.<br><br>
-In the framework of the procedure, the Hungarian Government reports every three months on the state of implementation of the reforms to the European Commission. New evidence can be submitted any time in the form of a written notification, to show that the identified shortcomings had been sufficiently addressed. The Commission may assess the implementation of new measures and, in the event of positive assessment, propose the Council to withdraw the adopted financial measures or reduce suspension.<br><br> 
-Up to this date, the implementation of the 17 anti-corruption measures are incomplete. Thus, the financial measures adopted by the Council for the protection of the Union’s financial interests are in place, unchanged.
-
+The Hungarian Government reports every three months on the state of implementation of the reforms to the European Commission. New evidence can be submitted any time, in the form of a written notification, to show that the identified shortcomings had been sufficiently addressed.<br><br> 
+The Commission may assess the implementation of new measures and, in the event of positive assessment, proposes the Council to withdraw the adopted financial restrictions or reduce suspension.<br><br> 
+Up to this date, the implementation of the 17 anti-corruption measures remain incomplete. Thus, the financial restrictions adopted by the Council for the protection of the Union’s financial interests are in place, unchanged.<br><br> 
+<i><b>EUR 6,3 billion is conditional on the full implemetation of the 17 remedial measures.</b></i>
 
 `
 
 var ch20=`
 <b>Recovery and Resilience Facility</b><br><br>
 In addition to the EU's Multiannual Financial Framework, Member States may also benefit from the Recovery and Resilience Facility (RRF), which aims to tackle the effects of the economic crisis induced by the COVID19 pandemic.<br><br>
-Member States prepare national recovery plans which may set out “milestones” in the reform process and an indicative timetable for the reforms to be implemented. Recovery plans shall be consistent with the main recovery objectives of the EU as well as country-specific recommendations issued in multiple EU review cycles (i. e. the European Semester and the Annual Rule of Law Report).<br><br>
-Hungary's national plan was adopted by the Council on 15 December 2022. The Hungarian recovery plan outlines a reform process which is designed to improve socio-economic resilience as well as significantly advance green transition. The envisaged reforms and investments cover 9 policy areas:<br><br>
+Member States prepare national recovery plans which set out “milestones” in the reform process and an indicative timetable for the reforms to be implemented. Recovery plans shall be consistent with the main recovery objectives of the EU as well as country-specific recommendations issued in multiple EU review cycles (i. e. the European Semester and the Annual Rule of Law Report).<br><br>
+Hungary's national plan was adopted by the Council on 15 December 2022. The Hungarian recovery plan outlines a reform process which is designed to improve socio-economic resilience as well as significantly advance green transition. The envisaged reforms and investments cover 9 policy areas:
 <ol type='1' >
         <li>Demography and public education</li>
         <li>Qualified and competitive workforce</li>
@@ -296,7 +297,8 @@ Hungary is eligible for EUR 5.8 billion in grant and EUR 9.4 billion in loan und
 `
 
 var ch21=`
-As a consequence of systemic corruption and issues related to the independence of the judiciary, Hungary's recovery plan, in addition to the regular milestones and objectives, also includes 27 “super-milestones” which are designed to upgrade the national anti-corruption framework and strengthen the integrity of the judiciary for the protection of the Union’s financial interests.The identified “super milestones” shall be fulfilled before the submission of the first payment request under the RRF.<br><br>
+As a consequence of systemic corruption and issues related to the independence of the judiciary, Hungary's recovery plan, in addition to the regular milestones and objectives, also includes 27 “super-milestones” which are designed to upgrade the national anti-corruption framework and strengthen the integrity of the judiciary for the protection of the Union’s financial interests.<br><br>
+The identified “super milestones” shall be fulfilled before the submission of the first payment request under the RRF.<br><br>
 <i><b>Recovery funding of EUR 9,5 billion remains conditional on the achievement of the 27 “super milestones”.</b></i>
 
 `
