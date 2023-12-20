@@ -124,12 +124,13 @@ MMIA PLUSZ:
 
 var ch7=`
 <b>Szakpolitikai feljogosító feltételek</b><br><br>
-A 2021-2027-es magyar programoknál a Bizottság 9 esetben állapította meg a szakpolitikai előfeltételek hiányát és (a bírósági probléma mellett) további 3 területen azonosította a Charta sérelmét. Ez azt jelenti, hogy a programok egyedi célkitűzései közül 23-at blokkol szakpolitikai hiányosság (narancs), 5-öt jogsértés (kék) és szintén 5 esetben mindkét probléma fennáll (magenta).<br><br>
+A 2021-2027-es magyar programoknál az Európai Bizottság 11 esetben állapította meg a szakpolitikai előfeltételek hiányát és (a bírósági probléma mellett) további 3 területen azonosította a Charta sérelmét. Ez azt jelenti, hogy a programok egyedi célkitűzései közül 23-at blokkol szakpolitikai hiányosság (narancs), 5-öt jogsértés (kék) és szintén 5 esetben mindkét probléma fennáll (magenta).<br><br>
 Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megvalósítására nem azt jelenti, hogy az ország uniós költségvetési tervében foglalt fejlesztések nem történnek meg. Ezeket az elfogadott tervek szerint meg kell valósítani a magyar költségvetés terhére, az Unió pedig sikeres korrekció esetén, utólag megtéríti a beruházásokat.
 `
 
 var ch7a=`
-Azért, mert Magyarország 9 területen nem teljesíti a támogatások felhasználásához szükséges szakpolitikai előfeltételeket, összesen <b>9,6 milliárd euró</b> van befagyasztva. A pénzek lehívásához a következő területeken kell az állam stratégiaalkotást magasabb szintre emelni:
+Azért, mert Magyarország 11 területen nem teljesíti a támogatások felhasználásához szükséges szakpolitikai előfeltételeket, összesen <b>9,6 milliárd euró</b> van befagyasztva.
+A pénzek lehívásához a következő területeken kell az állami stratégiaalkotást magasabb szintre emelni:
 <ol type='1' >
         <li>Lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítása</li>
         <li>Az energiaágazat irányítása</li>
@@ -147,7 +148,7 @@ Azért, mert Magyarország 9 területen nem teljesíti a támogatások felhaszn�
 
 
 var ch8=`
-<b>Nem teljesülő szakpolitikai feljogosító feltételek</b><br><br>
+<b>Nem teljesülő szakpolitikai feljogosító feltételek:</b><br><br>
 <ol type="a" start="1"><li><b>Szakpolitikai keret a lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítására</b></li></ol><br>
 A szakpolitikai keret hiánya 3 operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre Magyarország addig nem hívhat le uniós forrást, ameddig nem készül az épületek energiahatékonysági felújítására vonatkozó stratégia.<br><br>
 TOP PLUSZ:
@@ -288,7 +289,7 @@ var ch20=`
 <b>A Helyreállítási Alap</b><br><br>
 A többéves EU-s költségvetés támogatásain túl a tagállamok a COVID-járvány okozta gazdasági válság kezelésére létrehozott helyreállítási alap (RRF) forrásaiból is részesedhetnek. Ehhez létre kell hozni egy nemzeti tervet, amely a helyreállítási forrásokból finanszírozott fejlesztéseket tartalmazza.<br><br>
 Magyarország Helyreállítási Tervét 2022. november 30-án hagyta jóvá az Európai Bizottság, majd a Tanács december 15-én fogadták azt el.<br><br>
-A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek eredménye egy ellenállóbb, fenntarthatóbb, zöldebb és digitálisabb gazdaság. A Helyreállítási Tervben felvázolt reformfolyamat során úgynevezett mérföldköveket, valamint célokat kell teljesíteni. A Bizottság a teljesített mérföldkövek és célok alapján folyósítja a helyreállítási forrásokat.<br><br>
+A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek eredménye egy ellenállóbb, fenntarthatóbb, zöldebb és digitálisabb gazdaság. A reformok 9 területet érintenek:
 <ol type='A' >
         <li>Demográfia és közoktatás</li>
         <li>Versenyképes munkaerő</li>
@@ -300,12 +301,16 @@ A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek ered
         <li>Egészségügy</li>
         <li>Jó kormányzás</li>
     </ol>
-A fejlesztések megvalósítására Magyarország <b>5,8 milliárd euró</b> vissza nem térítendő támogatásra jogosult, valamint 9,4 milliárd euró kedvezményes hitelkeretet különítettek el neki. A kormány a rendelkezésre álló hitelkeretből eddig <b>3,9 milliárdra</b> jelentette be igényét, ezen túl pedig az eredeti támogatási összeg kiegészült egy további, <b>700 millió eurós</b> csomaggal, amelyet az orosz energiabehozatal kiváltására lehet felhasználni (REPowerEU). A helyreállítási reform végrehajtására 2026. augusztus 31-ig van lehetőség.
+A Helyreállítási Tervben felvázolt reformfolyamat során úgynevezett mérföldköveket, valamint célokat kell teljesíteni. A Bizottság a teljesített mérföldkövek és célok alapján folyósítja a helyreállítási forrásokat.<br><br>
+A fejlesztések megvalósítására Magyarország <b>5,8 milliárd euró</b> vissza nem térítendő támogatásra jogosult, valamint 9,4 milliárd euró kedvezményes hitelkeretet különítettek el neki.<br><br> 
+A kormány a rendelkezésre álló hitelkeretből eddig <b>3,9 milliárdra</b> jelentette be igényét, ezen túl pedig az eredeti támogatási összeg kiegészült egy további, <b>700 millió eurós</b> csomaggal, amelyet az orosz energiabehozatal kiváltására lehet felhasználni (REPowerEU).<br><br> 
+A helyreállítási reform végrehajtására 2026. augusztus 31-ig van lehetőség.
 
 `
 
 var ch21=`
-Az országban tapasztalható rendszerszintű korrupció és a bíróságok független működésébe való beavatkozások miatt Magyarország Helyreállítási Terve a szakpolitikai  mérföldköveken és célkitűzéseken túl 27, úgynevezett "szupermérföldkövet" is tartalmaz, amelyek elérése a helyreállítási források lehívásának előfeltétele. A "szupermérföldkövek" az Unió pénzügyi érdekeinek védelméhez kapcsolódó reformcélok, amelyek a bíróságok független működését és a korrupcióellenes rendszer hatékonyságát hivatottak biztosítani. <br><br>
+Az országban tapasztalható rendszerszintű korrupció és a bíróságok független működésébe való beavatkozások miatt Magyarország Helyreállítási Terve a szakpolitikai  mérföldköveken és célkitűzéseken túl 27, úgynevezett "szupermérföldkövet" is tartalmaz, amelyek elérése a helyreállítási források lehívásának előfeltétele.<br><br>
+A "szupermérföldkövek" az Unió pénzügyi érdekeinek védelméhez kapcsolódó reformcélok, amelyek a bíróságok független működését és a korrupcióellenes rendszer hatékonyságát hivatottak biztosítani. <br><br>
 <i><b>A 27 szupermérföldkő eléréséig <b>9,5 milliárd euró</b> marad zárolva.</i>
 
 `
@@ -358,7 +363,9 @@ A Tanács döntéseit követően az Európai Bizottság elfogadta a magyar Partn
 <ol start="2"><li>a szexuális kisebbségekhez tartozók emberi jogait sértik a „gyermekvédelmi törvény” (<a href="https://helsinki.hu/gyermekvedelmi-torveny/"target="_blank">a „propagandatörvény”</a>) rendelkezései;</li></ol>
 <ol start="3"><li>a magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára;</li></ol>
 <ol start="4"><li>illetve a hazai bírósági rendszer nem képes hatékony jogorvoslatot nyújtani a jogsérelmet elszenvedőknek.</li></ol>
-Amíg a négy területen fennálló problémát a kormány nem orvosolja, a jogsértésekkel érintett programok megvalósítására nem lehet uniós támogatást igénybe venni.
+<ul><li>2023. december 13.</li></ul>
+Az Európai Bizottság jóváhagyta a magyar igazságügyi reformot, így Magyarország hozzájutott azon uniós forrásokhoz, amelyeket nincsenek zárolva további alapjogi, korrupciós és szakpolitikai problémák miatt.<br><br>
+Az 2021-2027-es uniós költségvetésben rendelkezésre álló támogatások jelentős része azonban továbbra is vissza van tart, valamint a Helyreállítási Alap forrásainak igénybevételéhez is további korrupcióellenes intézkedésekre volna szükség.
 
 <br><br><div class="keszitettek">Készítették:</div><br><br><div class="keszitettek2">Gaál Balázs, Szabó Krisztián, Bátorfy Attila</div><br><br><div class="logoend"><img class="logoend1" onclick='redirect_Page4(this)'src="https://atlo.team/wp-content/uploads/2023/12/helsinki.png"><img class="logoend1" onclick='redirect_Page5(this)'src="https://atlo.team/wp-content/uploads/2023/12/atlatszofav.png"><img class="logoend1" onclick='redirect_Page6(this)'src="https://atlo.team/wp-content/uploads/2023/12/atlofekete.png"></div>
 `
