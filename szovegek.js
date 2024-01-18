@@ -1,22 +1,22 @@
 var szovegintro = `
 <div id="refresh"><b>Utolsó frissítés: 2023.12.15.</b></div><br><br>
-<b>Mekkora pénzről van szó?</b><br><br>A 2021-2027-es európai uniós költségvetésből, konkrétabban a kohéziós és egyéb alapokból, valamint a szintén 2021-től felhasználható Helyreállítási Alapból (RRF)  összesen <a href='https://helsinki.hu/eu-tamogatas/'target='_blank'>31,6 milliárd eurót</a>, azaz több mint 12 000 milliárd forint tartanak vissza, fagyasztottak be. Így a jelenlegi uniós költségvetésből csekély, míg a helyreállítási alapból semmilyen támogatás nem érkezett Magyarországra.<br><br><br><b>
+<b>Mekkora pénzről van szó?</b><br><br>A 2021-2027-es európai uniós költségvetésből, konkrétabban a kohéziós és egyéb alapokból, valamint a szintén 2021-től felhasználható Helyreállítási Eszközből (RRF)  összesen <a href='https://helsinki.hu/eu-tamogatas/'target='_blank'>31,6 milliárd eurót</a>, azaz több mint 12 000 milliárd forint tartanak vissza, fagyasztottak be. Így a jelenlegi uniós költségvetésből csekély, míg a helyreállítási alapból semmilyen támogatás nem érkezett Magyarországra.<br><br><br><b>
 Milyen eljárásokban zárolták az uniós támogatásokat?</b><br><br>
-A pénzeket nem gonoszságból vagy bosszúból tartják vissza az uniós intézmények. Szó sincs önkényeskedésről, a pénzcsapokat az uniós jog által meghatározott, minden tagállamra vonatkozó eljárásokat követve zárták el, és úgy is fogják újranyitni.<br><br>
+A pénzcsapokat az uniós jog által meghatározott, minden tagállamra vonatkozó eljárásokat követve zárták el, és úgy is fogják újranyitni.<br><br>
 A pénzek visszatartása három uniós eljárásra vezethető vissza:<br>
 <ul>
-    <li>az úgynevezett feltételességi eljárásra;</li>
-    <li>az EU-s többéves költségvetéséből finanszírozott kohéziós és egyéb alapokra vonatkozó közös rendelkezésekre;</li>
-    <li>valamint Magyarország Helyreállítási és Ellenállóképességi Tervére.</li>
+    <li>az úgynevezett feltételességi rendeletre;</li>
+    <li>az EU többéves költségvetéséből finanszírozott kohéziós és egyéb alapokra vonatkozó közös rendelkezésekre;</li>
+    <li>valamint a Helyreállítási Eszközről szóló rendeletre.</li>
 </ul><br><b>
 Hogyan lehetne feloldani a befagyasztott forrásokat?</b><br><br>
 A befagyasztott támogatások feloldásának feltétele egy sor korrupcióellenes és jogállamisági korrekciós intézkedés teljesítése. A korrupcióellenes, jogállamisági és alapjogi problémák azonosításában és az ezekből következő uniós intézkedések megállapításában két EU-s alapintézmény, az Európai Bizottság, valamint a tagállamok minisztereit tömörítő Tanács kapott szerepet. A korrekciós intézkedések végrehajtása esetén szintén e két intézmény tudja feloldani a befagyasztásokat.<br><br><br>
-Az alábbi ábra azt mutatja be, hogy az egyes korrekciós intézkedések végrehajtásával hogyan volna lehetséges összes visszatartott uniós támogatás felszabadítása. Ehhez elsőként biztosítani kell a bíróságok politikai befolyástól mentes működését (1). Ezt követően végre kell hajtani a magyar kormány által vállalt 17 korrupcióellenes intézkedést a feltételességi eljárás keretében (2). Harmadik lépésként biztosítani kell a kutatás szabadságát a privatizált egyetemeken, vissza kell vonni a homofób propaganda törvény jogsértő rendelkezéseit és biztosítani kell a menedékjogot (3). Ezen felül pedig megfelelő szintre kell hozni egy sor állami szolgáltatás szakpolitikai tervezését (4).<br><br>Amennyiben ezen intézkedések egyike nem teljesül, Magyarország biztosan nem jut hozzá a 2021-2027-es uniós költségvetési ciklus teljes támogatási összegéhez.<br><br>
+Az alábbi ábra azt mutatja be, hogy az egyes korrekciós intézkedések végrehajtásával hogyan lehetne az összes visszatartott uniós támogatást felszabadítani.  (1) Ehhez biztosítani kell a bíróságok politikai befolyástól mentes működését. (2) Végre kell hajtani a magyar kormány által vállalt 17 korrupcióellenes intézkedést a feltételességi eljárás keretében. (3) Biztosítani kell a tudomány szabadságát a privatizált egyetemeken, vissza kell vonni a homofób „propagandatörvény” jogsértő rendelkezéseit és biztosítani kell a menedékjogot. (4) Ezenfelül pedig megfelelő szintre kell hozni egy sor állami szolgáltatás szakpolitikai tervezését.<br><br>
 
 <iframe id="iframeflow"src='https://flo.uri.sh/visualisation/16118831/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no'  sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 <b>Miből áll össze a magyar uniós költségvetés?</b><br><br>
-Magyarország a 2021-2027-es költségvetési időszakban nyolc uniós alapból, összesen 22 milliárd euró támogatásra jogosult. A támogatások felhasználásáról rendelkező magyar költségvetési terv 10 + 1 fejezetre, úgynevezett operatív programra bomlik. Ezek a programok fejlesztési területenként meghatározzák az elérendő célokat, a szükséges reformokat és a pénzügyi támogatás mértékét: 
+Magyarország a 2021-2027-es költségvetési időszakban nyolc uniós alapból összesen 22 milliárd euró támogatásra jogosult. A támogatások felhasználásáról rendelkező magyar  terv 10 + 1 operatív programból áll össze. Ezek a programok fejlesztési területenként meghatározzák az elérendő célokat, a szükséges reformokat és a pénzügyi támogatás mértékét: 
 <ol type='1' >
         <li>Integrált Közlekedésfejlesztési Operatív Program (IKOP PLUSZ)</li>
         <li>Terület- És Településfejlesztési Operatív Program (TOP PLUSZ)</li>
@@ -36,25 +36,27 @@ Magyarország a 2021-2027-es költségvetési időszakban nyolc uniós alapból,
 
 var ch1=`
 A magyar programok közül a legtöbb EU-s pénzt a GINOP PLUSZ tartalmazza, csaknem 5 milliárd eurót, míg a legkisebb program, a MAHOP PLUSZ, csupán 37 millió euróval. A VOP Plusz a többi programmal ellentétben nem irányoz elő tematikus fejlesztési célt, forrásai az egyes programok végrehajtásáért felelős állami szervek, fejlesztésére fordíthatók.<br><br>
-Az egyes operatív programok további alacsonyabb szintű tematikus fejlesztési célokat, úgynevezett <b>egyedi célkitűzéseket</b> tartalmaznak.<br><br>
+Az egyes operatív programok a nagyobb szakpolitikai célkitűzésekhez kapcsolódóan  úgynevezett <b>egyedi célkitűzéseket</b> tartalmaznak.<br><br>
 Például az EFOP PLUSZ, amely a köznevelés, valamint a szociális ellátás fejlesztési tervét tartalmazza, 8 egyedi célkitűzésből épül fel. Ezek közül van, amelyik a romák társadalmi felzárkóztatását célozza, van, amelyik a gyermeket nevelő nők munkaerő-piaci helyzetét javítja, és ebben az operatív programban szerepel a pedagógusok átlagbérének növelése is.
 `
 
 var ch2=`
 <b>A "közös rendelkezések" alapján befagyasztott pénzek</b><br><br>
-Az uniós "közös rendelkezések" lényege, hogy a támogatások felhasználására kötelező előfeltételeket állapítanak meg. A programok összes egyedi célkitűzésnél biztosítani kell, hogy a fejlesztés megvalósítása során nem sérülnek az <a href="https://commission.europa.eu/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_hu" target="_blank">Unió Alapjogi Chartájában</a> foglalt jogok, ezen felül pedig szakpolitikai előfeltételeknek is meg kell felelni.<br><br>
-Az Európai Bizottság értékeli és jóváhagyja a tagállamok által benyújtott programokat, adott esetben pedig feltünteti, hogy az alapjogi, valamint szakpolitikai előfeltételek mely egyedi célkitűzés(ek)nél nem teljesültek. Amennyiben egy jogsértés kapcsolatba hozható egy egyedi célkitűzéssel, akkor ennek a célnak a megvalósítására uniós pénz nem használható fel.<br><br>
+A nyolc uniós pénzügyi alapot érintő  úgynevezett  közös rendelkezésekről szóló rendelet értelmében  a támogatások lehívása bizonyos előfeltételek teljesítésétől függ. A programok összes egyedi célkitűzésénél biztosítani kell, hogy a fejlesztés megvalósítása során nem sérülnek az Unió Alapjogi Chartájában foglalt jogok, ezenfelül pedig szakpolitikai előfeltételeknek is meg kell felelni.
+<br><br>
+Az Európai Bizottság értékeli és jóváhagyja a tagállamok által benyújtott programokat, adott esetben pedig feltünteti, hogy az alapjogi, valamint szakpolitikai előfeltételek mely egyedi célkitűzés(ek)nél nem teljesülnek. Amennyiben egy jogsértés kapcsolatba hozható egy egyedi célkitűzéssel, akkor vonatkozásában uniós támogatás nem igényelhető. 
+<br><br>
 <ol type="A" start="1"><li><b>Igazságszolgáltatás függetlensége (Charta 47. cikk)</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen a magyar költségvetés egészét, tehát az összes operatív program <b>összes egyedi célkitűzését</b> érintette az azonosított Charta sérelem. Ez alól kivételt képezett a VOP Plusz, amely nem tartalmaz valódi fejlesztési célt, és ahhoz tartozó egyedi célkitűzéseket.<br><br>
-Az igazságszolgáltatási problémák orvoslásáig <b>21,3 milliárd euró</b> került befagyasztásra. A források feloldásáért Magyarország négy területen vállalta, hogy megerősíti a bíróságok pártatlanságának garanciáit: 
+Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül pedig nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen az összes operatív program összes egyedi célkitűzését érintette az azonosított Charta-sérelem. Ez alól kivételt képezett a VOP Plusz, amely nem tartalmaz valódi fejlesztési célt és ahhoz tartozó egyedi célkitűzéseket.<br><br>
+Az igazságszolgáltatás problémáinak orvoslásáig 21,3 milliárd eurót fagyasztottak be. A források feloldásáért Magyarországnak négy területen kellett megerősítenie a bíróságok függetlenségének garanciáit: 
 <ol type='1' >
         <li>A bírák önigazgatási szervének, az Országos Bírói Tanácsnak megerősítése az Országos Bírósági Hivatal, valamint a Kúria elnökének ellensúlyozása érdekében.</li>
-        <li>A Kúria integritásának megerősítése politikai befolyásolással szemben.</li>
-        <li>A hatóságok azon jogának megszüntetése, hogy az Alkotmánybíróság előtt megtámadhassák a jogerős bírósági határozatokat.</li>
+        <li>A Kúria függetlenségének erősítése.</li>
+        <li>A közhatalmi szervek  azon jogának megszüntetése, hogy az Alkotmánybíróság előtt megtámadhassák a jogerős bírósági határozatokat.</li>
         <li>A magyar bírák azon jogának megfelelő biztosítása, hogy az Európai Unió Bírósága elé előzetes döntéshozatal iránti kérelmet terjesszenek.</li>
     </ol>
-Az Országgyűlés 2023 május 3-án fogadta el a bíróságok függetlenségét megerősíteni hivatott reformot, amelyet a kormány 2023 júliusában nyújtott be az Európai Bizottságnak értékelésre. Végül a Bizottság 2023 december 13-án hagyta jóváhagyta a magyar igazságszolgáltatási reformot. Így a minden releváns operatív programot átfogó módon érintő befagyasztási ok megszűnt.<br><br>
-<i><b>Az igazságszolgáltatási reform jóváhagyásával azon források szabadultak fel, amelyek további problémák miatt nem kerültek korábban zárolásra. Ezzel Magyarország 8,8 milliárd euró támogatáshoz jutott.</b></i>
+Az Országgyűlés 2023. május 3-án fogadta el a bíróságok függetlenségét megerősíteni hivatott törvényt, amelyet a kormány 2023 júliusában nyújtott be az Európai Bizottságnak értékelésre. Végül a Bizottság 2023. december 13-án jóváhagyta a magyar igazságszolgáltatási reformot. Így a minden releváns operatív programot átfogó módon érintő befagyasztási ok megszűnt.<br><br>
+<i><b>Az igazságszolgáltatási reform jóváhagyásával csak azon források szabadultak fel, amelyek további problémák miatt nem kerültek korábban zárolásra. Ezzel Magyarország 8,8 milliárd euró támogatáshoz jutott.</b></i>
 
 `
 
@@ -65,16 +67,17 @@ Az uniós költségvetési források legnagyobb része azért került visszatart
         <li>A tudomány és művészet szabadsága sérül azokon a magyar egyetemeken, amelyeket közérdekű vagyonkezelő alapítványok tartanak fenn</li>
         <li>A szexuális kisebbségekhez tartozók emberi jogait sértik a „gyermekvédelmi törvény” (a „propagandatörvény”) rendelkezései.</li>
         <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
-        <li>A bírósági rendszer nem képes hatékony jogorvoslatot nyújtani a jogsérelmet elszenvedőknek.</li>
+        <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
     </ol>
-Ezek közül egyedül az igazságszolgáltatási problémák kerültek eddig orvoslásra. A fennmaradó három területen fennálló jogsértések miatt azonban <b>2,7 milliárd euró</b> továbbra is zárolva maradt.<br><br>
+Az e három területen fennálló jogsértések miatt 2,7 milliárd euró továbbra is zárolva maradt. 
+</b> továbbra is zárolva maradt.<br><br>
 A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a továbbra is fennálló jogsértések orvoslására.
 `
 
 
 var ch4=`
 <ol type="A" start="2"><li><b>Művészet és tudomány szabadsága (Charta 13. cikk):</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy azokon az egyetemeken, amelyek fenntartását közérdekű vagyonkezelő alapítványok vették át, nem érvényesül a tudomány szabadsága. A kormány által kinevezett kuratóriumi tagok ugyanis olyan kiterjedt kontrollt gyakorolnak az egyetemek tudományos közössége felett, amely alkalmas például az oktatói kinevezések, a tananyag, kutatási projektek és publikációs témák közvetlen politikai befolyásolására.<br><br>
+Az Európai Bizottság megállapította, hogy azokon az egyetemeken, amelyek fenntartását közérdekű vagyonkezelő alapítványok vették át, nem érvényesül a tudomány szabadsága. A kormány által kinevezett kuratóriumi tagok ugyanis olyan kiterjedt kontrollt gyakorolnak az egyetemek tudományos közössége felett, amely alkalmas például az oktatói kinevezések, a tananyag, a kutatási projektek és publikációs témák közvetlen politikai befolyásolására.<br><br>
 Ez a probléma kapcsolatba hozható a GINOP PLUSZ és a DIMOP PLUSZ azon egyedi célkitűzéseivelm, amelyek a felsőoktatási intézmények fejlesztését irányozzák elő.<br><br>
 GINOP PLUSZ:
 <ul><li>Hátrányos helyzetű tanulók felsőoktatási lemorzsolódását csökkentő programok (ESO4.6)</li></ul>
@@ -89,8 +92,8 @@ DIMOP PLUSZ:
 
 var ch5=`
 <ol type="A" start="3"><li><b>Szexuális kisebbségekhez tartozó emberek jogai (Charta 1., 7., 11., 21. cikkei):</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy a 2021 júniusában elfogadott „gyermekvédelmi törvény” (a homofób „propagandatörvény”) sérti a szexuális kisebbségekhez tartozók emberi méltósághoz, a magánélet védelméhez, a gondolat és lelkiismeret szabadságához, valamint a megkülönböztetésmentességhez való jogát azáltal, hogy a törvény tiltja a születési nemnek megfelelő önazonosságtól való eltérés és a homoszexualitás ábrázolását 18 éven aluliaknak szánt kiadványokban vagy szexuális felvilágosító képzéseken.<br><br>
-A Bizottság ugyanebben a kérdésben a magyar állam  ellen indított kötelezettségszegési eljárásban már megállapított jogsértésekre hivatkozott. A kötelezettségszegési ügy jelenleg az Európai Unió Bírósága előtt van.<br><br>
+Az Európai Bizottság álláspontja szerint a 2021 júniusában elfogadott „gyermekvédelmi törvény” (a homofób „propagandatörvény”) sérti a szexuális kisebbségekhez tartozók emberi méltósághoz, a magánélet védelméhez, a gondolat és lelkiismeret szabadságához, valamint a megkülönböztetésmentességhez való jogát azáltal, hogy a törvény tiltja a születési nemnek megfelelő önazonosságtól való eltérés és a homoszexualitás ábrázolását 18 éven aluliaknak szánt kiadványokban vagy szexuális felvilágosító képzéseken.<br><br>
+Az Európai Bizottság a propagandatörvény miatt kötelezettségszegési eljárást is indított a magyar állammal szemben, amely jelenleg is folyamatban van az Európai Unió Bírósága előtt.<br><br>
 Ez a probléma kapcsolatba hozható a GINOP PLUSZ, EFOP PLUSZ és DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek közoktatásban részt vevő gyermekek fejlesztését irányozzák elő.<br><br>
 GINOP PLUSZ:
 <ul><li>Oktatói továbbképzés szakiskolákban, valamint digitális tananyag fejlesztése és karriertanácsadási rendszer létrehozása szakképzésben tanulók számára (ESO4.5)</li></ul>
@@ -106,10 +109,10 @@ DIMOP PLUSZ:
 var ch6=`
 
 <ol type="A" start="4"><li><b>A menedékjog (Charta 18. cikk):</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy a magyar állam nem biztosítja a menekültügyi rendszerhez való hozzáférést az arra jogosultaknak. A Bizottság három konkrét jogsértést azonosított:<br><br>
-Az Európai Unió Bíróságának egy ítélete 2020 decemberében kimondta, hogy EU-s jogot sért a magyar rendőrség gyakorlata, hogy minden külföldi állampolgárt, aki jogalap nélkül tartózkodik az ország területén, egyéni körülményeinek bármiféle mérlegelése nélkül, azonnal és jogorvoslati lehetőség nélkül kényszerít vissza Szerbiába. Ez a jogsértő gyakorlat elzárja a menekülőket a menekültügyi eljárástól, és szembe megy a kollektív kiutasítás tilalmával. A gyakorlat <a href="https://helsinki.hu/eub-jogellenes-a-kulfoldiek-tomeges-visszakenyszeritese/"target="_blank">az uniós bíróság ítélete</a> óta mit sem változott.<br><br>
+Az Európai Bizottság megállapította, hogy a magyar állam nem biztosítja a menekültügyi rendszerhez való hozzáférést az arra jogosultaknak. Három konkrét jogsértést azonosítottak:<br><br>
+Az Európai Unió Bíróság ítélete 2020 decemberében kimondta, hogy EU-s jogot sért a magyar rendőrség gyakorlata, hogy minden külföldi állampolgárt, aki jogalap nélkül tartózkodik az ország területén, egyéni körülményeinek bármiféle mérlegelése nélkül, azonnal és jogorvoslati lehetőség nélkül kényszerít vissza Szerbiába. Ez a jogsértő gyakorlat elzárja a menekülőket a menekültügyi eljárástól, és szembemegy a kollektív kiutasítás tilalmával. A gyakorlat az uniós bíróság ítélete óta mit sem változott.<br><br>
 Az Európai Unió Bíróságának <a href="https://helsinki.hu/jogeros-a-menekultek-segitoinek-buntetojogi-fenyegetese-unios-jogba-utkozik/"target="_blank">egy másik ítélete</a> 2021 novemberében megállapította, hogy a civilellenes „Stop Soros törvénycsomag” rendelkezése, amely kriminalizálja a menedékkérőknek nyújtott segítséget, sérti a menekülők menedékhez való jogát.<br><br>
-A Bizottság emellett azt is megállapította, hogy <a href="https://helsinki.hu/wp-content/uploads/2023/06/Nincs-menedek-2023.pdf"target="_blank">a magyar „követségi rendszer”</a>, amely alapján a menekülő kizárólag az ország területén kívül, Magyarország belgrádi vagy kijevi nagykövetségén kezdeményezheti a menekültügyi eljárást, közvetlenül sérti a menedékhez való jogot. Azt, hogy a követségi eljárás szembemegy a vonatkozó uniós joggal, az Európai Unió Bírósága 2023 júniusában mondta ki ítéletében.<br><br>
+Az Európai Bizottság emellett azt is megállapította, hogy a magyar „követségi rendszer”, amely alapján a menekülő kizárólag az ország területén kívül, Magyarország belgrádi vagy kijevi nagykövetségén kezdeményezheti a menekültügyi eljárást, közvetlenül sérti a menedékhez való jogot. Azt, hogy a követségi eljárás szembemegy a vonatkozó uniós joggal, az Európai Unió Bírósága 2023 júniusában mondta ki ítéletében.<br><br>
 A menekülők alapvető jogainak sérelme kapcsolatba hozható az MMIA PLUSZ azon két egyedi célkitűzésével, amelyek a közös európai menekültügy rendszerhez való hozzájárulást, valamint az irreguláris migráció kezelését célozzák:<br><br>
 MMIA PLUSZ:
 <ul><li>A közös európai menekültügyi rendszerhez való hozzájárulás (SOM1)</li></ul>
@@ -125,7 +128,7 @@ MMIA PLUSZ:
 var ch7=`
 <b>Szakpolitikai feljogosító feltételek</b><br><br>
 A 2021-2027-es magyar programoknál az Európai Bizottság 11 esetben állapította meg a szakpolitikai előfeltételek hiányát és (a bírósági probléma mellett) további 3 területen azonosította a Charta sérelmét. Ez azt jelenti, hogy a programok egyedi célkitűzései közül 23-at blokkol szakpolitikai hiányosság (narancs), 5-öt jogsértés (kék) és szintén 5 esetben mindkét probléma fennáll (magenta).<br><br>
-Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megvalósítására nem azt jelenti, hogy az ország uniós költségvetési tervében foglalt fejlesztések nem történnek meg. Ezeket az elfogadott tervek szerint meg kell valósítani a magyar költségvetés terhére, az Unió pedig sikeres korrekció esetén, utólag megtéríti a beruházásokat.
+Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megvalósítására, nem azt jelenti, hogy az ország uniós költségvetési tervében foglalt fejlesztések nem történnek meg. Ezeket az elfogadott tervek szerint meg kell valósítani a magyar költségvetés terhére, az Unió pedig sikeres korrekció esetén utólag megtéríti a beruházásokat.
 `
 
 var ch7a=`
@@ -286,10 +289,10 @@ Ezen felül pedig a tanácsi döntés megtiltott minden olyan uniós pénzügyi 
 `
 
 var ch20=`
-<b>A Helyreállítási Alap</b><br><br>
-A többéves EU-s költségvetés támogatásain túl a tagállamok a COVID-járvány okozta gazdasági válság kezelésére létrehozott helyreállítási alap (RRF) forrásaiból is részesedhetnek. Ehhez létre kell hozni egy nemzeti tervet, amely a helyreállítási forrásokból finanszírozott fejlesztéseket tartalmazza.<br><br>
-Magyarország Helyreállítási Tervét 2022. november 30-án hagyta jóvá az Európai Bizottság, majd a Tanács december 15-én fogadták azt el.<br><br>
-A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek eredménye egy ellenállóbb, fenntarthatóbb, zöldebb és digitálisabb gazdaság. A reformok 9 területet érintenek:
+<b>A Helyreállítási Eszköz</b><br><br>
+A többéves EU-s költségvetés támogatásain túl a tagállamok a COVID-járvány okozta gazdasági válság kezelésére létrehozott helyreállítási eszköz) forrásaiból is részesedhetnek. Ehhez létre kell hozni egy nemzeti tervet, amely a helyreállítási forrásokból finanszírozott fejlesztéseket tartalmazza.<br><br>
+Magyarország Helyreállítási Tervét 2022. november 30-án hagyta jóvá az Európai Bizottság, majd a Tanács december 15-én fogadta azt el.<br><br>
+A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek eredménye egy ellenállóbb, fenntarthatóbb, zöldebb és digitálisabb gazdaság. A reformok 9 területet érintenek::
 <ol type='A' >
         <li>Demográfia és közoktatás</li>
         <li>Versenyképes munkaerő</li>
@@ -302,8 +305,8 @@ A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek ered
         <li>Jó kormányzás</li>
     </ol>
 A Helyreállítási Tervben felvázolt reformfolyamat során úgynevezett mérföldköveket, valamint célokat kell teljesíteni. A Bizottság a teljesített mérföldkövek és célok alapján folyósítja a helyreállítási forrásokat.<br><br>
-A fejlesztések megvalósítására Magyarország <b>5,8 milliárd euró</b> vissza nem térítendő támogatásra jogosult, valamint 9,4 milliárd euró kedvezményes hitelkeretet különítettek el neki.<br><br> 
-A kormány a rendelkezésre álló hitelkeretből eddig <b>3,9 milliárdra</b> jelentette be igényét, ezen túl pedig az eredeti támogatási összeg kiegészült egy további, <b>700 millió eurós</b> csomaggal, amelyet az orosz energiabehozatal kiváltására lehet felhasználni (REPowerEU).<br><br> 
+A fejlesztések megvalósítására Magyarország <b>5,8 milliárd euró</b> vissza nem térítendő támogatásra , valamint <b>3,9 milliárd</b> kedvezményes hitelre jogosult.az eredeti támogatási összeg kiegészült egy további, <b>700 millió eurós</b> csomaggal, amelyet az orosz energiabehozatal kiváltására lehet felhasználni (REPowerEU). <br><br> 
+
 A helyreállítási reform végrehajtására 2026. augusztus 31-ig van lehetőség.
 
 `
