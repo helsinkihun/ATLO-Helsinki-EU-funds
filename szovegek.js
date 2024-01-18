@@ -19,16 +19,16 @@ Az alábbi ábra azt mutatja be, hogy az egyes korrekciós intézkedések végre
 Magyarország a 2021-2027-es költségvetési időszakban nyolc uniós alapból összesen 22 milliárd euró támogatásra jogosult. A támogatások felhasználásáról rendelkező magyar  terv 10 + 1 operatív programból áll össze. Ezek a programok fejlesztési területenként meghatározzák az elérendő célokat, a szükséges reformokat és a pénzügyi támogatás mértékét: 
 <ol type='1' >
         <li>Integrált Közlekedésfejlesztési Operatív Program (IKOP PLUSZ)</li>
-        <li>Terület- És Településfejlesztési Operatív Program (TOP PLUSZ)</li>
-        <li>Környezeti És Energiahatékonysági Operatív Program (KEHOP PLUSZ)</li>
-        <li>Gazdaságfejlesztési És Innovációs Operatív Program (GINOP PLUSZ)</li>
+        <li>Terület- és Településfejlesztési Operatív Program (TOP PLUSZ)</li>
+        <li>Környezeti és Energiahatékonysági Operatív Program (KEHOP PLUSZ)</li>
+        <li>Gazdaságfejlesztési és Innovációs Operatív Program (GINOP PLUSZ)</li>
         <li>Emberi Erőforrás Fejlesztési Operatív Program (EFOP PLUSZ)</li>
         <li>Digitális Megújulás Operatív Program (DIMOP PLUSZ)</li>
         <li>Magyar Halgazdálkodási Operatív Program (MAHOP PLUSZ)</li>
-        <li>Menekültügyi, Migrációs És Integrációs Alap (MMMIA PLUSZ)</li>
-        <li>Határigazgatási És Vízumpolitikai Eszköz Program (HAVE PLUSZ)</li>
+        <li>Menekültügyi, Migrációs és Integrációs Alap (MMMIA PLUSZ)</li>
+        <li>Határigazgatási és Vízumpolitikai Eszköz Program (HAVE PLUSZ)</li>
         <li>Belső Biztonsági Alap (BBA PLUSZ)</li>
-        <li class='custom-list'>Végrehajtás Operatív Program Plusz (VOP PLUSZ)</li>
+        <li class='custom-list'>Végrehajtási Operatív Program Plusz (VOP PLUSZ)</li>
     </ol>
 `
 
@@ -126,33 +126,33 @@ MMIA PLUSZ:
 
 
 var ch7=`
-<b>Szakpolitikai feljogosító feltételek</b><br><br>
-A 2021-2027-es magyar programoknál az Európai Bizottság 11 esetben állapította meg a szakpolitikai előfeltételek hiányát és (a bírósági probléma mellett) további 3 területen azonosította a Charta sérelmét. Ez azt jelenti, hogy a programok egyedi célkitűzései közül 23-at blokkol szakpolitikai hiányosság (narancs), 5-öt jogsértés (kék) és szintén 5 esetben mindkét probléma fennáll (magenta).<br><br>
+<b>Szakpolitikai feljogosító feltételek (TEC)</b><br><br>
+A 2021-2027-es magyar programoknál az Európai Bizottság 11 esetben állapította meg a szakpolitikai előfeltételek (TEC) hiányát és (a bírósági probléma mellett) további 3 területen azonosította a Charta sérelmét. Ez azt jelenti, hogy a programok egyedi célkitűzései közül 23-at blokkol szakpolitikai hiányosság (narancs), 5-öt jogsértés (kék) és szintén 5 esetben mindkét probléma fennáll (magenta).<br><br>
 Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megvalósítására, nem azt jelenti, hogy az ország uniós költségvetési tervében foglalt fejlesztések nem történnek meg. Ezeket az elfogadott tervek szerint meg kell valósítani a magyar költségvetés terhére, az Unió pedig sikeres korrekció esetén utólag megtéríti a beruházásokat.
 `
 
 var ch7a=`
-Azért, mert Magyarország 11 területen nem teljesíti a támogatások felhasználásához szükséges szakpolitikai előfeltételeket, összesen <b>9,6 milliárd euró</b> van befagyasztva.
+Azért, mert Magyarország 11 területen nem teljesíti a támogatások felhasználásához szükséges szakpolitikai előfeltételeket (TEC), összesen <b>9,6 milliárd euró</b> van befagyasztva.
 A pénzek lehívásához a következő területeken kell az állami stratégiaalkotást magasabb szintre emelni:
 <ol type='1' >
-        <li>Lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítása</li>
-        <li>Az energiaágazat irányítása</li>
-        <li>Ivóvíz- és szennyvízágazatokban szükséges beruházások</li>
-        <li>Hulladékgazdálkodás</li>
-        <li>Átfogó közlekedéstervezés</li>
-        <li>A munkaerőpiac alakítása</li>
-        <li>A nemek közötti egyenlőség előmozdítása</li>
-        <li>Az oktatási és képzési rendszer fejlesztése</li>
-        <li>A társadalmi befogadás előmozdítása és a szegénység csökkentése</li>
-        <li>A romák befogadásának előmozdtása</li>
-        <li>Az egészségügy és a tartós ápolás-gondozási rendszer fejlesztése</li>
+        <li>Lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítása (TEC2.1)</li>
+        <li>Az energiaágazat irányítása (TEC2.2)</li>
+        <li>Ivóvíz- és szennyvízágazatokban szükséges beruházások (TEC2.5)</li>
+        <li>Hulladékgazdálkodás (TEC2.6)</li>
+        <li>Átfogó közlekedéstervezés (TEC3.1)</li>
+        <li>A munkaerőpiac alakítása (TEC4.1)</li>
+        <li>A nemek közötti egyenlőség előmozdítása (TEC4.2)</li>
+        <li>Az oktatási és képzési rendszer fejlesztése (TEC4.3)</li>
+        <li>A társadalmi befogadás előmozdítása és a szegénység csökkentése (TEC4.4)</li>
+        <li>A romák befogadásának előmozdtása (TEC4.5)</li>
+        <li>Az egészségügy és a tartós ápolás-gondozási rendszer fejlesztése (TEC4.6)</li>
     </ol>
 `
 
 
 var ch8=`
-<b>Nem teljesülő szakpolitikai feljogosító feltételek:</b><br><br>
-<ol type="a" start="1"><li><b>Szakpolitikai keret a lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítására</b></li></ol><br>
+<b>Nem teljesülő szakpolitikai feljogosító feltételek (TEC):</b><br><br>
+<ol type="a" start="1"><li><b>Szakpolitikai keret a lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítására (TEC2.1)</b></li></ol><br>
 A szakpolitikai keret hiánya 3 operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre Magyarország addig nem hívhat le uniós forrást, ameddig nem készül az épületek energiahatékonysági felújítására vonatkozó stratégia.<br><br>
 TOP PLUSZ:
 <ul><li>Helyi önkormányzatok épületállományának energiahatékonysági felújítása (RSO2.1)</li></ul>
@@ -165,7 +165,7 @@ DIMOP PLUSZ:
 `
 
 var ch9=`
-<ol type="a" start="2"><li><b>Szakpolitikai keret az energiaágazat irányítására</b></li></ol><br>
+<ol type="a" start="2"><li><b>Szakpolitikai keret az energiaágazat irányítására (TEC2.2)</b></li></ol><br>
 Az szakpolitikai keret hiánya három operatív program öt egyedi célkitűzését érinti, amelyekből hármat a lakóépületek energiahatékonysági fejlesztését szolgáló szakpolitikai keret hiánya is blokkol.  Ezekre a fejlesztésekre addig nem hívható le uniós forrást, ameddig nem készül az energiaszektor irányítására vonatkozó stratégia.<br><br>
 TOP PLUSZ:
 <ul><li>Helyi önkormányzatok épületállományának energiahatékonysági felújítása (RSO2.1)</li></ul>
@@ -179,7 +179,7 @@ DIMOP PLUSZ:
 `
 
 var ch10=`
-<ol type="a" start="3"><li><b>Naprakész tervezés az ivóvíz- és szennyvízágazatokban szükséges beruházásokról</b></li></ol><br>
+<ol type="a" start="3"><li><b>Naprakész tervezés az ivóvíz- és szennyvízágazatokban szükséges beruházásokról (TEC2.5)</b></li></ol><br>
 A szakpolitikai előfeltétel hiánya a KEHOP egy egyedi célkitűzését érinti. Erre a fejlesztésre Magyarország addig nem hívhat le uniós forrást, ameddig nem lesz szakmaibb a vízgazdálkodás állami tervezése.<br><br>
 KEHOP PLUSZ:
 <ul><li>A szennyvíz- és ivóvízhálózat fejlesztése, vízgyűjtő rendszerek létrehozása az éghajlatváltozáshoz való alkalmazkodás érdekében (RSO2.5)</li></ul><br>
@@ -188,7 +188,7 @@ KEHOP PLUSZ:
 `
 
 var ch11=`
-<ol type="a" start="4"><li><b>Naprakész tervezés a hulladékgazdálkodás területén</b></li></ol><br>
+<ol type="a" start="4"><li><b>Naprakész tervezés a hulladékgazdálkodás területén (TEC2.6)</b></li></ol><br>
 A szakpolitikai előfeltétel hiánya két operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem hívható le uniós forrás, ameddig nem lesz szakmaibb a hulladékgazdálkodás állami tervezése.<br><br>
 KEHOP PLUSZ:
 <ul><li>A szelektív hulladékgazdálkodási rendszer fejlesztése (RSO2.6)</li></ul>
@@ -199,7 +199,7 @@ DIMOP PLUSZ:
 `
 
 var ch12=`
-<ol type="a" start="5"><li><b>Átfogó közlekedéstervezés</b></li></ol><br>
+<ol type="a" start="5"><li><b>Átfogó közlekedéstervezés (TEC3.1)</b></li></ol><br>
 A szakpolitikai előfeltétel hiánya az IKOP két egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós támogatást lehívni, ameddig nem lesz szakmaibb a közlekedésfejlesztés állami tervezése.<br><br>
 IKOP PLUSZ:
 <ul><li>Vasútvonalak korszerűsítése és villamosítása (RSO3.1)</li></ul>
@@ -209,7 +209,7 @@ IKOP PLUSZ:
 `
 
 var ch13=`
-<ol type="a" start="6"><li><b>Szakpolitikai keret a munkaerőpiac alakítására</b></li></ol><br>
+<ol type="a" start="6"><li><b>Szakpolitikai keret a munkaerőpiac alakítására (TEC4.1)</b></li></ol><br>
 A szakpolitikai keret hiánya a GINOP egy egyedi célkitűzését érinti. Erre a fejlesztésre addig nem lehet uniós pénzt lehívni, ameddig a foglalkoztatáspolitika állami tervezése nem lesz szakmaibb.<br><br>
 GINOP PLUSZ:
 <ul><li>Az inaktívak és álláskeresők elhelyezkedését támogató képzések megvalósítása, a kormányhivatalok fejlesztése foglalkoztatáspolitikai területen (ESO4.1)</li></ul>
@@ -218,7 +218,7 @@ GINOP PLUSZ:
 `
 
 var ch14=`
-<ol type="a" start="7"><li><b>A nemek közötti egyenlőséget célzó szakpolitikai keret</b></li></ol><br>
+<ol type="a" start="7"><li><b>A nemek közötti egyenlőséget célzó szakpolitikai keret (TEC4.2)</b></li></ol><br>
 A szakpolitikai keret hiánya az EFOP egy egyedi célkitűzését érinti. Erre a fejlesztésre addig nem lehet uniós pénzt lehívni, ameddig a nők munkaerő-piaci és magánéleti támogatásának állami tervezése nem lesz szakmaibb.<br><br>
 EFOP PLUSZ:
 <ul><li>Munkahelyi bölcsődei szolgáltatások biztosítása, beleértve az önkormányzatokat is. Hallgatói jogviszonnyal rendelkező kisgyermeket nevelő szülők támogatása (ESO4.3)</li></ul>
@@ -227,7 +227,7 @@ EFOP PLUSZ:
 `
 
 var ch15=`
-<ol type="a" start="8"><li><b>Az oktatási és képzési rendszer minden szintjét felölelő szakpolitikai keret</b></li></ol><br>
+<ol type="a" start="8"><li><b>Az oktatási és képzési rendszer minden szintjét felölelő szakpolitikai keret (TEC4.3)</b></li></ol><br>
 A szakpolitikai keret hiánya három operatív program összesen hat egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az állami oktatáspolitika tervezése nem lesz szakmaibb.<br><br>
 GINOP PLUSZ:
 <ul><li>A szakképzési rendszer fejlesztése (RSO4.2)</li></ul>
@@ -243,7 +243,7 @@ DIMOP PLUSZ:
 `
 
 var ch16=`
-<ol type="a" start="9"><li><b>A társadalmi befogadásra és a szegénység csökkentésére irányuló szakpolitikai keret</b></li></ol><br>
+<ol type="a" start="9"><li><b>A társadalmi befogadásra és a szegénység csökkentésére irányuló szakpolitikai keret (TEC4.4)</b></li></ol><br>
 A szakpolitikai keret hiánya két operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az állami szociálpolitika tervezése nem lesz szakmaibb.<br><br>
 TOP PLUSZ:
 <ul><li>Helyi szociális alapszolgáltatások fejlesztése (ESO4.8)</li></ul>
@@ -254,7 +254,7 @@ EFOP PLUSZ:
 `
 
 var ch17=`
-<ol type="a" start="10"><li><b>A romák befogadására vonatkozó szakpolitikai keret</b></li></ol><br>
+<ol type="a" start="10"><li><b>A romák befogadására vonatkozó szakpolitikai keret (TEC4.5)</b></li></ol><br>
 A szakpolitikai keret hiánya két operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig a romák integrációját szolgáló állami intézkedések megtervezése nem lesz szakmaibb.<br><br>
 TOP PLUSZ:
 <ul><li>Marginalizált közösségek, a romák társadalmi-gazdasági integrációjának előmozdítása közösségfejlesztés, integrációs programok, infrastrukturális fejlesztések révén (ESO4.10)</li></ul>
@@ -265,7 +265,7 @@ EFOP PLUSZ:
 `
 
 var ch18=`
-<ol type="a" start="11"><li><b>Az egészségügyre és tartós ápolás-gondozásra vonatkozó szakpolitikai keret</b></li></ol><br>
+<ol type="a" start="11"><li><b>Az egészségügyre és tartós ápolás-gondozásra vonatkozó szakpolitikai keret (TEC4.6)</b></li></ol><br>
 A szakpolitikai keret hiánya két operatív program összesen három egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az egészségügy fejlesztésének állami tervezése nem lesz szakmaibb.<br><br>
 TOP PLUSZ:
 <ul><li>A szociális ellátásban dolgozók helyzetének javítása képzések, illetve mobilitási- és lakhatási támogatások révén (RSO4.5)</li></ul>
