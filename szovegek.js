@@ -70,7 +70,7 @@ Az uniós költségvetési források legnagyobb része azért került visszatart
         <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
     </ol>
 Az e három területen fennálló jogsértések miatt 2,7 milliárd euró továbbra is zárolva maradt. 
-</b> továbbra is zárolva maradt.<br><br>
+<br><br>
 A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a továbbra is fennálló jogsértések orvoslására.
 `
 
