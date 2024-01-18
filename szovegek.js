@@ -46,7 +46,7 @@ A nyolc uniós pénzügyi alapot érintő  úgynevezett  közös rendelkezésekr
 <br><br>
 Az Európai Bizottság értékeli és jóváhagyja a tagállamok által benyújtott programokat, adott esetben pedig feltünteti, hogy az alapjogi, valamint szakpolitikai előfeltételek mely egyedi célkitűzés(ek)nél nem teljesülnek. Amennyiben egy jogsértés kapcsolatba hozható egy egyedi célkitűzéssel, akkor vonatkozásában uniós támogatás nem igényelhető. 
 <br><br>
-    <ol type=" A" start="1"><li><b>Igazságszolgáltatás függetlensége (Charta 47. cikk)</b></li></ol><br>
+    <ol type="<b>A" start="1"><li><b>Igazságszolgáltatás függetlensége (Charta 47. cikk)</b></li></ol><br>
 Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül pedig nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen az összes operatív program összes egyedi célkitűzését érintette az azonosított Charta-sérelem. Ez alól kivételt képezett a VOP Plusz, amely nem tartalmaz valódi fejlesztési célt és ahhoz tartozó egyedi célkitűzéseket.<br><br>
 Az igazságszolgáltatás problémáinak orvoslásáig 21,3 milliárd eurót fagyasztottak be. A források feloldásáért Magyarországnak négy területen kellett megerősítenie a bíróságok függetlenségének garanciáit: 
 <ol type='1' >
@@ -69,8 +69,7 @@ Az uniós költségvetési források legnagyobb része azért került visszatart
         <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
         <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
     </ol>
-Az e három területen fennálló jogsértések miatt 2,7 milliárd euró továbbra is zárolva maradt. 
-<br><br>
+Az e három területen fennálló jogsértések miatt 2,7 milliárd euró továbbra is zárolva maradt.<br><br>
 A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a továbbra is fennálló jogsértések orvoslására.
 `
 
