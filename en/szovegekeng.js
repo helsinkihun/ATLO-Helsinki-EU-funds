@@ -48,8 +48,8 @@ var ch2=`
 The European Commission assesses and approves the programmes submitted by Member States. In its decision, the Commission identifies the affected specific objective(s) in the event of breaches of fundamental rights and, when applicable, non-compliance with strategic policy requirements. Expenditures linked to the affected objectives cannot be reimbursed until the relevant enabling conditions are fulfilled.<br><br>
 <ol type="A" start="1"><li><b>A.	Independence of the judiciary (Article 47 of the Charter)</b></li></ol><br>
 The most comprehensive breach concerning the Hungarian programmes related to the shortcomings concerning the independence of the judiciary.<br><br>
-The European Commission found that the justice system in Hungary failed to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of the Charter could not be ensuredwhich affects all Hungarian operational programmes. The exception to this was IOP PLUS.<br><br>
-<br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding was suspended until the identified issues were addressed. To unblock the related funds, Hungary committed to strengthen elements of judicial independence in four areas:
+The European Commission found that the justice system in Hungary failed to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of EU law, including  the compliance with the Charter could not be ensured which affected all Hungarian operational programmes. The exception to this was IOP Plus, which does not contain specific development objectives.<br><br>
+<br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding was blocked until the identified issues were properly addressed. To unblock the funds, Hungary strengthened elements of judicial independence in four areas:
 <ol type='1' >
 <li>Strengthening the role and powers of the National Judicial Council to counterbalance the powers of the President of the National Office for the Judiciary</li>
 <li>Strengthening judicial independence of the Supreme Court (Kúria)</li>
@@ -63,14 +63,14 @@ The judicial reform for reinfocing judicial independence was adopted by the Hung
 
 var ch3=`
 <b>Additional funding suspended for the violations of fundamental rights and freedoms</b><br><br>
-Hungary fails to respect multiple rights enshrined in the EU Charter of Fundamental Rights. The breaches are related to four areas:<br><br>
+Hungary fails to respect multiple fundamental rights enshrined in the EU Charter in four areas:<br><br>
 <ol type='1' >
-<li>Academic freedom is infringed in Hungarian universities maintained by public interest asset management trusts (KEKVAs).</li>
+<li>Academic freedom is infringed in Hungarian universities maintained by public interest asset management trusts.</li>
 <li>LGBTQI rights are violated by provisions of Hungary’s homophobic propaganda law (Act LXXIX of 2021).</li>
 <li>The right to asylum is denied due to systemic shortcomings of the Hungarian asylum system.</li>
 <li>The right to an effective remedy and a fair trial is not guaranteed by the Hungarian judiciary.</li>
 </ol>
-Out of these, only the judicial issue has been properly addressed. EUR 2.7 billion remains blocked due to fundamental right violations in the remaining three areas.
+Following the approval of the Hungarian judicial reform, EUR 2.7 billion remains blocked due to fundamental right violations in the remaining three areas.
 `
 
 
