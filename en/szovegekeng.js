@@ -266,12 +266,12 @@ HRDOP PLUS:
 
 
 var ch19=`
-<b>Rule of Law Conditionality Mechanism</b><br><br>
+<b>Rule of Law Conditionality Regulation</b><br><br>
 In its decision of 15 December 2022, the Council blocked 55 % of the budgetary commitments under 3 operational programmes that were expected to be implemented mainly through public procurement (ITDOP PLUS, TSDOP PLUS, EEEOP PLUS).<br><br>
 The withdrawal of the financial measures is conditional on the proper implementation of 17 remedial measures which are designed to address weaknesses and irregularities related to public procurement procedures, national anti-corruption framework and the effectiveness of investigation and prosecution of corruption.<br><br>
-The Hungarian Government reports every three months on the state of implementation of the reforms to the European Commission. New evidence can be submitted any time, in the form of a written notification, to show that the identified shortcomings had been sufficiently addressed.<br><br> 
-The Commission may assess the implementation of new measures and, in the event of positive assessment, proposes the Council to withdraw the adopted financial restrictions or reduce suspension.<br><br> 
-Up to this date, the implementation of the 17 anti-corruption measures remain incomplete. Thus, the financial restrictions adopted by the Council for the protection of the Union’s financial interests are in place, unchanged.<br><br> 
+The Hungarian Government shall report every three months on the state of implementation of the reforms to the European Commission. New evidence can be submitted any time, in the form of a written notification, to show that the identified shortcomings had been sufficiently addressed.<br><br> 
+The Commission may assess the implementation of new measures and, in the event of positive assessment, propose the Council to withdraw the adopted financial measures or reduce suspension.<br><br> 
+Up to this date, the implementation of the 17 anti-corruption measures remains incomplete. Thus, the financial restrictions adopted by the Council for the protection of the Union’s financial interests are unchanged and in place.<br><br> 
 <i><b>EUR 6,3 billion is conditional on the full implemetation of the 17 remedial measures.</b></i>
 
 `
@@ -298,8 +298,8 @@ Hungary is eligible for EUR 5.8 billion in grant and EUR 9.4 billion in loan und
 `
 
 var ch21=`
-As a consequence of systemic corruption and issues related to the independence of the judiciary, Hungary's recovery plan, in addition to the regular milestones and objectives, also includes 27 “super-milestones” which are designed to upgrade the national anti-corruption framework and strengthen the integrity of the judiciary for the protection of the Union’s financial interests.<br><br>
-The identified “super milestones” shall be fulfilled before the submission of the first payment request under the RRF.<br><br>
+As a consequence of systemic corruption and issues related to the independence of the judiciary, Hungary's recovery plan, in addition to the regular milestones and objectives, also includes 27 “super-milestones” which are designed to upgrade the national anti-corruption framework and strengthen the integrity of the judiciary for the protection of the Union’s financial interests. 17 out of the 27 “super-milestones” are identical to the remedial measures proposed under the conditionality regulation and 4 “super-milestones” are equivalent to the judicial reforms implemented under the CPR.<br><br>
+All identified “super milestones” shall be fulfilled before the submission of the first payment request under the RRF.<br><br>
 <i><b>Recovery funding of EUR 9,5 billion remains conditional on the achievement of the 27 “super milestones”.</b></i>
 
 `
@@ -311,12 +311,12 @@ var szovegoutro1 = `
 
 
 <b>The Procedures</b><br><br>
-<u>Rule of law conditionality procedure</u><br><br>
-The procedure is designed to protect the Union’s financial interest in the event of breaches of the principles of the rule of law in a Member State that have an impact on the sound financial management of EU funds. Financial measures are adopted by the Council based on the Commission’s proposal. Hungary is obliged to implement seventeen remedial measures aiming for strengthening the national anti-corruption framework. Suspended funds are lost to the Member State should the implementation of the identified remedial measures be incomplete after two years from the year of the Council decision.<br><br>
+<u>Rule of law conditionality mechanism</u><br><br>
+The procedure is designed to protect the Union’s financial interest in the event of breaches of the principles of the rule of law in a Member State that have an impact on the sound financial management of EU funds in a sufficiently direct way. Financial measures are adopted by the Council based on the Commission’s proposal. Hungary is obliged to implement seventeen remedial measures aiming to strengthen the overall anti-corruption framework. Suspended funds are lost to the Member State should the implementation of the identified remedial measures be incomplete after two years from the year of the Council decision.<br><br>
 <div class="gombpanel"><div class="valtogomb readmore1">Find out more!</div></div><br><br>
 <u>Common Provisions Regulation</u><br><br>
-There are five cohesion Funds and three migration and home affairs Funds providing financial support under the multiannual financial framework. The eight Funds are governed by common provisions.<br><br>
-The common provisions stipulate compulsory preconditions that must be fulfilled. MSs must ensure that freedoms and human rights enshrined in the Charter are respected during the implementation of  the national operative programmes. Moreover, with regard to three Funds (European Regional Development Fund, European Social Fund, Cohesion Fund) MSs may comply with thematic enabling conditions for the achievement of the specific objectives in the operative programmes as well.<br><br>
+There are five cohesion Funds and three migration and home affairs Funds providing financial support under the multiannual financial framework. The CPR lays down financial rules for eight and common provisions for three EU Funds.<br><br>
+The common provisions stipulate compulsory preconditions that must be fulfilled. Member States must ensure that fundamental rights enshrined in the Charter are respected during the implementation of the national operative programmes. Moreover, with regard to three Funds (European Regional Development Fund, European Social Fund, Cohesion Fund) MSs shall comply with thematic enabling conditions as well.<br><br>
 In the Hungarian case, the European Commission identified breaches of the Charter in four areas. In addition, eleven thematic enabling conditions have not been met. 
 <br><br>
 <div class="gombpanel"><div class="valtogomb readmore2">Find out more!</div></div><br><br>
@@ -354,20 +354,23 @@ Payments of EUR 12 billion under the MFF and EUR 9,5 under the RRF remain condit
 `
 
 var readmore1 =`
-A breach of principles of the rule of law may fall under the scope of the conditionality procedure when the proper functioning of the authorities implementing the Union budget is not guaranteed, in particular, in the context of public procurement or grant procedures. The Commission may notify the Member State in concern about the detected irregularities and shortcomings and the Member State may propose remedial measures in its response. The Commission proposes proportionate financial measures to the Council should the remedial measures taken by the Member State are not sufficient or partially implemented.<br><br>
-If the European Commission considers that such a situation exists in a Member State and cannot be remedied by other EU procedures, it will notify the government, indicating the problems. In response, the Member State may propose corrective measures. If the European Commission considers that the corrective measures undertaken do not adequately address the situation or are not properly implemented, it will propose to the Council proportionate measures to protect the EU budget. The Council decides by qualified majority on the proposal or may amend it. In order to protect the EU budget, the Council may suspend payments in progress or prohibit new commitments against the EU budget. This process was completed for Hungary in 2022, with the Council decision taken on 15 December.
+A breach of principles of the rule of law may fall under the scope of the conditionality procedure when the proper functioning of the authorities implementing the Union budget is not guaranteed, in particular, in the context of public procurement or grant procedures. The Commission may notify the Member State in concern about the detected irregularities and shortcomings and the Member State may propose remedial measures in its response.<br><br>
+If the European Commission considers that such a situation exists in a Member State and cannot be remedied by other EU procedures, it notifies the government, indicating the problems. In response, the Member State may propose corrective measures.<br><br>
+If the European Commission considers that the corrective measures do not adequately address the situation or are not properly implemented, it will propose to the Council proportionate measures to protect the EU budget. The Council decides by qualified majority on the proposal or may amend it. In order to protect the EU budget, the Council may suspend payments in progress or prohibit new commitments against the EU budget.<br><br>
+This process was completed for Hungary in 2022, with the Council decision taken on 15 December.
 `
 
 var readmore2 =`
-MSs prepare budget plans for seven years pursuant to the multiannual financial framework. The so-called Partnership Agreement lays down the strategic development goals and the allocated funds for the seven year programming period. The European Commission may review and approve the PA. MSs also prepare thematic operative programmes which lay down detailed plans for the achievement development goals financed by eight Union Funds. For example, there is an operational programme for settlement development, transport development or digital renewal. OPs set out one or more priorities that are attainable through the achievement of minor development goals, i.e. specific objectives. 
+Member States prepare budget plans for seven years pursuant to the multiannual financial framework. Concerning five Funds, the so-called Partnership Agreement (PA) lays down the strategic development goals and the allocated funds for the seven year programming period. The European Commission may review and approve the PA.<br><br>
+Member States also prepare thematic operative programmes which lay down detailed plans for the achievement development goals financed by eight Union Funds. For example, there is dedicated operational programme for settlement development, transport development or digital renewal. Operational programmes set out one or more priorities that are attainable through the achievement of minor development goals, i.e. specific objectives.
 `
 
 var readmore3 =`Ez nem kell
 `
 
 var readmore4 =`
-Member States prepare national recovery and resilience plans. The recovery plans set out milestones, targets and an indicative agenda for the reforms and investments to be achieved pursuant to the main policy objectives prescribed by the RRF Regulation. 
-Member States may submit requests for payments to the Commission in accordance with the advancement of the envisaged reforms, following the achievement of a set of milestones and targets set out in their national plan. The Commission examines whether the milestones and targets have been indeed met in a satisfactory manner. According to the assessment, earmarked recovery funds may be disbursed or suspended.
+Member States prepare national recovery and resilience plans. The recovery plans set out milestones, targets and an indicative agenda for the reforms and investments to be achieved pursuant to the main policy objectives prescribed by the RRF Regulation.<br><br> 
+Member States may submit requests for payments to the Commission in accordance with the advancement of the envisaged reforms, following the achievement of a set of milestones and targets set out in their national plans. The Commission examines whether the milestones and targets have been indeed met in a satisfactory manner. According to the assessment, earmarked recovery funds may be disbursed or suspended.
 
 `
 
