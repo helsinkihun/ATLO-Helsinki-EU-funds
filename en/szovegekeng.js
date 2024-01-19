@@ -102,7 +102,7 @@ HRDOP PLUS:
 <ul><li>Training for parents and foster parents and capacity building for workers in the social and child protection system (EESO4.6)</li></ul>
 DROP PLUS:
 <ul><li>Promoting digital education in public education and developing a digital curriculum (DESO4.5)</li></ul>
-<i><b>EUR 700 million is suspended until LGBTQI right are respected</b></i>
+<i><b>EUR 700 million is suspended until LGBTQI rights are respected</b></i>
 
 `
 
