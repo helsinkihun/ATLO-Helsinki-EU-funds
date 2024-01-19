@@ -35,7 +35,7 @@ Magyarország a 2021-2027-es költségvetési időszakban nyolc uniós alapból 
 
 
 var ch1=`
-A magyar programok közül a legtöbb EU-s pénzt a GINOP PLUSZ tartalmazza, csaknem 5 milliárd eurót, míg a legkisebb program, a MAHOP PLUSZ, csupán 37 millió euróval. A VOP Plusz a többi programmal ellentétben nem irányoz elő tematikus fejlesztési célt, forrásai az egyes programok végrehajtásáért felelős állami szervek, fejlesztésére fordíthatók.<br><br>
+A magyar programok közül a legtöbb EU-s pénzt a GINOP PLUSZ tartalmazza, csaknem 5 milliárd eurót, míg a legkisebb program, a MAHOP PLUSZ, csupán 37 millió euróval. A VOP PLUSZ a többi programmal ellentétben nem irányoz elő tematikus fejlesztési célt, forrásai az egyes programok végrehajtásáért felelős állami szervek, fejlesztésére fordíthatók.<br><br>
 Az egyes operatív programok a nagyobb szakpolitikai célkitűzésekhez kapcsolódóan  úgynevezett <b>egyedi célkitűzéseket</b> tartalmaznak.<br><br>
 Például az EFOP PLUSZ, amely a köznevelés, valamint a szociális ellátás fejlesztési tervét tartalmazza, 8 egyedi célkitűzésből épül fel. Ezek közül van, amelyik a romák társadalmi felzárkóztatását célozza, van, amelyik a gyermeket nevelő nők munkaerő-piaci helyzetét javítja, és ebben az operatív programban szerepel a pedagógusok átlagbérének növelése is.
 `
@@ -47,7 +47,7 @@ A nyolc uniós pénzügyi alapot érintő  úgynevezett  közös rendelkezésekr
 Az Európai Bizottság értékeli és jóváhagyja a tagállamok által benyújtott programokat, adott esetben pedig feltünteti, hogy az alapjogi, valamint szakpolitikai előfeltételek mely egyedi célkitűzés(ek)nél nem teljesülnek. Amennyiben egy jogsértés kapcsolatba hozható egy egyedi célkitűzéssel, akkor vonatkozásában uniós támogatás nem igényelhető. 
 <br><br>
     <ol type="<b>A" start="1"><li><b>Igazságszolgáltatás függetlensége (Charta 47. cikk)</b></li></ol><br>
-Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül pedig nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen az összes operatív program összes egyedi célkitűzését érintette az azonosított Charta-sérelem. Ez alól kivételt képezett a VOP Plusz, amely nem tartalmaz valódi fejlesztési célt és ahhoz tartozó egyedi célkitűzéseket.<br><br>
+Az Európai Bizottság megállapította, hogy a hazai bíróságok nem képesek biztosítani a hatékony jogorvoslathoz és tisztességes eljáráshoz való alapjogot. Független bíróságok nélkül pedig nem garantálható a Chartának való megfelelés sem. Ennek eredményeképpen az összes operatív program összes egyedi célkitűzését érintette az azonosított Charta-sérelem. Ez alól kivételt képezett a VOP PLUSZ, amely nem tartalmaz valódi fejlesztési célt és ahhoz tartozó egyedi célkitűzéseket.<br><br>
 Az igazságszolgáltatás problémáinak orvoslásáig 21,3 milliárd eurót fagyasztottak be. A források feloldásáért Magyarországnak négy területen kellett megerősítenie a bíróságok függetlenségének garanciáit: 
 <ol type='1' >
         <li>A bírák önigazgatási szervének, az Országos Bírói Tanácsnak megerősítése az Országos Bírósági Hivatal, valamint a Kúria elnökének ellensúlyozása érdekében.</li>
@@ -64,18 +64,17 @@ var ch3=`
 <b>További befagyasztási okok</b><br><br>
 Az uniós költségvetési források legnagyobb része azért került visszatartásra, mert Magyarország nem biztosítja megfelelően az Unió Alapjogi Chartájában szereplő jogokat. A jogsértések négy területet érintenek:<br><br>
 <ol type='1' >
-        <li>A tudomány és művészet szabadsága sérül azokon a magyar egyetemeken, amelyeket közérdekű vagyonkezelő alapítványok tartanak fenn</li>
+        <li>A tudomány szabadsága sérül azokon a magyar egyetemeken, amelyeket közérdekű vagyonkezelő alapítványok tartanak fenn</li>
         <li>A szexuális kisebbségekhez tartozók emberi jogait sértik a „gyermekvédelmi törvény” (a „propagandatörvény”) rendelkezései.</li>
-        <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
         <li>A magyar menekültügyi rendszer nem biztosítja a menedékhez való jogot az arra jogosultak számára.</li>
     </ol>
 Az e három területen fennálló jogsértések miatt 2,7 milliárd euró továbbra is zárolva maradt.<br><br>
-A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottság felé a továbbra is fennálló jogsértések orvoslására.
+A magyar kormány eddig semmilyen jelzést nem tett az Európai Bizottságnak az azonosított problémák kezeléséről.
 `
 
 
 var ch4=`
-<ol type="A" start="2"><li><b>Művészet és tudomány szabadsága (Charta 13. cikk):</b></li></ol><br>
+<ol type="A" start="2"><li><b>A tudomány szabadsága (Charta 13. cikk):</b></li></ol><br>
 Az Európai Bizottság megállapította, hogy azokon az egyetemeken, amelyek fenntartását közérdekű vagyonkezelő alapítványok vették át, nem érvényesül a tudomány szabadsága. A kormány által kinevezett kuratóriumi tagok ugyanis olyan kiterjedt kontrollt gyakorolnak az egyetemek tudományos közössége felett, amely alkalmas például az oktatói kinevezések, a tananyag, a kutatási projektek és publikációs témák közvetlen politikai befolyásolására.<br><br>
 Ez a probléma kapcsolatba hozható a GINOP PLUSZ és a DIMOP PLUSZ azon egyedi célkitűzéseivelm, amelyek a felsőoktatási intézmények fejlesztését irányozzák elő.<br><br>
 GINOP PLUSZ:
@@ -143,7 +142,7 @@ A pénzek lehívásához a következő területeken kell az állami stratégiaal
         <li>A nemek közötti egyenlőség előmozdítása (TEC4.2)</li>
         <li>Az oktatási és képzési rendszer fejlesztése (TEC4.3)</li>
         <li>A társadalmi befogadás előmozdítása és a szegénység csökkentése (TEC4.4)</li>
-        <li>A romák befogadásának előmozdtása (TEC4.5)</li>
+        <li>A romák befogadásának előmozdítása (TEC4.5)</li>
         <li>Az egészségügy és a tartós ápolás-gondozási rendszer fejlesztése (TEC4.6)</li>
     </ol>
 `
@@ -279,11 +278,11 @@ EFOP PLUSZ:
 
 var ch19=`
 <b>Feltételességi eljárás</b><br><br>
-A Tanács 2022. decemberi döntésével az unió pénzügyi érdekeinek védelmében addig zárolta a Magyarországnak szánt pénzeket, amíg a kormány nem orvosolja a feltételességi eljárás keretében azonosított korrupciós problémákat. Ehhez 17, a magyar kormány vállalt korrekciós intézkedést kell végrehajtani.<br><br>
+A Tanács 2022. decemberi döntésével az Unió pénzügyi érdekeinek védelmében addig zárolta a Magyarországnak szánt pénzeket, amíg a kormány nem orvosolja a feltételességi eljárás keretében azonosított korrupciós problémákat. Ehhez 17, a magyar kormány vállalt korrekciós intézkedést kell végrehajtani.<br><br>
 A kormánynak háromhavonta be kell számolnia az Európai Bizottságnak a reformok végrehajtásának helyzetéről. Ezenkívül a magyar fél bármikor értesítheti a Bizottságot arról, hogy a korrekciós intézkedéseket végrehajtotta.<br><br>
 A Bizottság értékeli a kormány intézkedéseit, és javaslatot terjeszt a Tanács elé az eljárás megszüntetéséről, illetve a pénzügyi intézkedések mérsékléséről vagy fenntartásáról. A tagállamok miniszterei ezek alapján döntenek.<br><br>
-elen állapot szerint a kormány még nem hajtotta végre a vállalt reformokat. Ennek értelmében a közbeszerzéseknek legnagyobb mértékben kitett és a közös rendelkezésekről szóló rendelettel érintett alapokból finanszírozott 3 magyar operatív program, a TOP (terület- és településfejlesztés) a KEHOP (környezet és energiahatékonyság) és az IKOP (közlekedésfejlesztés) támogatásainak 55%-át nem hívhatja le a magyar kormány.<br><br>
-Ezen felül pedig a tanácsi döntés megtiltott minden olyan uniós pénzügyi kifizetést, amelynek kedvezményezettje közfeladatot ellátó <a href="https://helsinkifigyelo.444.hu/2023/01/12/kerdezz-felelek-az-erasmus-osztondijak-befagyasztasarol"target="_blank">közérdekű vagyonkezelő alapítvány.</a> (Ilyen a hazai egyetemek döntő többsége.) Ez utóbbi intézkedés nem csupán az uniós költségvetési alapok támogatásaira vonatkozik, de az Európai Bizottság saját pénzügyi transzfereire is. Ide tartoznak többek között az ERASMUS mobilitási támogatások és a Horizon kutatási források is.<br><br>
+Jelen állapot szerint a kormány még nem hajtotta végre a vállalt reformokat. Ennek értelmében a közbeszerzéseknek legnagyobb mértékben kitett és a közös rendelkezésekről szóló rendelettel érintett alapokból finanszírozott 3 magyar operatív program, a TOP PUSZ (terület- és településfejlesztés) a KEHOP PLUSZ (környezet és energiahatékonyság) és az IKOP PLUSZ (közlekedésfejlesztés) támogatásainak 55%-át nem hívhatja le a magyar kormány.<br><br>
+Ezen felül pedig a tanácsi döntés megtiltott minden olyan uniós pénzügyi kifizetést, amelynek kedvezményezettje közfeladatot ellátó <a href="https://helsinkifigyelo.444.hu/2023/01/12/kerdezz-felelek-az-erasmus-osztondijak-befagyasztasarol"target="_blank">közérdekű vagyonkezelő alapítvány.</a> (Ilyen a hazai egyetemek túlnyomó többsége.) Ez utóbbi intézkedés nem csupán az uniós költségvetési alapok támogatásaira vonatkozik, de az Európai Bizottság saját pénzügyi transzfereire is. Ide tartoznak többek között az ERASMUS mobilitási támogatások és a Horizon kutatási források is.<br><br>
 <i>A korrupcióellenes intézkedések végrehajtásáig <b>6,3 milliárd euró</b> marad befagyasztva.</i>
 `
 
@@ -304,7 +303,7 @@ A Helyreállítási Terv egy olyan reformfolyamatot irányoz elő, amelynek ered
         <li>Jó kormányzás</li>
     </ol>
 A Helyreállítási Tervben felvázolt reformfolyamat során úgynevezett mérföldköveket, valamint célokat kell teljesíteni. A Bizottság a teljesített mérföldkövek és célok alapján folyósítja a helyreállítási forrásokat.<br><br>
-A fejlesztések megvalósítására Magyarország <b>5,8 milliárd euró</b> vissza nem térítendő támogatásra , valamint <b>3,9 milliárd</b> kedvezményes hitelre jogosult.az eredeti támogatási összeg kiegészült egy további, <b>700 millió eurós</b> csomaggal, amelyet az orosz energiabehozatal kiváltására lehet felhasználni (REPowerEU). <br><br> 
+A fejlesztések megvalósítására Magyarország <b>5,8 milliárd euró</b> vissza nem térítendő támogatásra , valamint <b>3,9 milliárd</b> kedvezményes hitelre jogosult. Ezentúl pedig az eredeti támogatási összeg kiegészült egy további, <b>700 millió eurós</b> csomaggal, amelyet az orosz energiabehozatal kiváltására lehet felhasználni (REPowerEU). <br><br> 
 
 A helyreállítási reform végrehajtására 2026. augusztus 31-ig van lehetőség.
 
