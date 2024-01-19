@@ -63,7 +63,7 @@ Az Országgyűlés 2023. május 3-án fogadta el a bíróságok függetlenségé
 
 var ch3=`
 <b>További befagyasztási okok</b><br><br>
-Az uniós költségvetési források legnagyobb része azért került visszatartásra, mert Magyarország nem biztosítja megfelelően az Unió Alapjogi Chartájában szereplő jogokat. A jogsértések négy területet érintenek:<br><br>
+Az uniós költségvetési források legnagyobb része azért került visszatartásra, mert Magyarország nem biztosítja megfelelően az Unió Alapjogi Chartájában szereplő jogokat. A jogsértések (az orvosolt igazságszolgáltatási problémák mellett) három területet érintenek:<br><br>
 <ol type='1' >
         <li>A tudomány szabadsága sérül azokon a magyar egyetemeken, amelyeket közérdekű vagyonkezelő alapítványok tartanak fenn</li>
         <li>A szexuális kisebbségekhez tartozók emberi jogait sértik a „gyermekvédelmi törvény” (a „propagandatörvény”) rendelkezései.</li>
