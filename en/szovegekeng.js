@@ -38,7 +38,7 @@ Hungary is eligible for a total of EUR 22 billion from 8 EU Funds in the 2021-20
 
 var ch1=`
 The largest portion of EU funds is allocated to EDIOP, while the smallest programme is HFOP.<br><br>
-Operational Programmes are built of so-called specific objectives setting out minor development goals which are consistent with the main priorities of each programme.<br><br>
+Operational Programmes, with one exception, are built of so-called specific objectives setting out minor development goals which are consistent with the main priorities of each programme.<br><br>
 For example, HRDOP PLUS which outlines developments in public education and social services, consists of 8 specific objectives, which are designed to strengthen Roma integration, improve labour market conditions for women or raise salaries of teachers in public education.<br><br> 
 The exception is IOP PLUS, which does not foresee development goals, but contributes to the improvement of national authorities managing the implementation of the EU budget for the efficient and timely utilisation of Union funds.<br><br> 
 `
