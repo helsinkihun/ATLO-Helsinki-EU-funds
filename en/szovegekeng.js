@@ -77,7 +77,7 @@ Following the approval of the Hungarian judicial reform, EUR 2.7 billion remains
 var ch4=`
 <ol type="A" start="2"><li><b>Freedom of the arts and sciences (Article 13 of the Charter):</b></li></ol><br>
 The European Commission has found that scientific research is not free of constraints at those universities which have been transformed from public universities into publicly funded private universities, maintained by newly established public interest asset management trusts.<br><br>
-At these higher education institutions, there is a serious risk that the courses and research projects, are politically influenced as well as the staff will be selected on the basis of their alignment with the university management’s political views instead of merit and expertise.<br><br>
+Due to the governing structure of these bodies, there is a serious risk that the courses and research projects, are politically influenced as well as the staff will be selected on the basis of their alignment with the university management’s political views instead of merit and expertise.<br><br>
 Violations of academic freedom relate to those specific objectives of the EDIOP PLUS and DROP PLUS programmes which set out higher education development goals.<br><br>
 EDIOP PLUS:
 <ul><li>Empowerment of disadvantaged students (ESO4.6)</li></ul>
@@ -93,8 +93,8 @@ DROP PLUS:
 var ch5=`
 <ol type="A" start="3"><li><b>LGBTQI Rights (Article 1, 7, 11, 21 of the Charter):</b></li></ol><br>
 The European Commission found that Hungary’s homophobic "propaganda law" (Act LXXIX of 2021) violates the rights to human dignity, respect for private and family life, freedom of thought and conscience and non-discrimination of persons belonging to sexual minorities by prohibiting the portrayal of divergence from self-identity corresponding to sex at birth, sex change or homosexuality' for individuals under the age of 18.<br><br>
-In  July 2021, the Commission launched an infringement procedure against Hungary concerning the legislation. The case is pending in front of the court of Justice of the EU.<br><br>
-Violation of LGBTQI rights relates to those special objectives of EDIOP PLUS, HRDOP PLUS and DROP PLUS which set out goals for the development of children in public education.<br><br>
+In July 2021, the Commission launched an infringement procedure against Hungary concerning this legislation. The case is pending in front of the court of Justice of the EU.<br><br>
+The violation of LGBTQI rights relates to those special objectives of EDIOP PLUS, HRDOP PLUS and DROP PLUS which set out goals for the developments in public education.<br><br>
 EDIOP PLUS:
 <ul><li>Training for in-service teachers in vocational schools and development an advanced career guidance system for vocational students (ESO4.5)</li></ul>
 HRDOP PLUS:
@@ -112,7 +112,7 @@ var ch6=`
 The European Commission found that the right to asylum is not respected in Hungary due to systemic irregularities and shortcomings of the asylum system.<br><br>
 In December 2020, the Court of Justice of the European Union (CJEU) ruled that the Hungarian Police's practice to collectively apprehend and expulse irregular migrants to Serbia without any assessment of their individual circumstances and without legal remedy, violates EU law. The practice bars asylum seekers from the asylum procedure, inconsistent with the prohibition of collective expulsion and deprives victims of the right to an effective judicial remedy, respect for private and family life, as well as the fundamental rights of children in concern. The implementation of the judgment is pending.<br><br>
 In November 2021, the CJEU also established that provisions of the so-called “Stop-Soros” legislation criminalising the organisation of activities carried out to assist the initiation of applications for international protection, are inconsistent with EU law. The implementation of the judgment is pending.<br><br>
-Hungary introduced a pre-procedure that must be completed in a Hungarian Embassy in Belgrade or Kiev before the submission of an actual asylum claim in 2020. The CJEU delivered its judgment on the so-called “embassy system” in June 2023 establishing inconsistency between EU law and the Hungarian asylum system.<br><br>
+Hungary introduced a pre-procedure that must be completed in a Hungarian Embassy in Belgrade or Kyiv before the submission of an actual asylum claim in 2020. The CJEU delivered its judgment on the so-called “embassy system” in June 2023 establishing inconsistency between EU law and the Hungarian asylum system.<br><br>
 Violations of the right to asylum relates to those specific objectives of the AMIF programmes which set out goals for addressing irregular migration.:<br><br>
 AMIF:
 <ul><li>Strengthening the Common European Asylum System (SOM1)</li></ul>
