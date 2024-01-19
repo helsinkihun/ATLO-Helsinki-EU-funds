@@ -48,7 +48,7 @@ var ch2=`
 "Common provisions" stipulate compulsory preconditions that must be fulfilled before the realisation of EU payments. Member States must ensure that freedoms and human rights enshrined in the Charter are respected and an appropriate strategic policy framework is in place during the implementation of the operational programmes.<br><br>
 The European Commission assesses and approves the programmes submitted by Member States. In its decision, the Commission identifies the affected specific objective(s) in the event of breaches of fundamental rights and, when applicable, non-compliance with strategic policy requirements. Expenditures linked to the affected objectives cannot be reimbursed until the relevant enabling conditions are fulfilled.<br><br>
 <ol type="A" start="1"><li><b>A.	Independence of the judiciary (Article 47 of the Charter)</b></li></ol><br>
-The most serious infringement which affected Hungarian programmes related to the deficiencies in the independence of the judiciary.<br><br>
+The most comprehensive breach concerning the Hungarian programmes related to the shortcomings concerning the independence of the judiciary.<br><br>
 The European Commission found that the justice system in Hungary failed to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of the Charter could not be ensuredwhich affects all Hungarian operational programmes. The exception to this was IOP PLUS.<br><br>
 <br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding was suspended until the identified issues were addressed. To unblock the related funds, Hungary committed to strengthen elements of judicial independence in four areas:
 <ol type='1' >
