@@ -1,6 +1,6 @@
 var szovegintro = `
 <div id="refresh"><b>Utolsó frissítés: 2023.12.15.</b></div><br><br>
-<b>Mekkora pénzről van szó?</b><br><br>A 2021-2027-es európai uniós költségvetésből, konkrétabban a kohéziós és egyéb alapokból, valamint a Helyreállítási Eszközből (RRF) összesen 22,7 milliárd eurót, azaz több mint 8 600 milliárd forintot tartanak vissza, fagyasztottak be. Így  az érintett uniós alapokból és az említett helyreállítási eszközből folyósított támogatások nagyobbik része továbbra sem érkezhet Magyarországra.<br><br><br><b>
+<b>Mekkora pénzről van szó?</b><br><br>A 2021-2027-es európai uniós költségvetésből, konkrétabban a kohéziós és egyéb alapokból, valamint a Helyreállítási Eszközből (RRF) összesen 21,8 milliárd eurót, azaz több mint 8 300 milliárd forintot tartanak vissza, fagyasztottak be. Így  az érintett uniós alapokból és az említett helyreállítási eszközből folyósított támogatások nagyobbik része továbbra sem érkezhet Magyarországra.<br><br><br><b>
 Milyen eljárásokban zárolták az uniós támogatásokat?</b><br><br>
 A pénzcsapokat az uniós jog által meghatározott, minden tagállamra vonatkozó eljárásokat követve zárták el, és úgy is fogják újranyitni.<br><br>
 A pénzek visszatartása három uniós eljárásra vezethető vissza:<br>
