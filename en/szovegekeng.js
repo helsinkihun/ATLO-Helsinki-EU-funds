@@ -1,6 +1,6 @@
 var szovegintro = `
 <div id="refresh"><b>Last update: 18 January 2024</b></div><br><br>
-<b>How much money is at stake?</b><br><br>Suspended EU payments for Hungary amount to EUR 21,8 billion including cohesion and home affairs funds of the 2021-2027 Multiannual Financial Framework (MFF) and recovery funds of the Recovery and Resilience Facility (RRF). This means that up until 2024, EUR  9,7 billion under the on-going MFF as well as EUR 0.9 billion in the form of  pre-financing under the RRF become available.
+<b>How much money is at stake?</b><br><br>Suspended EU payments for Hungary amount to EUR 21.8 billion including cohesion and home affairs funds of the 2021-2027 Multiannual Financial Framework (MFF) and recovery funds of the Recovery and Resilience Facility (RRF). This means that up until 2024, EUR  9.7 billion under the on-going MFF as well as EUR 0.9 billion in the form of  pre-financing under the RRF become available.
 <br><br><br><b>
 What is the legal basis for suspension?</b><br><br>
 The financial measures are possible under three Regulations attached to the Union budget:<br>
@@ -49,7 +49,7 @@ The European Commission assesses and approves the programmes submitted by Member
 <ol type="A" start="1"><li><b>A.	Independence of the judiciary (Article 47 of the Charter)</b></li></ol><br>
 The most comprehensive breach concerning the Hungarian programmes related to the shortcomings concerning the independence of the judiciary.<br><br>
 The European Commission found that the justice system in Hungary failed to guarantee the fundamental right to an effective remedy and a fair trial. Under these circumstances, the effective application of EU law, including  the compliance with the Charter could not be ensured which affected all Hungarian operational programmes. The exception to this was IOP Plus, which does not contain specific development objectives.<br><br>
-<br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21,3 funding was blocked until the identified issues were properly addressed. To unblock the funds, Hungary strengthened elements of judicial independence in four areas:
+<br>Due to deficiencies around judicial independence, Hungary’s access to EUR 21.3 funding was blocked until the identified issues were properly addressed. To unblock the funds, Hungary strengthened elements of judicial independence in four areas:
 <ol type='1' >
 <li>Strengthening the role and powers of the National Judicial Council to counterbalance the powers of the President of the National Office for the Judiciary</li>
 <li>Strengthening judicial independence of the Supreme Court (Kúria)</li>
@@ -57,7 +57,7 @@ The European Commission found that the justice system in Hungary failed to guara
 <li>Removing the possibility for public authorities to challenge final decisions before the Constitutional Court</li>
 </ol>
 The judicial reform for reinfocing judicial independence was adopted by the Hungarian Parliament on 3 May 2023 and submitted to the European Commission for evaluation in July 2023. On 13 December 2023, the Commission lifted the suspension of all relevant operational programmes by approving the reform.<br><br>
-<i><b>The decision unfroze funds which are not blocked by additional issues pertaining to corruption, fundamental right violations and the lack of appropriate policy framework. The released funding amounts to EUR 8,8 billion.</b></i>
+<i><b>The decision unfroze funds which are not blocked by additional issues pertaining to corruption, fundamental rights violations and the lack of appropriate policy framework. The released funding amounts to EUR 8,8 billion.</b></i>
 
 `
 
@@ -70,7 +70,7 @@ Hungary fails to respect multiple fundamental rights enshrined in the EU Charter
 <li>The right to asylum is denied due to systemic shortcomings of the Hungarian asylum system.</li>
 <li>The right to an effective remedy and a fair trial is not guaranteed by the Hungarian judiciary.</li>
 </ol>
-Following the approval of the Hungarian judicial reform, EUR 2.7 billion remains blocked due to fundamental right violations in the remaining three areas.
+Following the approval of the Hungarian judicial reform, EUR 2.7 billion remains blocked due to fundamental rights violations in the remaining three areas.
 `
 
 
@@ -85,7 +85,7 @@ EDIOP PLUS:
 <ul><li>Capacity building for small and medium size enterprises (RSO1.4)</li></ul>
 DROP PLUS:
 <ul><li>Fostering cooperation between higher education institutions and private enterprises in research and development (DRSO1.1)</li></ul>
-<i><b>EUR 2,7 billion is suspended until academic freedom is respected</b></i>
+<i><b>EUR 2.7 billion is suspended until academic freedom is respected</b></i>
 
 
 `
@@ -133,7 +133,7 @@ The fact that payments for the affected specific objectives are suspended does n
 `
 
 var ch7a=`
-<i><b>EUR 9,6 billion remain conditional on the complete fulfillment of policy enabling conditions</b></i>
+<i><b>EUR 9.6 billion remains conditional on the complete fulfillment of policy enabling conditions</b></i>
 `
 
 
@@ -147,7 +147,7 @@ EEEOP PLUS:
 <ul><li>Energy efficiency renovation of privately owned buildings.  (KRSO2.1)</li></ul>
 DROP PLUS:
 <ul><li>Energy system modernisation in residential buildings. (DRSO2.1)</li></ul>
-<i><b>EUR 1,15 billion remain conditional on the fulfillment of the enabling condition</b></i>
+<i><b>EUR 1.15 billion remains conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -162,7 +162,7 @@ EEEOP PLUS:
 <ul><li>Introduction of renewable energy sources in privately owned buildings (KRSO2.2)</li></ul>
 DROP PLUS:
 <ul><li>Energy system modernisation in residential buildings. (DRSO2.1)</li></ul>
-<i><b>EUR 1,73 billion remain conditional on the fulfillment of the enabling condition</b></i>
+<i><b>EUR 1.73 billion remains conditional on the fulfillment of the enabling condition</b></i>
 `
 
 var ch10=`
@@ -170,7 +170,7 @@ var ch10=`
 The shortcomings of the required strategic policy framework blocks funding for 1 specific objective under the EEEOP PLUS operational programme until planning in the water management sector becomes more strategic.<br><br>
 EEEOP PLUS:
 <ul><li>Improvement of wastewater and drinking water networks.  (RSO2.5)</li></ul><br>
-<i><b>EUR 550 million remain conditional on the fulfillment of the enabling condition</b></i>
+<i><b>EUR 550 million remains conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -181,7 +181,7 @@ EEEOP PLUS:
 <ul><li>Improvement of selective waste collection systems. (RSO2.6)</li></ul>
 DROP PLUS:
 <ul><li>IT improvements in waste management. (DRSO2.6)</li></ul>
-<i><b>EUR 258 million remain conditional on the fulfillment of the enabling condition</b></i>
+<i><b>EUR 258 million remains conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -191,7 +191,7 @@ The shortcomings of the required strategic policy framework blocks funding for 2
 ITDOP PLUS:
 <ul><li>Modernisation and electrification of railway lines (RSO3.1)</li></ul>
 <ul><li>Development of cycling infrastructure (RSO3.2)</li></ul><br>
-<i><b>EUR 1,76 billion remain conditional on the fulfillment of the enabling condition</b></i>
+<i><b>EUR 1.76 billion remains conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -200,7 +200,7 @@ var ch13=`
 The shortcomings of the required strategic policy framework blocks funding for 1 specific objective of the EDIOP PLUS operational programme until the planning of labour market policies becomes more strategic.<br><br>
 EDIOP PLUS:
 <ul><li>Training for job-seekers, capacity-building of government offices in the field of employment policy. (ESO4.1)</li></ul>
-<i><b>EUR 341 million remain conditional on the fulfillment of the enabling condition</b></i>
+<i><b>EUR 341 million remains conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -209,7 +209,7 @@ var ch14=`
 The shortcomings of the required strategic policy framework blocks funding for 1 specific objective of the HRDOP PLUS operational programme until the planning of gender equality and women’s empowerment policies becomes more strategic.<br><br>
 HRDOP PLUS:
 <ul><li>Development of child-care services at workplaces, including municipalities. Targeted support of parents with young children in higher education (ESO4.3)</li></ul>
-<i><b>EUR 29 million remain conditional on the fulfillment of the enabling condition</b></i>
+<i><b>EUR 29 million remains conditional on the fulfillment of the enabling condition</b></i>
 
 `
 
@@ -225,7 +225,7 @@ HRDOP PLUS:
 DROP PLUS:
 <ul><li>Development of IT infrastructure in public education (ESO4.7)</li></ul>
 <ul><li>Increasing digital competences of the population through adult education.  (DESO4.5)</li></ul>
-<i><b>EUR 3,3 billion remains conditional on the fulfillment of the enabling condition. </b></i>
+<i><b>EUR 3.3 billion remains conditional on the fulfillment of the enabling condition. </b></i>
 
 `
 
@@ -272,7 +272,7 @@ The withdrawal of the financial measures is conditional on the proper implementa
 The Hungarian Government shall report every three months on the state of implementation of the reforms to the European Commission. New evidence can be submitted any time, in the form of a written notification, to show that the identified shortcomings had been sufficiently addressed.<br><br> 
 The Commission may assess the implementation of new measures and, in the event of positive assessment, propose the Council to withdraw the adopted financial measures or reduce suspension.<br><br> 
 Up to this date, the implementation of the 17 anti-corruption measures remains incomplete. Thus, the financial restrictions adopted by the Council for the protection of the Union’s financial interests are unchanged and in place.<br><br> 
-<i><b>EUR 6,3 billion is conditional on the full implemetation of the 17 remedial measures.</b></i>
+<i><b>EUR 6.3 billion is conditional on the full implemetation of the 17 remedial measures.</b></i>
 
 `
 
@@ -300,7 +300,7 @@ Hungary is eligible for EUR 5.8 billion in grant and EUR 9.4 billion in loan und
 var ch21=`
 As a consequence of systemic corruption and issues related to the independence of the judiciary, Hungary's recovery plan, in addition to the regular milestones and objectives, also includes 27 “super-milestones” which are designed to upgrade the national anti-corruption framework and strengthen the integrity of the judiciary for the protection of the Union’s financial interests. 17 out of the 27 “super-milestones” are identical to the remedial measures proposed under the conditionality regulation and 4 “super-milestones” are equivalent to the judicial reforms implemented under the CPR.<br><br>
 All identified “super milestones” shall be fulfilled before the submission of the first payment request under the RRF.<br><br>
-<i><b>Recovery funding of EUR 9,5 billion remains conditional on the achievement of the 27 “super milestones”.</b></i>
+<i><b>Recovery funding of EUR 9.5 billion remains conditional on the achievement of the 27 “super milestones”.</b></i>
 
 `
 
@@ -348,7 +348,7 @@ The Commission approved Hungary’s Partnership Agreement and 11 operational pro
 Until Hungary remedies the detected issues in the 4 areas, payments are  suspended for those specific objectives that are related to the identified human right violations.<br><br>
 <ul><li>13 December 2023</li></ul>
 The Commission released those EU funds which were not blocked by additional issues pertaining to the application of the Charter, corruption or shortcomings of the national policy framework. 
-Payments of EUR 12 billion under the MFF and EUR 9,5 under the RRF remain  conditional on the implementation of a series of remedial measures.
+Payments of EUR 12 billion under the MFF and EUR 9.5 billion under the RRF remain  conditional on the implementation of a series of remedial measures.
 <br><br><div class="keszitettek">Created by:</div><br><br><div class="keszitettek2">Balázs Gaál, Krisztián Szabó, Attila Bátorfy</div><br><br><div class="logoend"><img class="logoend1" onclick='redirect_Page4(this)'src="https://atlo.team/wp-content/uploads/2023/12/helsinki.png"><img class="logoend1" onclick='redirect_Page5(this)'src="https://atlo.team/wp-content/uploads/2023/12/atlatszofav.png"><img class="logoend1" onclick='redirect_Page6(this)'src="https://atlo.team/wp-content/uploads/2023/12/atlofekete.png"></div>
 
 `
