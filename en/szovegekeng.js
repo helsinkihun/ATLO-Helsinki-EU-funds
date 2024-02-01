@@ -138,7 +138,6 @@ var ch7a=`
 
 
 var ch8=`
-<b>Governance of the energy sector </b><br><br>
 <ol type="a" start="1"><li><b>Strategic policy framework to support energy efficiency renovation of residential and non-residential buildings</b></li></ol><br>
 The shortcomings of the required strategic policy framework blocks funding for 3 specific objectives under 3 operational programmes until an appropriate energy efficiency renovation strategy is in place.<br><br>
 TSDOP PLUS:
