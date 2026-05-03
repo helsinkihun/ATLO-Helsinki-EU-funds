@@ -145,33 +145,6 @@ A pénzek lehívásához a következő területeken kell az állami stratégiaal
 
 var ch8=`
 <b>Nem teljesülő szakpolitikai feljogosító feltételek (TEC):</b><br><br>
-<ol type="a" start="1"><li><b>Szakpolitikai keret a lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítására (TEC2.1)</b></li></ol><br>
-A szakpolitikai keret hiánya 3 operatív program egy-egy egyedi célkitűzését érinti. Ezekre a fejlesztésekre Magyarország addig nem hívhat le uniós forrást, ameddig nem készül az épületek energiahatékonysági felújítására vonatkozó stratégia.<br><br>
-TOP PLUSZ:
-<ul><li>Helyi önkormányzatok épületállományának energiahatékonysági felújítása (RSO2.1)</li></ul>
-KEHOP PLUSZ:
-<ul><li>Nem önkormányzati tulajdonú középületek, lakó- és nem lakás célú épületek energiahatékonysági felújítása (KRSO2.1)</li></ul>
-DIMOP PLUSZ:
-<ul><li>Lakóépületek fűtési/hűtési rendszerének korszerűsítése (DRSO2.1)</li></ul>
-<i>A szakpolitikai előfeltétel teljesítéséig <b>1,15 milliárd euró</b> marad befagyasztva.</i>
-
-`
-
-var ch9=`
-<ol type="a" start="2"><li><b>Szakpolitikai keret az energiaágazat irányítására (TEC2.2)</b></li></ol><br>
-Az szakpolitikai keret hiánya három operatív program öt egyedi célkitűzését érinti, amelyekből hármat a lakóépületek energiahatékonysági fejlesztését szolgáló szakpolitikai keret hiánya is blokkol.  Ezekre a fejlesztésekre addig nem hívható le uniós forrást, ameddig nem készül az energiaszektor irányítására vonatkozó stratégia.<br><br>
-TOP PLUSZ:
-<ul><li>Helyi önkormányzatok épületállományának energiahatékonysági felújítása (RSO2.1)</li></ul>
-<ul><li>Helyi önkormányzatok épületállományának megújuló energiaforrásokkal való ellátása (RSO2.2)</li></ul>
-KEHOP PLUSZ:
-<ul><li>Nem önkormányzati tulajdonú középületek, lakó- és nem lakás célú épületek energiahatékonysági felújítása (KRSO2.1)</li></ul>
-<ul><li>Nem önkormányzati tulajdonú középületek, lakó- és nem lakás célú épületek megújuló energiaforrásokkal való ellátása (KRSO2.2)</li></ul>
-DIMOP PLUSZ:
-<ul><li>Lakóépületek fűtési/hűtési rendszerének korszerűsítése (DRSO2.1)</li></ul>
-<i>A szakpolitikai előfeltétel teljesítéséig <b>1,73 milliárd euró</b> marad befagyasztva.</i>
-`
-
-var ch10=`
 <ol type="a" start="3"><li><b>Naprakész tervezés az ivóvíz- és szennyvízágazatokban szükséges beruházásokról (TEC2.5)</b></li></ol><br>
 A szakpolitikai előfeltétel hiánya a KEHOP egy egyedi célkitűzését érinti. Erre a fejlesztésre Magyarország addig nem hívhat le uniós forrást, ameddig nem lesz szakmaibb a vízgazdálkodás állami tervezése.<br><br>
 KEHOP PLUSZ:
@@ -191,47 +164,12 @@ DIMOP PLUSZ:
 
 `
 
-var ch12=`
-<ol type="a" start="5"><li><b>Átfogó közlekedéstervezés (TEC3.1)</b></li></ol><br>
-A szakpolitikai előfeltétel hiánya az IKOP két egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós támogatást lehívni, ameddig nem lesz szakmaibb a közlekedésfejlesztés állami tervezése.<br><br>
-IKOP PLUSZ:
-<ul><li>Vasútvonalak korszerűsítése és villamosítása (RSO3.1)</li></ul>
-<ul><li>Kerékpáros infrastruktúra fejlesztése (RSO3.2)</li></ul><br>
-<i>A szakpolitikai előfeltétel teljesítéséig <b>1,76 milliárd euró</b> marad befagyasztva</i>
-
-`
-
-var ch13=`
-<ol type="a" start="6"><li><b>Szakpolitikai keret a munkaerőpiac alakítására (TEC4.1)</b></li></ol><br>
-A szakpolitikai keret hiánya a GINOP egy egyedi célkitűzését érinti. Erre a fejlesztésre addig nem lehet uniós pénzt lehívni, ameddig a foglalkoztatáspolitika állami tervezése nem lesz szakmaibb.<br><br>
-GINOP PLUSZ:
-<ul><li>Az inaktívak és álláskeresők elhelyezkedését támogató képzések megvalósítása, a kormányhivatalok fejlesztése foglalkoztatáspolitikai területen (ESO4.1)</li></ul>
-<i>A szakpolitikai előfeltétel teljesítéséig <b>341 millió euró</b> marad befagyasztva.</i>
-
-`
-
 var ch14=`
 <ol type="a" start="7"><li><b>A nemek közötti egyenlőséget célzó szakpolitikai keret (TEC4.2)</b></li></ol><br>
 A szakpolitikai keret hiánya az EFOP egy egyedi célkitűzését érinti. Erre a fejlesztésre addig nem lehet uniós pénzt lehívni, ameddig a nők munkaerő-piaci és magánéleti támogatásának állami tervezése nem lesz szakmaibb.<br><br>
 EFOP PLUSZ:
 <ul><li>Munkahelyi bölcsődei szolgáltatások biztosítása, beleértve az önkormányzatokat is. Hallgatói jogviszonnyal rendelkező kisgyermeket nevelő szülők támogatása (ESO4.3)</li></ul>
 <i>A szakpolitikai előfeltétel teljesítéséig <b>29 millió euró</b> marad befagyasztva.</i>
-
-`
-
-var ch15=`
-<ol type="a" start="8"><li><b>Az oktatási és képzési rendszer minden szintjét felölelő szakpolitikai keret (TEC4.3)</b></li></ol><br>
-A szakpolitikai keret hiánya három operatív program összesen hat egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az állami oktatáspolitika tervezése nem lesz szakmaibb.<br><br>
-GINOP PLUSZ:
-<ul><li>A szakképzési rendszer fejlesztése (RSO4.2)</li></ul>
-<ul><li>Hátrányos helyzetű tanulókat segítő programok megvalósítása a felsőoktatás és a szakképzés területén (ESO4.6)</li></ul>
-EFOP PLUSZ:
-<ul><li>A köznevelésben dolgozó pedagógusok átlagbérének növelésével a bérszínvonal tartós rendezése (EESO4.5)</li></ul>
-<ul><li>Pedagógusok továbbképzési rendszerének megújítása (EESO4.6)</li></ul>
-DIMOP PLUSZ:
-<ul><li>A digitális oktatás infrastruktúrájának fejlesztése (ESO4.7)</li></ul>
-<ul><li>A lakosság digitális kompetenciáinak fejlesztése felnőttképzés révén (DESO4.5)</li></ul>
-<i>A szakpolitikai előfeltétel teljesítéséig <b>3,3 milliárd euró</b> marad befagyasztva, beleértve a tanárok bérfejlesztésére elkülönített támogatásokat.</i>
 
 `
 
@@ -254,18 +192,6 @@ TOP PLUSZ:
 EFOP PLUSZ:
 <ul><li>Szegregált helyzetben élő emberek helyzetének komplex javítása (EESO4.10)</li></ul>
 <i>A szakpolitikai előfeltétel teljesítéséig <b>89 millió euró</b> marad befagyasztva.</i>
-
-`
-
-var ch18=`
-<ol type="a" start="11"><li><b>Az egészségügyre és tartós ápolás-gondozásra vonatkozó szakpolitikai keret (TEC4.6)</b></li></ol><br>
-A szakpolitikai keret hiánya két operatív program összesen három egyedi célkitűzését érinti. Ezekre a fejlesztésekre addig nem lehet uniós pénzt lehívni, ameddig az egészségügy fejlesztésének állami tervezése nem lesz szakmaibb.<br><br>
-TOP PLUSZ:
-<ul><li>A szociális ellátásban dolgozók helyzetének javítása képzések, illetve mobilitási- és lakhatási támogatások révén (RSO4.5)</li></ul>
-<ul><li>Az egészségügy infrastrukturális fejlesztése (ESO4.11)</li></ul>
-EFOP PLUSZ:
-<ul><li>Fogyatékossággal élő személyeknek, pszichiátriai betegeknek, időseknek, valamint hajléktalanoknak nyújtott szolgáltatások fejlesztése (EESO4.11)</li></ul>
-<i>A szakpolitikai előfeltétel teljesítéséig <b>407 millió euró</b> marad befagyasztva.</i>
 
 `
 
