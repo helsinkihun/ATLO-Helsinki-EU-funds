@@ -57,7 +57,7 @@ Az igazságszolgáltatás problémáinak orvoslásáig 21,3 milliárd eurót fag
         <li>A magyar bírák azon jogának megfelelő biztosítása, hogy az Európai Unió Bírósága elé előzetes döntéshozatal iránti kérelmet terjesszenek.</li>
     </ol>
 Az Országgyűlés 2023. május 3-án fogadta el a bíróságok függetlenségét megerősíteni hivatott törvényt, amelyet a kormány 2023 júliusában nyújtott be az Európai Bizottságnak értékelésre. Végül a Bizottság 2023. december 13-án jóváhagyta a magyar igazságszolgáltatási reformot. Így a minden releváns operatív programot átfogó módon érintő befagyasztási ok megszűnt.<br><br>
-<i><b>Az igazságszolgáltatási reform jóváhagyásával csak azon források szabadultak fel, amelyek további problémák miatt nem kerültek korábban zárolásra. Ezzel Magyarország 8,8 milliárd euró támogatáshoz jutott. Ugyanakkor az Európai Parlament megtámadta ezt a döntést az Európai Unió Bíróságán tartalmi és eljárásjogi alapokon. A Bíróság főtanácsnoka 2026. február 12-én kelt indítványában azt javasolta, hogy a Bíróság semmisítse meg a Bizottság döntését. Az ítélet várhatóan még 2026-ban megszületik.</b></i>
+<i><b>Az igazságszolgáltatási reform jóváhagyásával csak azon források szabadultak fel, amelyek további problémák miatt nem kerültek korábban zárolásra. Ezzel Magyarország 8,8 milliárd euró támogatáshoz jutott. Ugyanakkor az Európai Parlament megtámadta ezt a döntést az Európai Unió Bíróságán tartalmi és eljárásjogi alapokon. A Bíróság főtanácsnoka 2026. február 12-én kelt indítványában azt <a href="https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/cp260015hu.pdf"target="_blank">javasolta</a>, hogy a Bíróság semmisítse meg a Bizottság döntését. Az ítélet várhatóan még 2026-ban megszületik.</b></i>
 
 `
 
