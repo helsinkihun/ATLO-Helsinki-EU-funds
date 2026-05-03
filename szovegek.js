@@ -131,20 +131,14 @@ Az, hogy a kormány nem hívhat le uniós forrásokat az érintett célok megval
 `
 
 var ch7a=`
-Azért, mert Magyarország 11 területen nem teljesíti a támogatások felhasználásához szükséges szakpolitikai előfeltételeket (TEC), összesen <b>9,6 milliárd euró</b> van befagyasztva.
+Azért, mert Magyarország 5 területen nem teljesíti a támogatások felhasználásához szükséges szakpolitikai előfeltételeket (TEC), összesen <b>9,6 milliárd euró</b> van befagyasztva.
 A pénzek lehívásához a következő területeken kell az állami stratégiaalkotást magasabb szintre emelni:
 <ol type='1' >
-        <li>Lakóépületek és a nem lakáscélú épületek energiahatékonyság céljából történő felújítása (TEC2.1)</li>
-        <li>Az energiaágazat irányítása (TEC2.2)</li>
         <li>Ivóvíz- és szennyvízágazatokban szükséges beruházások (TEC2.5)</li>
         <li>Hulladékgazdálkodás (TEC2.6)</li>
-        <li>Átfogó közlekedéstervezés (TEC3.1)</li>
-        <li>A munkaerőpiac alakítása (TEC4.1)</li>
         <li>A nemek közötti egyenlőség előmozdítása (TEC4.2)</li>
-        <li>Az oktatási és képzési rendszer fejlesztése (TEC4.3)</li>
         <li>A társadalmi befogadás előmozdítása és a szegénység csökkentése (TEC4.4)</li>
         <li>A romák befogadásának előmozdítása (TEC4.5)</li>
-        <li>Az egészségügy és a tartós ápolás-gondozási rendszer fejlesztése (TEC4.6)</li>
     </ol>
 `
 
