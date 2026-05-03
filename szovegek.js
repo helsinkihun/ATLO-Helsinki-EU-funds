@@ -92,7 +92,7 @@ DIMOP PLUSZ:
 var ch5=`
 <ol type="A" start="3"><li><b>Szexuális kisebbségekhez tartozó emberek jogai (Charta 1., 7., 11., 21. cikkei):</b></li></ol><br>
 Az Európai Bizottság álláspontja szerint a 2021 júniusában elfogadott „gyermekvédelmi törvény” (a homofób „propagandatörvény”) sérti a szexuális kisebbségekhez tartozók emberi méltósághoz, a magánélet védelméhez, a gondolat és lelkiismeret szabadságához, valamint a megkülönböztetésmentességhez való jogát azáltal, hogy a törvény tiltja a születési nemnek megfelelő önazonosságtól való eltérés és a homoszexualitás ábrázolását 18 éven aluliaknak szánt kiadványokban vagy szexuális felvilágosító képzéseken.<br><br>
-Az Európai Bizottság a propagandatörvény miatt kötelezettségszegési eljárást is indított a magyar állammal szemben, amely jelenleg is folyamatban van az Európai Unió Bírósága előtt.<br><br>
+Az Európai Bizottság a propagandatörvény miatt kötelezettségszegési eljárást is indított a magyar állammal szemben. Az Európai Unió Bírósága ebben az ügyben hozott 2026. április 21-én meghozott történelmi jelentőségű ítéletében megállapította, hogy a homofób „propagandatörvény” az uniós jogba, többek között az Európai Unióról szóló Szerződés 2. cikkében meghatározott uniós alapértékekbe <a href="https://helsinki.hu/tortenelmi-dontes-jogserto-a-propagandatorveny/"target="_blank">ütközik</a>.<br><br>
 Ez a probléma kapcsolatba hozható a GINOP PLUSZ, EFOP PLUSZ és DIMOP PLUSZ azon egyedi célkitűzéseivel, amelyek közoktatásban részt vevő gyermekek fejlesztését irányozzák elő.<br><br>
 GINOP PLUSZ:
 <ul><li>Oktatói továbbképzés szakiskolákban, valamint digitális tananyag fejlesztése és karriertanácsadási rendszer létrehozása szakképzésben tanulók számára (ESO4.5)</li></ul>
